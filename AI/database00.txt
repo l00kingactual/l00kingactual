@@ -1,0 +1,39 @@
+import sqlite3
+import networkx as nx
+
+# Initialize SQL Database
+conn = sqlite3.connect('data_index.db')
+cursor = conn.cursor()
+
+# Initialize Graph
+G = nx.DiGraph()
+
+# Read Data (Assuming data is in a dictionary called 'combined_data')
+combined_data = {}  # Replace with your actual data
+
+# Create SQL Tables and Graph Nodes
+for h1, content in combined_data.items():
+    # SQL: Create table for each h1
+    cursor.execute(f"CREATE TABLE IF NOT EXISTS {h1} (Content TEXT)")
+    
+    # Graph: Add node for each h1
+    G.add_node(h1)
+
+# Insert Data into SQL and Graph
+for h1, content in combined_data.items():
+    # SQL: Insert content into table
+    for line in content:
+        cursor.execute(f"INSERT INTO {h1} (Content) VALUES (?)", (line,))
+    
+    # Graph: Add edges (Assuming some logic to determine edges)
+    # G.add_edge(h1, other_h1)
+
+# Commit SQL changes and close connection
+conn.commit()
+conn.close()
+
+# Analyze Graph (Optional)
+# ...
+
+# Save Graph (Optional)
+# nx.write_gpickle(G, "data_graph.gpickle")
