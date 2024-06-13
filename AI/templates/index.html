@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        google.charts.load('current', {'packages':['corechart']});
+        google.charts.setOnLoadCallback(drawChart);
+
+        function drawChart() {
+            fetch('/data').then(response => response.json()).then(data => {
+                var dataTable = new google.visualization.DataTable();
+                dataTable.addColumn('string', 'Topping');
+                dataTable.addColumn('number', 'Count');
+                dataTable.addRows(data.Toppings.map((topping, i) => [topping, data.Counts[i]]));
+
+                var options = {
+                    title: 'Toppings I Like On My Pizza'
+                };
+
+                var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
+                chart.draw(dataTable, options);
+            });
+        }
+    </script>
+</head>
+<body>
+    <div id="chart_div" style="width: 400px; height: 300px;"></div>
+</body>
+</html>
