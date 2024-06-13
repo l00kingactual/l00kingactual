@@ -1,0 +1,282 @@
+ERROR:root:Failed to connect to the database: [Errno 2] No such file or directory: 'mysql_credentials.json'
+INFO:root:Successfully connected to the database.
+INFO:root:Successfully read the Excel file.
+ERROR:root:An error occurred while processing sheet csv_allNGCobjects: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), Other names VARCHAR(255), Object type VARCHAR(255), Constel' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Andromeda27s_satellite_gala: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from Sunmillion ly VARCHAR(255), Right Ascension VARCHAR(255), Declination VARCH' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Asteroid_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_astronomical_data: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_black_holes: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'holes VARCHAR(255), Unnamed: 1 VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Black_Hole_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_brightest_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 VARCHAR(255), This table needs additional citations for verification Please ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_brown_dwarfs: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 VARCHAR(255), This article needs additional citations for verification Pleas' at line 1")
+ERROR:root:An error occurred while processing sheet csv_centaurs_small_Solar_System: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or first observed6f VARCHAR(255), Dgkm VARCHAR(255), Classified as centaurby sou' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Comet_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_constellationAbrev: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_constellationsByArea_clean0: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1")
+ERROR:root:An error occurred while processing sheet csv_constellationStars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1")
+ERROR:root:An error occurred while processing sheet csv_constellations_clean00: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_damocloids: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'criteria and classes VARCHAR(255), qAU VARCHAR(255), QAU VARCHAR(255), Unusual V' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Dwarf_planet#Recognized: (1113, 'A table must have at least 1 column')
+ERROR:root:An error occurred while processing sheet csv_Dwarf_planetRecognized: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_exceptional_asteroids: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1")
+ERROR:root:An error occurred while processing sheet csv_exoplants: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1")
+ERROR:root:An error occurred while processing sheet csv_galaxies: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of name VARCHAR(255), Notes VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_galaxies_with_richest_globu: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of globular clusters VARCHAR(255), Notes VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Galaxy_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_Galaxy_filamentList: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of a series on VARCHAR(255), Unnamed: 1 VARCHAR(255), Unnamed: 2 VARCHAR(255), U' at line 1")
+ERROR:root:An error occurred while processing sheet csv_galaxy_groups_and_clusters: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cluster VARCHAR(255), Notes VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_gammaray_bursts: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by VARCHAR(255), Notes VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_geological_features_of_the_: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'features of space objects VARCHAR(255), Unnamed: 1 VARCHAR(255), Unnamed: 2 VARC' at line 1")
+ERROR:root:An error occurred while processing sheet csv_globular_clusters: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'J2000 VARCHAR(255), Constellation VARCHAR(255), ApparentMagnitude VARCHAR(255), ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_gravitationally_rounded_obj: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_largest_galaxies: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'namedesignation VARCHAR(255), Major axis diameter in lightyears INT, Minor axis ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Large_quasar_group: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bang\xa0 Universe\nAge of the universe\nChronology of the universe VARCHAR(255), Unn' at line 1")
+ERROR:root:An error occurred while processing sheet csv_messierConstellationTypes: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Name VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_messierObjectAbrev: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_messierObjects: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_messier_objects_cleaned: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), NGCIC number VARCHAR(255), Common name VARCHAR(255), Pictur' at line 1")
+ERROR:root:An error occurred while processing sheet csv_meteor_showers: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of 2022 VARCHAR(255), Peakas of 2022 VARCHAR(255), Celestial longitude\n\n\n\n\u03bb\n\n\n\n' at line 1")
+ERROR:root:An error occurred while processing sheet csv_minor_planets: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 8 VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_minor_planet_moons: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class VARCHAR(255), Designation.1 VARCHAR(255), Discoverydate FLOAT, Announcemen' at line 1")
+ERROR:root:An error occurred while processing sheet csv_most_luminous_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'star VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_most_massive_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'star VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_multiplanetary_systems: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'velocity \xa0\xa0transit VARCHAR(255), timing \xa0\xa0direct detection \xa0\xa0microlensing ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_natural_satellites: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundedequilibrium objects\nPossible dwarf planets\nMoons natural satellites\nPlane' at line 1")
+ERROR:root:An error occurred while processing sheet csv_nearest_bright_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Designation VARCHAR(255), StellarClass VARCHAR(255), Magnitude VARCHAR(255), Rig' at line 1")
+ERROR:root:An error occurred while processing sheet csv_nearest_galaxies: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 VARCHAR(255), Picture VARCHAR(255), Galaxy VARCHAR(255), Type VARCHAR(255), ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_nearest_known_black_holes: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and additional references VARCHAR(255), Unnamed: 4 VARCHAR(255), Unnamed: 5 VARC' at line 1")
+ERROR:root:An error occurred while processing sheet csv_nearest_stars_and_brown_dwa: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 FLOAT, Bright star absolute magnitude of 85 or brighter VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_nebulae: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nebula VARCHAR(255), Dark nebula\nDiffuse nebula\nEmission nebula\nPlanetary nebula' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Nebula_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_10012000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_11000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_20013000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_30014000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_40015000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_50016000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_60017000: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), Other names VARCHAR(255), Object type VARCHAR(255), Constel' at line 1")
+ERROR:root:An error occurred while processing sheet csv_NGC_objects_70017840: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1")
+ERROR:root:An error occurred while processing sheet csv_planetary_nebulae: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Cataloguea VARCHAR(255), NGCa VARCHAR(255), Otherdesignationa VARCHAR(255), Date' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Planet_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_possible_dwarf_planets: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundedequilibrium objects\nPossible dwarf planets\nMoons natural satellites\nPlane' at line 1")
+ERROR:root:An error occurred while processing sheet csv_quasars: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_Quasar_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_satellite_galaxies_of_the_M: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'kpc INT, Distance  kpc INT, Absolute visual magnitude INT, Type VARCHAR(255), Di' at line 1")
+ERROR:root:An error occurred while processing sheet csv_semiregular_variable_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mV VARCHAR(255), Minimum mV VARCHAR(255), Range INT, Period days FLOAT, Spectral' at line 1")
+ERROR:root:An error occurred while processing sheet csv_small_Solar_System_bodies: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Aten asteroid\nAsteroid belt\nFamily\nJupiter trojan\nNearEarth\nSpectral types VARCH' at line 2")
+ERROR:root:An error occurred while processing sheet csv_Solar_System_objects: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundedequilibrium objects\nPossible dwarf planets\nMoons natural satellites\nPlane' at line 1")
+ERROR:root:An error occurred while processing sheet csv_stars_that_dim_oddly: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'designation VARCHAR(255), Stellarclass VARCHAR(255), Magnitude VARCHAR(255), Rig' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Star_dataset: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_Supercluster: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'supercluster VARCHAR(255), Data VARCHAR(255), Notes VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet csv_supernovae: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'I INT, Type II INT, LBV INT, Brighter thanapmag 13 INT, Apmag of brighestSuperno' at line 1")
+ERROR:root:An error occurred while processing sheet csv_supernova_remnants: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Right ascension VARCHAR(255), Declination VARCHAR(255), First visible from Earth' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Tolman_Oppenheimer_Volkoff_: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class VARCHAR(255), Mass determination method VARCHAR(255), Notes VARCHAR(255), ' at line 1")
+ERROR:root:An error occurred while processing sheet Recovered_Sheet1: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class VARCHAR(255), Mass determination method VARCHAR(255), Notes VARCHAR(255), ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_Triangulum27s_suspected_sat: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from Sunmillion ly FLOAT, Magnitude FLOAT, Yeardiscovered INT)' at line 1")
+ERROR:root:An error occurred while processing sheet csv_types: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_variable_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'name VARCHAR(255), Constellation VARCHAR(255), Discovery VARCHAR(255), Apparent ' at line 1")
+ERROR:root:An error occurred while processing sheet csv_voids: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_white_dwarfs: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet csv_Xray_pulsars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'binaries VARCHAR(255), Spin period sec INT, Orbital period days VARCHAR(255), Co' at line 1")
+ERROR:root:An error occurred while processing sheet md_constellationsAlphabetical: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet md_LuminosityClasses: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or Ia Hypergiants VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet md_SpectralTypes_md: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Extremely hot blue stars with temperatures  30000 K VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet txt_ptolemy: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1")
+ERROR:root:An error occurred while processing sheet messier_clean: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), NGCIC number VARCHAR(255), Common name VARCHAR(255), Pictur' at line 1")
+ERROR:root:An error occurred while processing sheet constellation_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1")
+ERROR:root:An error occurred while processing sheet constellation_index: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet stellar_classification: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Class VARCHAR(255), Description VARCHAR(255), Systems VARCHAR(255), Examples VAR' at line 1")
+ERROR:root:An error occurred while processing sheet numerical_classification: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Value INT, Class_Subdivision VARCHAR(255), Description VARCHAR(255))' at line 1")
+ERROR:root:An error occurred while processing sheet 128_closest_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist\xa0ly FLOAT, Sp ' at line 1")
+ERROR:root:An error occurred while processing sheet 256_closest_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist\xa0ly FLOAT, Sp ' at line 1")
+ERROR:root:An error occurred while processing sheet 512_closest_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist\xa0ly FLOAT, Sp ' at line 1")
+ERROR:root:An error occurred while processing sheet 1024_closest_stars: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist\xa0ly FLOAT, Sp ' at line 1")
+ERROR:root:An error occurred while processing sheet Galaxies: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Name VARCHAR(255), Distance billion light years INT, Mass kg FLOAT, Type VARCHAR' at line 1")
+ERROR:root:An error occurred while processing sheet globular_clusters: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Right ascension VARCHAR(255), Epoch\xa0J2000 Declination VARCHAR(255), Constellati' at line 1")
+ERROR:root:An error occurred while processing sheet unnumbered_minor_planets: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 VARCHAR(255), Designation VARCHAR(255), Class VARCHAR(255), Physical H VARCHAR' at line 1")
+ERROR:root:An error occurred while processing sheet dark_nebulae: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting
+ERROR:root:An error occurred while processing sheet dark_cloud_constellations: Execution failed on sql '
+        SELECT
+            name
+        FROM
+            sqlite_master
+        WHERE
+            type IN ('table', 'view')
+            AND name=?;
+        ': not all arguments converted during bytes formatting

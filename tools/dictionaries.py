@@ -1,0 +1,16 @@
+# Initialize dictionaries
+dic_fields = {}
+dic_common = {}
+dic_dec_ra = {}
+numerical_data = {}
+string_data = {}
+constellation_data = {}
+star_data = {}
+messier_data = {}
+galaxies_data = {}
+other_objects_data = {}
+exoplanets = {}
+vis_mag = {}
+abs_mag = {}
+distance = {}
+mass = {}

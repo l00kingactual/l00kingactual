@@ -1,0 +1,1 @@
+ERROR:root:An error occurred while processing amalgamatedtable.csv: 'DataFrame' object has no attribute 'str'

@@ -1,0 +1,57 @@
+INFO:root:Reading sheet Confirmed_exoplanets
+INFO:root:Reading sheet Messier_Catalog
+INFO:root:Reading sheet deep_sky
+INFO:root:Reading sheet NGC_Objects_01
+INFO:root:Calculating ra_decimal and dec_decimal for sheet NGC_Objects_01
+INFO:root:Reading sheet Messier_Objects_02
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Messier_Objects_02
+INFO:root:Reading sheet IC_Objects
+INFO:root:Calculating ra_decimal and dec_decimal for sheet IC_Objects
+INFO:root:Reading sheet Herschel_400
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Herschel_400
+INFO:root:Reading sheet Caldwell_Objects
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Caldwell_Objects
+INFO:root:Reading sheet NGC_Objects_02
+INFO:root:Calculating ra_decimal and dec_decimal for sheet NGC_Objects_02
+INFO:root:Reading sheet Abell_Galaxy_Clusters
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Abell_Galaxy_Clusters
+ERROR:root:An error occurred while saving the workbook: 'OpenpyxlWriter' object has no attribute 'save'
+INFO:root:Successfully completed all tasks.
+INFO:root:Reading sheet Confirmed_exoplanets
+INFO:root:Reading sheet Messier_Catalog
+INFO:root:Reading sheet deep_sky
+INFO:root:Reading sheet NGC_Objects_01
+INFO:root:Calculating ra_decimal and dec_decimal for sheet NGC_Objects_01
+INFO:root:Reading sheet Messier_Objects_02
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Messier_Objects_02
+INFO:root:Reading sheet IC_Objects
+INFO:root:Calculating ra_decimal and dec_decimal for sheet IC_Objects
+INFO:root:Reading sheet Herschel_400
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Herschel_400
+INFO:root:Reading sheet Caldwell_Objects
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Caldwell_Objects
+INFO:root:Reading sheet NGC_Objects_02
+INFO:root:Calculating ra_decimal and dec_decimal for sheet NGC_Objects_02
+INFO:root:Reading sheet Abell_Galaxy_Clusters
+INFO:root:Calculating ra_decimal and dec_decimal for sheet Abell_Galaxy_Clusters
+ERROR:root:An error occurred while saving the workbook: 'OpenpyxlWriter' object has no attribute 'save'
+INFO:root:Successfully completed all tasks.
+2023-09-16 12:43:22,273 Reading sheet Confirmed_exoplanets
+2023-09-16 12:43:26,661 Reading sheet Messier_Catalog
+2023-09-16 12:43:30,901 Reading sheet deep_sky
+2023-09-16 12:43:41,678 Reading sheet NGC_Objects_01
+2023-09-16 12:43:49,030 Calculating ra_decimal and dec_decimal for sheet NGC_Objects_01
+2023-09-16 12:43:53,432 Reading sheet Messier_Objects_02
+2023-09-16 12:43:57,733 Calculating ra_decimal and dec_decimal for sheet Messier_Objects_02
+2023-09-16 12:43:57,871 Reading sheet IC_Objects
+2023-09-16 12:44:05,155 Calculating ra_decimal and dec_decimal for sheet IC_Objects
+2023-09-16 12:44:08,190 Reading sheet Herschel_400
+2023-09-16 12:44:12,542 Calculating ra_decimal and dec_decimal for sheet Herschel_400
+2023-09-16 12:44:12,802 Reading sheet Caldwell_Objects
+2023-09-16 12:44:17,112 Calculating ra_decimal and dec_decimal for sheet Caldwell_Objects
+2023-09-16 12:44:17,210 Reading sheet NGC_Objects_02
+2023-09-16 12:44:23,950 Calculating ra_decimal and dec_decimal for sheet NGC_Objects_02
+2023-09-16 12:44:24,599 Reading sheet Abell_Galaxy_Clusters
+2023-09-16 12:44:30,484 Calculating ra_decimal and dec_decimal for sheet Abell_Galaxy_Clusters
+2023-09-16 12:44:31,589 An error occurred while saving the workbook: 'OpenpyxlWriter' object has no attribute 'save'
+2023-09-16 12:44:31,589 Successfully completed all tasks.

@@ -1,0 +1,277 @@
+2023-09-16 15:17:49,512 - INFO - Successfully connected to MySQL database.
+2023-09-16 15:17:49,559 - INFO - Successfully read CSV file: 1024_closest_stars.csv
+2023-09-16 15:17:49,585 - ERROR - An error occurred while processing file 1024_closest_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist ly FLOAT, Sp ' at line 1
+2023-09-16 15:17:49,606 - INFO - Successfully read CSV file: 128_closest_stars.csv
+2023-09-16 15:17:49,626 - ERROR - An error occurred while processing file 128_closest_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist ly FLOAT, Sp ' at line 1
+2023-09-16 15:17:49,648 - INFO - Successfully read CSV file: 256_closest_stars.csv
+2023-09-16 15:17:49,680 - ERROR - An error occurred while processing file 256_closest_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist ly FLOAT, Sp ' at line 1
+2023-09-16 15:17:49,701 - INFO - Successfully read CSV file: 512_closest_stars.csv
+2023-09-16 15:17:49,732 - ERROR - An error occurred while processing file 512_closest_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Dec FLOAT, Visual Magnitude FLOAT, Absolute Magnitude FLOAT, Dist ly FLOAT, Sp ' at line 1
+2023-09-16 15:17:49,749 - INFO - Successfully read CSV file: Abell_Galaxy_Clusters.csv
+2023-09-16 15:17:49,859 - INFO - Successfully created table: Abell_Galaxy_Clusters
+2023-09-16 15:18:57,846 - INFO - Successfully uploaded data to table: Abell_Galaxy_Clusters
+2023-09-16 15:18:57,852 - INFO - Successfully read CSV file: astro_data.csv
+2023-09-16 15:18:57,976 - INFO - Successfully created table: astro_data
+2023-09-16 15:18:58,170 - INFO - Successfully uploaded data to table: astro_data
+2023-09-16 15:18:58,174 - INFO - Successfully read CSV file: Caldwell_Objects.csv
+2023-09-16 15:18:58,269 - INFO - Successfully created table: Caldwell_Objects
+2023-09-16 15:19:01,572 - INFO - Successfully uploaded data to table: Caldwell_Objects
+2023-09-16 15:19:01,582 - INFO - Successfully read CSV file: Chronologicby_continent_and_age.csv
+2023-09-16 15:19:01,609 - ERROR - An error occurred while processing file Chronologicby_continent_and_age.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'American
+Asian
+Australian
+Oceanian
+Egyptian
+Mesopotamian
+Near Eastern
+Nubian VAR' at line 2
+2023-09-16 15:19:01,625 - INFO - Successfully read CSV file: constellation_index.csv
+2023-09-16 15:19:01,736 - INFO - Successfully created table: constellation_index
+2023-09-16 15:19:03,900 - INFO - Successfully uploaded data to table: constellation_index
+2023-09-16 15:19:03,900 - ERROR - An error occurred while processing file constellation_stars.csv. Error: No columns to parse from file
+2023-09-16 15:19:03,916 - INFO - Successfully read CSV file: csv_allNGCobjects.csv
+2023-09-16 15:19:03,931 - ERROR - An error occurred while processing file csv_allNGCobjects.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), Other names VARCHAR(255), Object type VARCHAR(255), Constel' at line 1
+2023-09-16 15:19:03,947 - INFO - Successfully read CSV file: csv_Andromeda27s_satellite_gala.csv
+2023-09-16 15:19:03,972 - ERROR - An error occurred while processing file csv_Andromeda27s_satellite_gala.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from Sunmillion ly VARCHAR(255), Right Ascension VARCHAR(255), Declination VARCH' at line 1
+2023-09-16 15:19:03,986 - INFO - Successfully read CSV file: csv_Asteroid_dataset.csv
+2023-09-16 15:19:04,091 - INFO - Successfully created table: csv_Asteroid_dataset
+2023-09-16 15:19:06,327 - INFO - Successfully uploaded data to table: csv_Asteroid_dataset
+2023-09-16 15:19:06,330 - INFO - Successfully read CSV file: csv_astronomical_data.csv
+2023-09-16 15:19:06,440 - INFO - Successfully created table: csv_astronomical_data
+2023-09-16 15:19:06,664 - INFO - Successfully uploaded data to table: csv_astronomical_data
+2023-09-16 15:19:06,674 - INFO - Successfully read CSV file: csv_black_holes.csv
+2023-09-16 15:19:06,695 - ERROR - An error occurred while processing file csv_black_holes.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'holes VARCHAR(255), Unnamed: 1 VARCHAR(255))' at line 1
+2023-09-16 15:19:06,711 - INFO - Successfully read CSV file: csv_Black_Hole_dataset.csv
+2023-09-16 15:19:06,837 - INFO - Successfully created table: csv_Black_Hole_dataset
+2023-09-16 15:19:09,392 - INFO - Successfully uploaded data to table: csv_Black_Hole_dataset
+2023-09-16 15:19:09,407 - INFO - Successfully read CSV file: csv_brightest_stars.csv
+2023-09-16 15:19:09,427 - ERROR - An error occurred while processing file csv_brightest_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 VARCHAR(255), This table needs additional citations for verification Please ' at line 1
+2023-09-16 15:19:09,450 - INFO - Successfully read CSV file: csv_brown_dwarfs.csv
+2023-09-16 15:19:09,481 - ERROR - An error occurred while processing file csv_brown_dwarfs.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 VARCHAR(255), This article needs additional citations for verification Pleas' at line 1
+2023-09-16 15:19:09,497 - INFO - Successfully read CSV file: csv_centaurs_small_Solar_System.csv
+2023-09-16 15:19:09,532 - ERROR - An error occurred while processing file csv_centaurs_small_Solar_System.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or first observed6f VARCHAR(255), Dgkm VARCHAR(255), Classified as centaurby sou' at line 1
+2023-09-16 15:19:09,543 - INFO - Successfully read CSV file: csv_Comet_dataset.csv
+2023-09-16 15:19:09,664 - INFO - Successfully created table: csv_Comet_dataset
+2023-09-16 15:19:12,129 - INFO - Successfully uploaded data to table: csv_Comet_dataset
+2023-09-16 15:19:12,140 - INFO - Successfully read CSV file: csv_constellationAbrev.csv
+2023-09-16 15:19:12,298 - INFO - Successfully created table: csv_constellationAbrev
+2023-09-16 15:19:12,727 - INFO - Successfully uploaded data to table: csv_constellationAbrev
+2023-09-16 15:19:12,727 - ERROR - An error occurred while processing file csv_constellationsByArea_clean0.csv. Error: No columns to parse from file
+2023-09-16 15:19:12,727 - ERROR - An error occurred while processing file csv_constellationStars.csv. Error: No columns to parse from file
+2023-09-16 15:19:12,742 - INFO - Successfully read CSV file: csv_constellations_clean00.csv
+2023-09-16 15:19:12,885 - INFO - Successfully created table: csv_constellations_clean00
+2023-09-16 15:19:15,058 - INFO - Successfully uploaded data to table: csv_constellations_clean00
+2023-09-16 15:19:15,074 - INFO - Successfully read CSV file: csv_damocloids.csv
+2023-09-16 15:19:15,089 - ERROR - An error occurred while processing file csv_damocloids.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'criteria and classes VARCHAR(255), qAU VARCHAR(255), QAU VARCHAR(255), Unusual V' at line 1
+2023-09-16 15:19:15,089 - INFO - Successfully read CSV file: csv_Dwarf_planet#Recognized.csv
+2023-09-16 15:19:15,121 - ERROR - An error occurred while processing file csv_Dwarf_planet#Recognized.csv. Error: 1113 (42000): A table must have at least 1 column
+2023-09-16 15:19:15,125 - INFO - Successfully read CSV file: csv_Dwarf_planetRecognized.csv
+2023-09-16 15:19:15,200 - INFO - Successfully created table: csv_Dwarf_planetRecognized
+2023-09-16 15:19:15,478 - INFO - Successfully uploaded data to table: csv_Dwarf_planetRecognized
+2023-09-16 15:19:15,479 - ERROR - An error occurred while processing file csv_exceptional_asteroids.csv. Error: No columns to parse from file
+2023-09-16 15:19:15,480 - ERROR - An error occurred while processing file csv_exoplants.csv. Error: No columns to parse from file
+2023-09-16 15:19:15,494 - INFO - Successfully read CSV file: csv_galaxies.csv
+2023-09-16 15:19:15,511 - ERROR - An error occurred while processing file csv_galaxies.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of name VARCHAR(255), Notes VARCHAR(255))' at line 1
+2023-09-16 15:19:15,527 - INFO - Successfully read CSV file: csv_galaxies_with_richest_globu.csv
+2023-09-16 15:19:15,543 - ERROR - An error occurred while processing file csv_galaxies_with_richest_globu.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of globular clusters VARCHAR(255), Notes VARCHAR(255))' at line 1
+2023-09-16 15:19:15,543 - INFO - Successfully read CSV file: csv_Galaxy_dataset.csv
+2023-09-16 15:19:15,674 - INFO - Successfully created table: csv_Galaxy_dataset
+2023-09-16 15:19:17,686 - INFO - Successfully uploaded data to table: csv_Galaxy_dataset
+2023-09-16 15:19:17,702 - INFO - Successfully read CSV file: csv_Galaxy_filamentList.csv
+2023-09-16 15:19:17,717 - ERROR - An error occurred while processing file csv_Galaxy_filamentList.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of a series on VARCHAR(255), Unnamed: 1 VARCHAR(255), Unnamed: 2 VARCHAR(255), U' at line 1
+2023-09-16 15:19:17,727 - INFO - Successfully read CSV file: csv_galaxy_groups_and_clusters.csv
+2023-09-16 15:19:17,733 - ERROR - An error occurred while processing file csv_galaxy_groups_and_clusters.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'cluster VARCHAR(255), Notes VARCHAR(255))' at line 1
+2023-09-16 15:19:17,759 - INFO - Successfully read CSV file: csv_gammaray_bursts.csv
+2023-09-16 15:19:17,777 - ERROR - An error occurred while processing file csv_gammaray_bursts.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'by VARCHAR(255), Notes VARCHAR(255))' at line 1
+2023-09-16 15:19:17,781 - INFO - Successfully read CSV file: csv_geological_features_of_the_.csv
+2023-09-16 15:19:17,796 - ERROR - An error occurred while processing file csv_geological_features_of_the_.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'features of space objects VARCHAR(255), Unnamed: 1 VARCHAR(255), Unnamed: 2 VARC' at line 1
+2023-09-16 15:19:17,822 - INFO - Successfully read CSV file: csv_globular_clusters.csv
+2023-09-16 15:19:17,844 - ERROR - An error occurred while processing file csv_globular_clusters.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'J2000 VARCHAR(255), Constellation VARCHAR(255), ApparentMagnitude VARCHAR(255), ' at line 1
+2023-09-16 15:19:17,854 - INFO - Successfully read CSV file: csv_gravitationally_rounded_obj.csv
+2023-09-16 15:19:18,009 - INFO - Successfully created table: csv_gravitationally_rounded_obj
+2023-09-16 15:19:18,069 - INFO - Successfully uploaded data to table: csv_gravitationally_rounded_obj
+2023-09-16 15:19:18,080 - INFO - Successfully read CSV file: csv_largest_galaxies.csv
+2023-09-16 15:19:18,091 - ERROR - An error occurred while processing file csv_largest_galaxies.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'namedesignation VARCHAR(255), Major axis diameter in lightyears INT, Minor axis ' at line 1
+2023-09-16 15:19:18,107 - INFO - Successfully read CSV file: csv_Large_quasar_group.csv
+2023-09-16 15:19:18,127 - ERROR - An error occurred while processing file csv_Large_quasar_group.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Bang  Universe
+Age of the universe
+Chronology of the universe VARCHAR(255), Unn' at line 1
+2023-09-16 15:19:18,139 - INFO - Successfully read CSV file: csv_messierConstellationTypes.csv
+2023-09-16 15:19:18,154 - ERROR - An error occurred while processing file csv_messierConstellationTypes.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Name VARCHAR(255))' at line 1
+2023-09-16 15:19:18,154 - INFO - Successfully read CSV file: csv_messierObjectAbrev.csv
+2023-09-16 15:19:18,344 - INFO - Successfully created table: csv_messierObjectAbrev
+2023-09-16 15:19:20,349 - INFO - Successfully uploaded data to table: csv_messierObjectAbrev
+2023-09-16 15:19:20,364 - INFO - Successfully read CSV file: csv_messierObjects.csv
+2023-09-16 15:19:20,502 - INFO - Successfully created table: csv_messierObjects
+2023-09-16 15:19:22,654 - INFO - Successfully uploaded data to table: csv_messierObjects
+2023-09-16 15:19:22,670 - INFO - Successfully read CSV file: csv_messier_objects_cleaned.csv
+2023-09-16 15:19:22,685 - ERROR - An error occurred while processing file csv_messier_objects_cleaned.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), NGCIC number VARCHAR(255), Common name VARCHAR(255), Pictur' at line 1
+2023-09-16 15:19:22,705 - INFO - Successfully read CSV file: csv_meteor_showers.csv
+2023-09-16 15:19:22,737 - ERROR - An error occurred while processing file csv_meteor_showers.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'of 2022 VARCHAR(255), Peakas of 2022 VARCHAR(255), Celestial longitude
+
+
+
+\u03bb
+
+
+
+' at line 1
+2023-09-16 15:19:22,746 - INFO - Successfully read CSV file: csv_minor_planets.csv
+2023-09-16 15:19:22,778 - ERROR - An error occurred while processing file csv_minor_planets.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 8 VARCHAR(255))' at line 1
+2023-09-16 15:19:22,784 - INFO - Successfully read CSV file: csv_minor_planet_moons.csv
+2023-09-16 15:19:22,810 - ERROR - An error occurred while processing file csv_minor_planet_moons.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class VARCHAR(255), Designation.1 VARCHAR(255), Discoverydate FLOAT, Announcemen' at line 1
+2023-09-16 15:19:22,825 - INFO - Successfully read CSV file: csv_most_luminous_stars.csv
+2023-09-16 15:19:22,851 - ERROR - An error occurred while processing file csv_most_luminous_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'star VARCHAR(255))' at line 1
+2023-09-16 15:19:22,857 - INFO - Successfully read CSV file: csv_most_massive_stars.csv
+2023-09-16 15:19:22,888 - ERROR - An error occurred while processing file csv_most_massive_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'star VARCHAR(255))' at line 1
+2023-09-16 15:19:22,888 - INFO - Successfully read CSV file: csv_multiplanetary_systems.csv
+2023-09-16 15:19:22,924 - ERROR - An error occurred while processing file csv_multiplanetary_systems.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'velocity   transit VARCHAR(255), timing   direct detection   microlensing ' at line 1
+2023-09-16 15:19:22,936 - INFO - Successfully read CSV file: csv_natural_satellites.csv
+2023-09-16 15:19:22,965 - ERROR - An error occurred while processing file csv_natural_satellites.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundedequilibrium objects
+Possible dwarf planets
+Moons natural satellites
+Plane' at line 1
+2023-09-16 15:19:22,979 - INFO - Successfully read CSV file: csv_nearest_bright_stars.csv
+2023-09-16 15:19:22,996 - ERROR - An error occurred while processing file csv_nearest_bright_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Designation VARCHAR(255), StellarClass VARCHAR(255), Magnitude VARCHAR(255), Rig' at line 1
+2023-09-16 15:19:23,022 - INFO - Successfully read CSV file: csv_nearest_galaxies.csv
+2023-09-16 15:19:23,044 - ERROR - An error occurred while processing file csv_nearest_galaxies.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 VARCHAR(255), Picture VARCHAR(255), Galaxy VARCHAR(255), Type VARCHAR(255), ' at line 1
+2023-09-16 15:19:23,061 - INFO - Successfully read CSV file: csv_nearest_known_black_holes.csv
+2023-09-16 15:19:23,092 - ERROR - An error occurred while processing file csv_nearest_known_black_holes.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and additional references VARCHAR(255), Unnamed: 4 VARCHAR(255), Unnamed: 5 VARC' at line 1
+2023-09-16 15:19:23,107 - INFO - Successfully read CSV file: csv_nearest_stars_and_brown_dwa.csv
+2023-09-16 15:19:23,133 - ERROR - An error occurred while processing file csv_nearest_stars_and_brown_dwa.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ': 0 FLOAT, Bright star absolute magnitude of 85 or brighter VARCHAR(255))' at line 1
+2023-09-16 15:19:23,138 - INFO - Successfully read CSV file: csv_nebulae.csv
+2023-09-16 15:19:23,174 - ERROR - An error occurred while processing file csv_nebulae.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'nebula VARCHAR(255), Dark nebula
+Diffuse nebula
+Emission nebula
+Planetary nebula' at line 1
+2023-09-16 15:19:23,186 - INFO - Successfully read CSV file: csv_Nebula_dataset.csv
+2023-09-16 15:19:23,359 - INFO - Successfully created table: csv_Nebula_dataset
+2023-09-16 15:19:26,900 - INFO - Successfully uploaded data to table: csv_Nebula_dataset
+2023-09-16 15:19:26,906 - INFO - Successfully read CSV file: csv_NGC_objects_10012000.csv
+2023-09-16 15:19:26,938 - ERROR - An error occurred while processing file csv_NGC_objects_10012000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:26,938 - INFO - Successfully read CSV file: csv_NGC_objects_11000.csv
+2023-09-16 15:19:26,976 - ERROR - An error occurred while processing file csv_NGC_objects_11000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:26,988 - INFO - Successfully read CSV file: csv_NGC_objects_20013000.csv
+2023-09-16 15:19:27,012 - ERROR - An error occurred while processing file csv_NGC_objects_20013000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:27,022 - INFO - Successfully read CSV file: csv_NGC_objects_30014000.csv
+2023-09-16 15:19:27,043 - ERROR - An error occurred while processing file csv_NGC_objects_30014000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:27,053 - INFO - Successfully read CSV file: csv_NGC_objects_40015000.csv
+2023-09-16 15:19:27,075 - ERROR - An error occurred while processing file csv_NGC_objects_40015000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:27,090 - INFO - Successfully read CSV file: csv_NGC_objects_50016000.csv
+2023-09-16 15:19:27,116 - ERROR - An error occurred while processing file csv_NGC_objects_50016000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:27,126 - INFO - Successfully read CSV file: csv_NGC_objects_60017000.csv
+2023-09-16 15:19:27,147 - ERROR - An error occurred while processing file csv_NGC_objects_60017000.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), Other names VARCHAR(255), Object type VARCHAR(255), Constel' at line 1
+2023-09-16 15:19:27,153 - INFO - Successfully read CSV file: csv_NGC_objects_70017840.csv
+2023-09-16 15:19:27,184 - ERROR - An error occurred while processing file csv_NGC_objects_70017840.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number INT, Other names VARCHAR(255), Object type VARCHAR(255), Constellation VA' at line 1
+2023-09-16 15:19:27,190 - INFO - Successfully read CSV file: csv_planetary_nebulae.csv
+2023-09-16 15:19:27,221 - ERROR - An error occurred while processing file csv_planetary_nebulae.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Cataloguea VARCHAR(255), NGCa VARCHAR(255), Otherdesignationa VARCHAR(255), Date' at line 1
+2023-09-16 15:19:27,232 - INFO - Successfully read CSV file: csv_Planet_dataset.csv
+2023-09-16 15:19:27,358 - INFO - Successfully created table: csv_Planet_dataset
+2023-09-16 15:19:29,740 - INFO - Successfully uploaded data to table: csv_Planet_dataset
+2023-09-16 15:19:29,750 - INFO - Successfully read CSV file: csv_possible_dwarf_planets.csv
+2023-09-16 15:19:29,771 - ERROR - An error occurred while processing file csv_possible_dwarf_planets.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundedequilibrium objects
+Possible dwarf planets
+Moons natural satellites
+Plane' at line 1
+2023-09-16 15:19:29,781 - INFO - Successfully read CSV file: csv_quasars.csv
+2023-09-16 15:19:29,930 - INFO - Successfully created table: csv_quasars
+2023-09-16 15:19:30,108 - INFO - Successfully uploaded data to table: csv_quasars
+2023-09-16 15:19:30,118 - INFO - Successfully read CSV file: csv_Quasar_dataset.csv
+2023-09-16 15:19:30,268 - INFO - Successfully created table: csv_Quasar_dataset
+2023-09-16 15:19:32,249 - INFO - Successfully uploaded data to table: csv_Quasar_dataset
+2023-09-16 15:19:32,249 - INFO - Successfully read CSV file: csv_satellite_galaxies_of_the_M.csv
+2023-09-16 15:19:32,281 - ERROR - An error occurred while processing file csv_satellite_galaxies_of_the_M.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'kpc INT, Distance  kpc INT, Absolute visual magnitude INT, Type VARCHAR(255), Di' at line 1
+2023-09-16 15:19:32,294 - INFO - Successfully read CSV file: csv_semiregular_variable_stars.csv
+2023-09-16 15:19:32,312 - ERROR - An error occurred while processing file csv_semiregular_variable_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mV VARCHAR(255), Minimum mV VARCHAR(255), Range INT, Period days FLOAT, Spectral' at line 1
+2023-09-16 15:19:32,322 - INFO - Successfully read CSV file: csv_small_Solar_System_bodies.csv
+2023-09-16 15:19:32,344 - ERROR - An error occurred while processing file csv_small_Solar_System_bodies.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Aten asteroid
+Asteroid belt
+Family
+Jupiter trojan
+NearEarth
+Spectral types VARCH' at line 2
+2023-09-16 15:19:32,359 - INFO - Successfully read CSV file: csv_Solar_System_objects.csv
+2023-09-16 15:19:32,375 - ERROR - An error occurred while processing file csv_Solar_System_objects.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'roundedequilibrium objects
+Possible dwarf planets
+Moons natural satellites
+Plane' at line 1
+2023-09-16 15:19:32,391 - INFO - Successfully read CSV file: csv_stars_that_dim_oddly.csv
+2023-09-16 15:19:32,407 - ERROR - An error occurred while processing file csv_stars_that_dim_oddly.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'designation VARCHAR(255), Stellarclass VARCHAR(255), Magnitude VARCHAR(255), Rig' at line 1
+2023-09-16 15:19:32,423 - INFO - Successfully read CSV file: csv_Star_dataset.csv
+2023-09-16 15:19:32,576 - INFO - Successfully created table: csv_Star_dataset
+2023-09-16 15:19:35,359 - INFO - Successfully uploaded data to table: csv_Star_dataset
+2023-09-16 15:19:35,375 - INFO - Successfully read CSV file: csv_Supercluster.csv
+2023-09-16 15:19:35,401 - ERROR - An error occurred while processing file csv_Supercluster.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'supercluster VARCHAR(255), Data VARCHAR(255), Notes VARCHAR(255))' at line 1
+2023-09-16 15:19:35,407 - INFO - Successfully read CSV file: csv_supernovae.csv
+2023-09-16 15:19:35,442 - ERROR - An error occurred while processing file csv_supernovae.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'I INT, Type II INT, LBV INT, Brighter thanapmag 13 INT, Apmag of brighestSuperno' at line 1
+2023-09-16 15:19:35,456 - INFO - Successfully read CSV file: csv_supernova_remnants.csv
+2023-09-16 15:19:35,482 - ERROR - An error occurred while processing file csv_supernova_remnants.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Right ascension VARCHAR(255), Declination VARCHAR(255), First visible from Earth' at line 1
+2023-09-16 15:19:35,496 - INFO - Successfully read CSV file: csv_Tolman_Oppenheimer_Volkoff_.csv
+2023-09-16 15:19:35,521 - ERROR - An error occurred while processing file csv_Tolman_Oppenheimer_Volkoff_.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class VARCHAR(255), Mass determination method VARCHAR(255), Notes VARCHAR(255), ' at line 1
+2023-09-16 15:19:35,526 - INFO - Successfully read CSV file: csv_Triangulum27s_suspected_sat.csv
+2023-09-16 15:19:35,558 - ERROR - An error occurred while processing file csv_Triangulum27s_suspected_sat.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from Sunmillion ly FLOAT, Magnitude FLOAT, Yeardiscovered INT)' at line 1
+2023-09-16 15:19:35,573 - INFO - Successfully read CSV file: csv_types.csv
+2023-09-16 15:19:35,694 - INFO - Successfully created table: csv_types
+2023-09-16 15:19:36,117 - INFO - Successfully uploaded data to table: csv_types
+2023-09-16 15:19:36,127 - INFO - Successfully read CSV file: csv_variable_stars.csv
+2023-09-16 15:19:36,154 - ERROR - An error occurred while processing file csv_variable_stars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'name VARCHAR(255), Constellation VARCHAR(255), Discovery VARCHAR(255), Apparent ' at line 1
+2023-09-16 15:19:36,170 - INFO - Successfully read CSV file: csv_voids.csv
+2023-09-16 15:19:36,301 - INFO - Successfully created table: csv_voids
+2023-09-16 15:19:36,500 - INFO - Successfully uploaded data to table: csv_voids
+2023-09-16 15:19:36,511 - INFO - Successfully read CSV file: csv_white_dwarfs.csv
+2023-09-16 15:19:36,628 - INFO - Successfully created table: csv_white_dwarfs
+2023-09-16 15:19:36,919 - INFO - Successfully uploaded data to table: csv_white_dwarfs
+2023-09-16 15:19:36,929 - INFO - Successfully read CSV file: csv_Xray_pulsars.csv
+2023-09-16 15:19:36,941 - ERROR - An error occurred while processing file csv_Xray_pulsars.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'binaries VARCHAR(255), Spin period sec INT, Orbital period days VARCHAR(255), Co' at line 1
+2023-09-16 15:19:36,960 - INFO - Successfully read CSV file: dark_cloud_constellations.csv
+2023-09-16 15:19:37,093 - INFO - Successfully created table: dark_cloud_constellations
+2023-09-16 15:19:37,252 - INFO - Successfully uploaded data to table: dark_cloud_constellations
+2023-09-16 15:19:37,272 - INFO - Successfully read CSV file: dark_nebulae.csv
+2023-09-16 15:19:37,331 - INFO - Successfully created table: dark_nebulae
+2023-09-16 15:19:41,996 - INFO - Successfully uploaded data to table: dark_nebulae
+2023-09-16 15:19:42,084 - INFO - Successfully read CSV file: deep_sky.csv
+2023-09-16 15:19:42,121 - ERROR - An error occurred while processing file deep_sky.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DEC    VARCHAR(255), MAG  FLOAT, SUBR FLOAT, U2K INT, TI INT, SIZE_MAX VARCHAR(2' at line 1
+2023-09-16 15:19:42,137 - INFO - Successfully read CSV file: Galaxies.csv
+2023-09-16 15:19:42,169 - ERROR - An error occurred while processing file Galaxies.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Name VARCHAR(255), Distance billion light years INT, Mass kg FLOAT, Type VARCHAR' at line 1
+2023-09-16 15:19:42,184 - INFO - Successfully read CSV file: globular_clusters.csv
+2023-09-16 15:19:42,221 - ERROR - An error occurred while processing file globular_clusters.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Right ascension VARCHAR(255), Epoch J2000 Declination VARCHAR(255), Constellati' at line 1
+2023-09-16 15:19:42,241 - INFO - Successfully read CSV file: Herschel_400.csv
+2023-09-16 15:19:42,337 - INFO - Successfully created table: Herschel_400
+2023-09-16 15:19:53,249 - INFO - Successfully uploaded data to table: Herschel_400
+2023-09-16 15:19:53,265 - INFO - Successfully read CSV file: historical_continents.csv
+2023-09-16 15:19:53,360 - INFO - Successfully created table: historical_continents
+2023-09-16 15:19:54,234 - INFO - Successfully uploaded data to table: historical_continents
+2023-09-16 15:19:54,266 - INFO - Successfully read CSV file: IC_Objects.csv
+2023-09-16 15:19:54,381 - INFO - Successfully created table: IC_Objects
+2023-09-16 15:22:10,918 - INFO - Successfully uploaded data to table: IC_Objects
+2023-09-16 15:22:10,924 - INFO - Successfully read CSV file: md_constellationsAlphabetical.csv
+2023-09-16 15:22:11,102 - INFO - Successfully created table: md_constellationsAlphabetical
+2023-09-16 15:22:13,590 - INFO - Successfully uploaded data to table: md_constellationsAlphabetical
+2023-09-16 15:22:13,606 - INFO - Successfully read CSV file: md_LuminosityClasses.csv
+2023-09-16 15:22:13,626 - ERROR - An error occurred while processing file md_LuminosityClasses.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'or Ia Hypergiants VARCHAR(255))' at line 1
+2023-09-16 15:22:13,638 - INFO - Successfully read CSV file: md_SpectralTypes_md.csv
+2023-09-16 15:22:13,654 - ERROR - An error occurred while processing file md_SpectralTypes_md.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Extremely hot blue stars with temperatures  30000 K VARCHAR(255))' at line 1
+2023-09-16 15:22:13,697 - INFO - Successfully read CSV file: Messier_Catalog.csv
+2023-09-16 15:22:13,712 - ERROR - An error occurred while processing file Messier_Catalog.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FLOAT, Size arcmin VARCHAR(255), Distance (ly) VARCHAR(255), Right Ascension VAR' at line 1
+2023-09-16 15:22:13,731 - INFO - Successfully read CSV file: messier_clean.csv
+2023-09-16 15:22:13,744 - ERROR - An error occurred while processing file messier_clean.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'number VARCHAR(255), NGCIC number VARCHAR(255), Common name VARCHAR(255), Pictur' at line 1
+2023-09-16 15:22:13,770 - INFO - Successfully read CSV file: Messier_Objects_02.csv
+2023-09-16 15:22:13,792 - ERROR - An error occurred while processing file Messier_Objects_02.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(ly) INT)' at line 1
+2023-09-16 15:22:13,828 - INFO - Successfully read CSV file: NGC_Objects_01.csv
+2023-09-16 15:22:14,053 - INFO - Successfully created table: NGC_Objects_01
+2023-09-16 15:25:27,276 - INFO - Successfully uploaded data to table: NGC_Objects_01
+2023-09-16 15:25:27,292 - INFO - Successfully read CSV file: NGC_Objects_02.csv
+2023-09-16 15:25:27,434 - INFO - Successfully created table: NGC_Objects_02
+2023-09-16 15:25:55,949 - INFO - Successfully uploaded data to table: NGC_Objects_02
+2023-09-16 15:25:55,955 - INFO - Successfully read CSV file: numerical_classification.csv
+2023-09-16 15:25:55,987 - ERROR - An error occurred while processing file numerical_classification.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Value INT, Class_Subdivision VARCHAR(255), Description VARCHAR(255))' at line 1
+2023-09-16 15:25:56,002 - INFO - Successfully read CSV file: paleocontinents.csv
+2023-09-16 15:25:56,023 - ERROR - An error occurred while processing file paleocontinents.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Ma FLOAT, PeriodEra Range VARCHAR(255), Type VARCHAR(255), Comments VARCHAR(255)' at line 1
+2023-09-16 15:25:56,034 - INFO - Successfully read CSV file: Recovered_Sheet1.csv
+2023-09-16 15:25:56,064 - ERROR - An error occurred while processing file Recovered_Sheet1.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'class VARCHAR(255), Mass determination method VARCHAR(255), Notes VARCHAR(255), ' at line 1
+2023-09-16 15:25:56,071 - INFO - Successfully read CSV file: stellar_classification.csv
+2023-09-16 15:25:56,098 - ERROR - An error occurred while processing file stellar_classification.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Class VARCHAR(255), Description VARCHAR(255), Systems VARCHAR(255), Examples VAR' at line 1
+2023-09-16 15:25:56,098 - ERROR - An error occurred while processing file txt_ptolemy.csv. Error: No columns to parse from file
+2023-09-16 15:25:56,113 - INFO - Successfully read CSV file: unnumbered_minor_planets.csv
+2023-09-16 15:25:56,129 - ERROR - An error occurred while processing file unnumbered_minor_planets.csv. Error: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1 VARCHAR(255), Designation VARCHAR(255), Class VARCHAR(255), Physical H VARCHAR' at line 1
+2023-09-16 15:25:56,129 - INFO - MySQL database connection closed.
