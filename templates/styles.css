@@ -1,0 +1,24 @@
+#visualization {
+    position: relative;
+    width: 500px;
+    height: 500px;
+  }
+  
+  .nucleus {
+    position: absolute;
+    background-color: red;
+    border-radius: 50%;
+  }
+  
+  .shell {
+    position: absolute;
+    border: 1px solid blue;
+    border-radius: 50%;
+  }
+  
+  .electron {
+    position: absolute;
+    background-color: green;
+    border-radius: 50%;
+  }
+  

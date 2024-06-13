@@ -1,0 +1,2095 @@
+fileName,objectName,frequency,extension
+trio-001L-LRGB.fit,trio-001L-LRG,Luminescence,fit
+trio-001B.fit,trio-001,Blue,fit
+totRGB.fit,totRG,Blue,fit
+Total-RGB.fit,Total-RG,Blue,fit
+TB1-RGB.fit,TB1-RG,Blue,fit
+TB1-B.fit,TB1-,Blue,fit
+stack-RGB.fit,stack-RG,Blue,fit
+stack-RGB.fit,stack-RG,Blue,fit
+stack-RGB.fit,stack-RG,Blue,fit
+stack-RGB.fit,stack-RG,Blue,fit
+stackRaw-RGB.fit,stackRaw-RG,Blue,fit
+stack-LRGB.fit,stack-LRG,Blue,fit
+stack-LRGB.fit,stack-LRG,Blue,fit
+stackLRGB.fit,stackLRG,Blue,fit
+stackLRGB.fit,stackLRG,Blue,fit
+stack-B.fit,stack-,Blue,fit
+SIIstack-RGB,SIIstack-RG,Blue,fit
+SIIstack-RGB,SIIstack-RG,Blue,fit
+SIIstack-RGB,SIIstack-RG,Blue,fit
+SHO-RGB.fit,SHO-RG,Blue,fit
+SHO-RGB.fit,SHO-RG,Blue,fit
+SHO-RGB.fit,SHO-RG,Blue,fit
+sh157-003B.fit,sh157-003,Blue,fit
+sh157-002B.fit,sh157-002,Blue,fit
+sh157-001B.fit,sh157-001,Blue,fit
+RR-004B.fit,RR-004,Blue,fit
+RR-003B.fit,RR-003,Blue,fit
+RR-002B.fit,RR-002,Blue,fit
+RR-001B.fit,RR-001,Blue,fit
+RR-001B.fit,RR-001,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+RGB.fit,RG,Blue,fit
+NGC7635-004B.fit,NGC7635-004,Blue,fit
+NGC7635-003B.fit,NGC7635-003,Blue,fit
+NGC7635-002B.fit,NGC7635-002,Blue,fit
+NGC7635-001B.fit,NGC7635-001,Blue,fit
+NGC7023-005B.fit,NGC7023-005,Blue,fit
+NGC7023-004B.fit,NGC7023-004,Blue,fit
+NGC7023-003B.fit,NGC7023-003,Blue,fit
+NGC7023-002B.fit,NGC7023-002,Blue,fit
+NGC7023-001B.fit,NGC7023-001,Blue,fit
+NGC3718-008B.fit,NGC3718-008,Blue,fit
+NGC3718-007B.fit,NGC3718-007,Blue,fit
+NGC3718-006B.fit,NGC3718-006,Blue,fit
+NGC3718-005B.fit,NGC3718-005,Blue,fit
+NGC3718-004B.fit,NGC3718-004,Blue,fit
+NGC3718-003B.fit,NGC3718-003,Blue,fit
+NGC3718-002B.fit,NGC3718-002,Blue,fit
+NGC3718-001B.fit,NGC3718-001,Blue,fit
+NGC3190-002B.fit,NGC3190-002,Blue,fit
+NGC3190-001B.fit,NGC3190-001,Blue,fit
+NGC2903-004B.fit,NGC2903-004,Blue,fit
+NGC2903-003B.fit,NGC2903-003,Blue,fit
+NGC2903-002B.fit,NGC2903-002,Blue,fit
+NGC2903-001B.fit,NGC2903-001,Blue,fit
+NGC2403-008B.fit,NGC2403-008,Blue,fit
+NGC2403-007B.fit,NGC2403-007,Blue,fit
+NGC2403-006B.fit,NGC2403-006,Blue,fit
+NGC2403-005B.fit,NGC2403-005,Blue,fit
+NGC2403-004B.fit,NGC2403-004,Blue,fit
+NGC2403-003B.fit,NGC2403-003,Blue,fit
+NGC2403-002B.fit,NGC2403-002,Blue,fit
+NGC2403-001B.fit,NGC2403-001,Blue,fit
+NGC2264-LRGB.fit,NGC2264-LRG,Blue,fit
+NGC1333-004B.fit,NGC1333-004,Blue,fit
+NGC1333-003B.fit,NGC1333-003,Blue,fit
+NGC1333-002B.fit,NGC1333-002,Blue,fit
+NGC1333-001B.fit,NGC1333-001,Blue,fit
+MM81-82-007B.fit,MM81-82-007,Blue,fit
+MM81-82-006B.fit,MM81-82-006,Blue,fit
+MM81-82-005B.fit,MM81-82-005,Blue,fit
+MM81-82-004B.fit,MM81-82-004,Blue,fit
+MM81-82-003B.fit,MM81-82-003,Blue,fit
+MM81-82-002B.fit,MM81-82-002,Blue,fit
+MM81-82-001B.fit,MM81-82-001,Blue,fit
+M97-004B.fit,M97-004,Blue,fit
+M97-003B.fit,M97-003,Blue,fit
+M97-002B.fit,M97-002,Blue,fit
+M97-001B.fit,M97-001,Blue,fit
+M82-018B.fit,M82-018,Blue,fit
+M82-017B.fit,M82-017,Blue,fit
+M82-016B.fit,M82-016,Blue,fit
+M82-015B.fit,M82-015,Blue,fit
+M82-014B.fit,M82-014,Blue,fit
+M82-013B.fit,M82-013,Blue,fit
+M82-012B.fit,M82-012,Blue,fit
+M82-011B.fit,M82-011,Blue,fit
+M82-010B.fit,M82-010,Blue,fit
+M82-009B.fit,M82-009,Blue,fit
+M82-008B.fit,M82-008,Blue,fit
+M82-007B.fit,M82-007,Blue,fit
+M82-006B.fit,M82-006,Blue,fit
+M82-005B.fit,M82-005,Blue,fit
+M82-004B.fit,M82-004,Blue,fit
+M82-003B.fit,M82-003,Blue,fit
+M82-002B.fit,M82-002,Blue,fit
+M82-001B.fit,M82-001,Blue,fit
+M8182x-001B.fit,M8182x-001,Blue,fit
+M81-82-004B.fit,M81-82-004,Blue,fit
+M8182-004B.fit,M8182-004,Blue,fit
+M81-82-003B.fit,M81-82-003,Blue,fit
+M8182-003B.fit,M8182-003,Blue,fit
+M81-82-002B.fit,M81-82-002,Blue,fit
+M8182-002B.fit,M8182-002,Blue,fit
+M81-82-001B.fit,M81-82-001,Blue,fit
+M8182-001B.fit,M8182-001,Blue,fit
+M81-008B.fit,M81-008,Blue,fit
+M81-007B.fit,M81-007,Blue,fit
+M81-006B.fit,M81-006,Blue,fit
+M81-005B.fit,M81-005,Blue,fit
+M81-004B.fit,M81-004,Blue,fit
+M81-003B.fit,M81-003,Blue,fit
+M81-002B.fit,M81-002,Blue,fit
+M81-001B.fit,M81-001,Blue,fit
+M78-002B.fit,M78-002,Blue,fit
+M78-001B.fit,M78-001,Blue,fit
+M63-007B.fit,M63-007,Blue,fit
+M63-006B.fit,M63-006,Blue,fit
+M63-005B.fit,M63-005,Blue,fit
+M63-004B.fit,M63-004,Blue,fit
+M63-003B.fit,M63-003,Blue,fit
+M63-002B.fit,M63-002,Blue,fit
+M63-001B.fit,M63-001,Blue,fit
+M57-004B.fit,M57-004,Blue,fit
+M57-003B.fit,M57-003,Blue,fit
+M57-002B.fit,M57-002,Blue,fit
+M57-001B.fit,M57-001,Blue,fit
+M51-B.fit,M51-,Blue,fit
+M51-600B.fit,M51-600,Blue,fit
+M51-006B.fit,M51-006,Blue,fit
+M51-005B.fit,M51-005,Blue,fit
+M51-004B.fit,M51-004,Blue,fit
+M51-003B.fit,M51-003,Blue,fit
+M51-002B.fit,M51-002,Blue,fit
+M51-001B.fit,M51-001,Blue,fit
+M45short-008B.fit,M45short-008,Blue,fit
+M45short-007B.fit,M45short-007,Blue,fit
+M45short-006B.fit,M45short-006,Blue,fit
+M45short-005B.fit,M45short-005,Blue,fit
+M45short-004B.fit,M45short-004,Blue,fit
+M45short-003B.fit,M45short-003,Blue,fit
+M45short-002B.fit,M45short-002,Blue,fit
+M45short-001B.fit,M45short-001,Blue,fit
+M45-B.fit,M45-,Blue,fit
+M45-010B.fit,M45-010,Blue,fit
+M45-009B.fit,M45-009,Blue,fit
+M45-008B.fit,M45-008,Blue,fit
+M45-007B.fit,M45-007,Blue,fit
+M45-006B.fit,M45-006,Blue,fit
+M45-005B.fit,M45-005,Blue,fit
+M45-004B.fit,M45-004,Blue,fit
+M45-003B.fit,M45-003,Blue,fit
+M45-002B.fit,M45-002,Blue,fit
+M45-001B.fit,M45-001,Blue,fit
+M42-004B.fit,M42-004,Blue,fit
+M42-003B.fit,M42-003,Blue,fit
+M42-002B.fit,M42-002,Blue,fit
+M42-001B.fit,M42-001,Blue,fit
+M33-009B.fit,M33-009,Blue,fit
+M33-008B.fit,M33-008,Blue,fit
+M33-007B.fit,M33-007,Blue,fit
+M33-006B.fit,M33-006,Blue,fit
+m33-005B.fit,m33-005,Blue,fit
+M33-004B.fit,M33-004,Blue,fit
+M33-003B.fit,M33-003,Blue,fit
+M33-002B.fit,M33-002,Blue,fit
+M33-001B.fit,M33-001,Blue,fit
+M31-010B.fit,M31-010,Blue,fit
+M31-009B.fit,M31-009,Blue,fit
+M31-008B.fit,M31-008,Blue,fit
+M31-007B.fit,M31-007,Blue,fit
+M31-006B.fit,M31-006,Blue,fit
+M31-005B.fit,M31-005,Blue,fit
+M31-004B.fit,M31-004,Blue,fit
+M31-003B.fit,M31-003,Blue,fit
+M31-002B.fit,M31-002,Blue,fit
+M31-001B.fit,M31-001,Blue,fit
+M3-008B.fit,M3-008,Blue,fit
+M3-007B.fit,M3-007,Blue,fit
+M3-006B.fit,M3-006,Blue,fit
+M3-005B.fit,M3-005,Blue,fit
+M3-004B.fit,M3-004,Blue,fit
+M3-003B.fit,M3-003,Blue,fit
+M3-002B.fit,M3-002,Blue,fit
+M3-001B.fit,M3-001,Blue,fit
+M27-006B.fit,M27-006,Blue,fit
+M27-005B.fit,M27-005,Blue,fit
+M27-004B.fit,M27-004,Blue,fit
+M27-003B.fit,M27-003,Blue,fit
+M27-002B.fit,M27-002,Blue,fit
+M27-001B.fit,M27-001,Blue,fit
+M13-003B.fit,M13-003,Blue,fit
+M13-002B.fit,M13-002,Blue,fit
+M13-001B.fit,M13-001,Blue,fit
+M109-002B.fit,M109-002,Blue,fit
+M109-001B.fit,M109-001,Blue,fit
+m106b-006B.fit,m106b-006,Blue,fit
+m106b-005B.fit,m106b-005,Blue,fit
+m106b-004B.fit,m106b-004,Blue,fit
+m106b-003B.fit,m106b-003,Blue,fit
+M106-005B.fit,M106-005,Blue,fit
+m106-004B.fit,m106-004,Blue,fit
+M106-003B.fit,M106-003,Blue,fit
+M106-002B.fit,M106-002,Blue,fit
+M106-001B.fit,M106-001,Blue,fit
+M104-00XB.fit,M104-00X,Blue,fit
+M101-B.fit,M101-,Blue,fit
+M101-006B.fit,M101-006,Blue,fit
+M101-005B.fit,M101-005,Blue,fit
+M101-004B.fit,M101-004,Blue,fit
+M101-003B.fit,M101-003,Blue,fit
+M101-002B.fit,M101-002,Blue,fit
+M101-001B.fit,M101-001,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LRGB.fit,LRG,Blue,fit
+LeoT-B.fit,LeoT-,Blue,fit
+Image-00XB.fit,Image-00X,Blue,fit
+IC1805-307B.fit,IC1805-307,Blue,fit
+IC1805-306B.fit,IC1805-306,Blue,fit
+IC1805-305B.fit,IC1805-305,Blue,fit
+IC1805-304B.fit,IC1805-304,Blue,fit
+IC1805-303B.fit,IC1805-303,Blue,fit
+IC1805-302B.fit,IC1805-302,Blue,fit
+IC1805-301B.fit,IC1805-301,Blue,fit
+Horse-002B.fit,Horse-002,Blue,fit
+Horse-001B.fit,Horse-001,Blue,fit
+HGB.fit,HG,Blue,fit
+Hacombined-RGB.fit,Hacombined-RG,Blue,fit
+Group4-LRGB.fit,Group4-LRG,Blue,fit
+Group3-B.fit,Group3-,Blue,fit
+Group19-B.fit,Group19-,Blue,fit
+FS78RGB,FS78RG,Blue,fit
+com-RGB.fit,com-RG,Blue,fit
+combined-RGB.fit,combined-RG,Blue,fit
+combined-LRGB.fit,combined-LRG,Blue,fit
+combined-B.fit,combined-,Blue,fit
+Cocoon-001B.fit,Cocoon-001,Blue,fit
+Cluster-RGB.fit,Cluster-RG,Blue,fit
+cluster-B.fit,cluster-,Blue,fit
+cluster-010B.fit,cluster-010,Blue,fit
+cluster-009B.fit,cluster-009,Blue,fit
+cluster-008B.fit,cluster-008,Blue,fit
+cluster-007B.fit,cluster-007,Blue,fit
+cluster-006B.fit,cluster-006,Blue,fit
+cluster-005B.fit,cluster-005,Blue,fit
+cluster-004B.fit,cluster-004,Blue,fit
+cluster-003B.fit,cluster-003,Blue,fit
+CED214-003B.fit,CED214-003,Blue,fit
+CED214-002B.fit,CED214-002,Blue,fit
+Cave-002B.fit,Cave-002,Blue,fit
+Cave-001B.fit,Cave-001,Blue,fit
+C-001B.fit,C-001,Blue,fit
+Bubble-B.fit,Bubble-,Blue,fit
+B1-LRGB.fit,B1-LRG,Blue,fit
+B.fit,Unknown,Blue,fit
+B.fit,Unknown,Blue,fit
+B.fit,Unknown,Blue,fit
+B.fit,Unknown,Blue,fit
+B.fit,Unknown,Blue,fit
+B.fit,Unknown,Blue,fit
+B.fit,Unknown,Blue,fit
+allLRGB.fit,allLRG,Blue,fit
+7023Iris-RGB.fit,7023Iris-RG,Blue,fit
+7023Iris-LRGB.fit,7023Iris-LRG,Blue,fit
+7023-003B.fit,7023-003,Blue,fit
+7023-002B.fit,7023-002,Blue,fit
+7023-001B.fit,7023-001,Blue,fit
+7000RGB.fit,7000RG,Blue,fit
+6543-B.fit,6543-,Blue,fit
+6543-003B.fit,6543-003,Blue,fit
+6543-002B.fit,6543-002,Blue,fit
+6543-001B.fit,6543-001,Blue,fit
+600sRGB.fit,600sRG,Blue,fit
+405RGB,405RG,Blue,fit
+405RGB,405RG,Blue,fit
+37cluster-002B.fit,37cluster-002,Blue,fit
+37cluster-001-RGB.fit,37cluster-001-RG,Blue,fit
+37cluster-001B.fit,37cluster-001,Blue,fit
+3718-002B.fit,3718-002,Blue,fit
+3718-001B.fit,3718-001,Blue,fit
+300-LRGB.fit,300-LRG,Blue,fit
+2903RGB.fit,2903RG,Blue,fit
+2419-008B.fit,2419-008,Blue,fit
+2419-007B.fit,2419-007,Blue,fit
+2419-006B.fit,2419-006,Blue,fit
+2419-005B.fit,2419-005,Blue,fit
+2419-004B.fit,2419-004,Blue,fit
+2419-003B.fit,2419-003,Blue,fit
+2419-002B.fit,2419-002,Blue,fit
+2419-001B.fit,2419-001,Blue,fit
+2-001B.fit,2-001,Blue,fit
+1st-RGB.fit,1st-RG,Blue,fit
+1NGC7023-004B.fit,1NGC7023-004,Blue,fit
+1NGC7023-003B.fit,1NGC7023-003,Blue,fit
+1NGC7023-002B.fit,1NGC7023-002,Blue,fit
+1NGC7023-001B.fit,1NGC7023-001,Blue,fit
+trio-002G.fit,trio-002,Green,fit
+trio-001G.fit,trio-001,Green,fit
+TB1-G.fit,TB1-,Green,fit
+Stack-G.fit,Stack-,Green,fit
+sh157-003G.fit,sh157-003,Green,fit
+sh157-002G.fit,sh157-002,Green,fit
+sh157-001G.fit,sh157-001,Green,fit
+RR-004G.fit,RR-004,Green,fit
+RR-003G.fit,RR-003,Green,fit
+RR-002G.fit,RR-002,Green,fit
+RR-001G.fit,RR-001,Green,fit
+RR-001G.fit,RR-001,Green,fit
+ofNGC891-002G.fit,ofNGC891-002,Green,fit
+NGC891-003G.fit,NGC891-003,Green,fit
+NGC7635-004G.fit,NGC7635-004,Green,fit
+NGC7635-003G.fit,NGC7635-003,Green,fit
+NGC7635-002G.fit,NGC7635-002,Green,fit
+NGC7635-001G.fit,NGC7635-001,Green,fit
+NGC7023-005G.fit,NGC7023-005,Green,fit
+NGC7023-004G.fit,NGC7023-004,Green,fit
+NGC7023-003G.fit,NGC7023-003,Green,fit
+NGC7023-002G.fit,NGC7023-002,Green,fit
+NGC7023-001G.fit,NGC7023-001,Green,fit
+NGC3718-008G.fit,NGC3718-008,Green,fit
+NGC3718-007G.fit,NGC3718-007,Green,fit
+NGC3718-006G.fit,NGC3718-006,Green,fit
+NGC3718-005G.fit,NGC3718-005,Green,fit
+NGC3718-004G.fit,NGC3718-004,Green,fit
+NGC3718-003G.fit,NGC3718-003,Green,fit
+NGC3718-002G.fit,NGC3718-002,Green,fit
+NGC3718-001G.fit,NGC3718-001,Green,fit
+NGC3190-002G.fit,NGC3190-002,Green,fit
+NGC3190-001G.fit,NGC3190-001,Green,fit
+NGC2903-004G.fit,NGC2903-004,Green,fit
+NGC2903-003G.fit,NGC2903-003,Green,fit
+NGC2903-002G.fit,NGC2903-002,Green,fit
+NGC2903-001G.fit,NGC2903-001,Green,fit
+NGC2403-008G.fit,NGC2403-008,Green,fit
+NGC2403-007G.fit,NGC2403-007,Green,fit
+NGC2403-006G.fit,NGC2403-006,Green,fit
+NGC2403-005G.fit,NGC2403-005,Green,fit
+NGC2403-004G.fit,NGC2403-004,Green,fit
+NGC2403-003G.fit,NGC2403-003,Green,fit
+NGC2403-002G.fit,NGC2403-002,Green,fit
+NGC2403-001G.fit,NGC2403-001,Green,fit
+NGC1333-004G.fit,NGC1333-004,Green,fit
+NGC1333-003G.fit,NGC1333-003,Green,fit
+NGC1333-002G.fit,NGC1333-002,Green,fit
+NGC1333-001G.fit,NGC1333-001,Green,fit
+MM81-82-007G.fit,MM81-82-007,Green,fit
+MM81-82-006G.fit,MM81-82-006,Green,fit
+MM81-82-005G.fit,MM81-82-005,Green,fit
+MM81-82-004G.fit,MM81-82-004,Green,fit
+MM81-82-003G.fit,MM81-82-003,Green,fit
+MM81-82-002G.fit,MM81-82-002,Green,fit
+MM81-82-001G.fit,MM81-82-001,Green,fit
+M97-004G.fit,M97-004,Green,fit
+M97-003G.fit,M97-003,Green,fit
+M97-002G.fit,M97-002,Green,fit
+M97-001G.fit,M97-001,Green,fit
+M82-018G.fit,M82-018,Green,fit
+M82-017G.fit,M82-017,Green,fit
+M82-016G.fit,M82-016,Green,fit
+M82-015G.fit,M82-015,Green,fit
+M82-014G.fit,M82-014,Green,fit
+M82-013G.fit,M82-013,Green,fit
+M82-012G.fit,M82-012,Green,fit
+M82-011G.fit,M82-011,Green,fit
+M82-010G.fit,M82-010,Green,fit
+M82-009G.fit,M82-009,Green,fit
+M82-008G.fit,M82-008,Green,fit
+M82-007G.fit,M82-007,Green,fit
+M82-006G.fit,M82-006,Green,fit
+M82-005G.fit,M82-005,Green,fit
+M82-004G.fit,M82-004,Green,fit
+M82-003G.fit,M82-003,Green,fit
+M82-002G.fit,M82-002,Green,fit
+M82-001G.fit,M82-001,Green,fit
+M8182x-002G.fit,M8182x-002,Green,fit
+M8182x-001G.fit,M8182x-001,Green,fit
+M81-82-005G.fit,M81-82-005,Green,fit
+M81-82-004G.fit,M81-82-004,Green,fit
+M8182-004G.fit,M8182-004,Green,fit
+M81-82-003G.fit,M81-82-003,Green,fit
+M8182-003G.fit,M8182-003,Green,fit
+M81-82-002G.fit,M81-82-002,Green,fit
+M8182-002G.fit,M8182-002,Green,fit
+M81-82-001G.fit,M81-82-001,Green,fit
+M8182-001G.fit,M8182-001,Green,fit
+M81-008G.fit,M81-008,Green,fit
+M81-007G.fit,M81-007,Green,fit
+M81-006G.fit,M81-006,Green,fit
+M81-005G.fit,M81-005,Green,fit
+M81-004G.fit,M81-004,Green,fit
+M81-003G.fit,M81-003,Green,fit
+M81-002G.fit,M81-002,Green,fit
+M81-001G.fit,M81-001,Green,fit
+M78-002G.fit,M78-002,Green,fit
+M78-001G.fit,M78-001,Green,fit
+M63-007G.fit,M63-007,Green,fit
+M63-006G.fit,M63-006,Green,fit
+M63-005G.fit,M63-005,Green,fit
+M63-004G.fit,M63-004,Green,fit
+M63-003G.fit,M63-003,Green,fit
+M63-002G.fit,M63-002,Green,fit
+M63-001G.fit,M63-001,Green,fit
+M57-004G.fit,M57-004,Green,fit
+M57-003G.fit,M57-003,Green,fit
+M57-002G.fit,M57-002,Green,fit
+M57-001G.fit,M57-001,Green,fit
+M51-G.fit,M51-,Green,fit
+M51-600G.fit,M51-600,Green,fit
+M51-006G.fit,M51-006,Green,fit
+M51-005G.fit,M51-005,Green,fit
+M51-004G.fit,M51-004,Green,fit
+M51-003G.fit,M51-003,Green,fit
+M51-002G.fit,M51-002,Green,fit
+M51-001G.fit,M51-001,Green,fit
+M45short-008G.fit,M45short-008,Green,fit
+M45short-007G.fit,M45short-007,Green,fit
+M45short-006G.fit,M45short-006,Green,fit
+M45short-005G.fit,M45short-005,Green,fit
+M45short-004G.fit,M45short-004,Green,fit
+M45short-003G.fit,M45short-003,Green,fit
+M45short-002G.fit,M45short-002,Green,fit
+M45short-001G.fit,M45short-001,Green,fit
+M45-G.fit,M45-,Green,fit
+M45-010G.fit,M45-010,Green,fit
+M45-009G.fit,M45-009,Green,fit
+M45-008G.fit,M45-008,Green,fit
+M45-007G.fit,M45-007,Green,fit
+M45-006G.fit,M45-006,Green,fit
+M45-005G.fit,M45-005,Green,fit
+M45-004G.fit,M45-004,Green,fit
+M45-003G.fit,M45-003,Green,fit
+M45-002G.fit,M45-002,Green,fit
+M45-001G.fit,M45-001,Green,fit
+M42-004G.fit,M42-004,Green,fit
+M42-003G.fit,M42-003,Green,fit
+M42-002G.fit,M42-002,Green,fit
+M42-001G.fit,M42-001,Green,fit
+M33-009G.fit,M33-009,Green,fit
+M33-008G.fit,M33-008,Green,fit
+M33-007G.fit,M33-007,Green,fit
+M33-006G.fit,M33-006,Green,fit
+m33-005G.fit,m33-005,Green,fit
+M33-004G.fit,M33-004,Green,fit
+M33-003G.fit,M33-003,Green,fit
+M33-002G.fit,M33-002,Green,fit
+M33-001G.fit,M33-001,Green,fit
+M31-010G.fit,M31-010,Green,fit
+M31-009G.fit,M31-009,Green,fit
+M31-008G.fit,M31-008,Green,fit
+M31-007G.fit,M31-007,Green,fit
+M31-006G.fit,M31-006,Green,fit
+M31-005G.fit,M31-005,Green,fit
+M31-004G.fit,M31-004,Green,fit
+M31-003G.fit,M31-003,Green,fit
+M31-002G.fit,M31-002,Green,fit
+M31-001G.fit,M31-001,Green,fit
+M3-008G.fit,M3-008,Green,fit
+M3-007G.fit,M3-007,Green,fit
+M3-006G.fit,M3-006,Green,fit
+M3-005G.fit,M3-005,Green,fit
+M3-004G.fit,M3-004,Green,fit
+M3-003G.fit,M3-003,Green,fit
+M3-002G.fit,M3-002,Green,fit
+M3-001G.fit,M3-001,Green,fit
+M27-006G.fit,M27-006,Green,fit
+M27-005G.fit,M27-005,Green,fit
+M27-004G.fit,M27-004,Green,fit
+M27-003G.fit,M27-003,Green,fit
+M27-002G.fit,M27-002,Green,fit
+M27-001G.fit,M27-001,Green,fit
+M13-003G.fit,M13-003,Green,fit
+M13-002G.fit,M13-002,Green,fit
+M13-001G.fit,M13-001,Green,fit
+M109-002G.fit,M109-002,Green,fit
+M109-001G.fit,M109-001,Green,fit
+m106b-006G.fit,m106b-006,Green,fit
+m106b-005G.fit,m106b-005,Green,fit
+m106b-004G.fit,m106b-004,Green,fit
+m106b-003G.fit,m106b-003,Green,fit
+M106-006G.fit,M106-006,Green,fit
+M106-005G.fit,M106-005,Green,fit
+m106-004G.fit,m106-004,Green,fit
+M106-003G.fit,M106-003,Green,fit
+M106-002G.fit,M106-002,Green,fit
+M106-001G.fit,M106-001,Green,fit
+M104-00XG.fit,M104-00X,Green,fit
+M101-G.fit,M101-,Green,fit
+M101-006G.fit,M101-006,Green,fit
+M101-005G.fit,M101-005,Green,fit
+M101-004G.fit,M101-004,Green,fit
+M101-003G.fit,M101-003,Green,fit
+M101-002G.fit,M101-002,Green,fit
+M101-001G.fit,M101-001,Green,fit
+LeoT-G.fit,LeoT-,Green,fit
+Image-00XG.fit,Image-00X,Green,fit
+IC1805-307G.fit,IC1805-307,Green,fit
+IC1805-306G.fit,IC1805-306,Green,fit
+IC1805-305G.fit,IC1805-305,Green,fit
+IC1805-304G.fit,IC1805-304,Green,fit
+IC1805-303G.fit,IC1805-303,Green,fit
+IC1805-302G.fit,IC1805-302,Green,fit
+IC1805-301G.fit,IC1805-301,Green,fit
+Horse-002G.fit,Horse-002,Green,fit
+Horse-001G.fit,Horse-001,Green,fit
+Group2-G.fit,Group2-,Green,fit
+Group20-G.fit,Group20-,Green,fit
+G.fit,Unknown,Green,fit
+G.fit,Unknown,Green,fit
+G.fit,Unknown,Green,fit
+G.fit,Unknown,Green,fit
+G.fit,Unknown,Green,fit
+G.fit,Unknown,Green,fit
+G.fit,Unknown,Green,fit
+combined-G.fit,combined-,Green,fit
+Cocoon-001G.fit,Cocoon-001,Green,fit
+cluster-G.fit,cluster-,Green,fit
+cluster-010G.fit,cluster-010,Green,fit
+cluster-009G.fit,cluster-009,Green,fit
+cluster-008G.fit,cluster-008,Green,fit
+cluster-007G.fit,cluster-007,Green,fit
+cluster-006G.fit,cluster-006,Green,fit
+cluster-005G.fit,cluster-005,Green,fit
+cluster-004G.fit,cluster-004,Green,fit
+cluster-003G.fit,cluster-003,Green,fit
+cluster-001G.fit,cluster-001,Green,fit
+CED214-003G.fit,CED214-003,Green,fit
+CED214-002G.fit,CED214-002,Green,fit
+Cave-002G.fit,Cave-002,Green,fit
+Cave-001G.fit,Cave-001,Green,fit
+C-002G.fit,C-002,Green,fit
+C-001G.fit,C-001,Green,fit
+Bubble-G.fit,Bubble-,Green,fit
+7023-004G.fit,7023-004,Green,fit
+7023-003G.fit,7023-003,Green,fit
+7023-002G.fit,7023-002,Green,fit
+7023-001G.fit,7023-001,Green,fit
+6543-003G.fit,6543-003,Green,fit
+6543-002G.fit,6543-002,Green,fit
+6543-001G.fit,6543-001,Green,fit
+37cluster-002G.fit,37cluster-002,Green,fit
+37cluster-001G.fit,37cluster-001,Green,fit
+3718-003G.fit,3718-003,Green,fit
+3718-002G.fit,3718-002,Green,fit
+3718-001G.fit,3718-001,Green,fit
+300sG.fit,300s,Green,fit
+2419-008G.fit,2419-008,Green,fit
+2419-007G.fit,2419-007,Green,fit
+2419-006G.fit,2419-006,Green,fit
+2419-005G.fit,2419-005,Green,fit
+2419-004G.fit,2419-004,Green,fit
+2419-003G.fit,2419-003,Green,fit
+2419-002G.fit,2419-002,Green,fit
+2419-001G.fit,2419-001,Green,fit
+2-001G.fit,2-001,Green,fit
+1NGC7023-004G.fit,1NGC7023-004,Green,fit
+1NGC7023-003G.fit,1NGC7023-003,Green,fit
+1NGC7023-002G.fit,1NGC7023-002,Green,fit
+1NGC7023-001G.fit,1NGC7023-001,Green,fit
+WizardHa.fit,Wizard Nebula,Hydrogen Alpha,fit
+Wizard3-002Ha.fit,Wizard3-002,Hydrogen Alpha,fit
+Wizard3-001Ha.fit,Wizard3-001,Hydrogen Alpha,fit
+Wizard2-003Ha.fit,Wizard2-003,Hydrogen Alpha,fit
+Wizard2-002Ha.fit,Wizard2-002,Hydrogen Alpha,fit
+Wizard2-001Ha.fit,Wizard2-001,Hydrogen Alpha,fit
+wizard-003Ha.fit,wizard-003,Hydrogen Alpha,fit
+wizard-002Ha.fit,wizard-002,Hydrogen Alpha,fit
+wizard-001Ha.fit,wizard-001,Hydrogen Alpha,fit
+Veil-Ha.fit,Veil-,Hydrogen Alpha,fit
+Veil300-Ha.fit,Veil300-,Hydrogen Alpha,fit
+Veil-002Ha.fit,Veil-002,Hydrogen Alpha,fit
+Veil-001Ha.fit,Veil-001,Hydrogen Alpha,fit
+TulipHa.fit,Tulip,Hydrogen Alpha,fit
+Tulipchanged-007Ha.fit,Tulipchanged-007,Hydrogen Alpha,fit
+Tulipchanged-006Ha.fit,Tulipchanged-006,Hydrogen Alpha,fit
+Tulipchanged-005Ha.fit,Tulipchanged-005,Hydrogen Alpha,fit
+Tulipchanged-004Ha.fit,Tulipchanged-004,Hydrogen Alpha,fit
+Tulipchanged-003Ha.fit,Tulipchanged-003,Hydrogen Alpha,fit
+tulip-003Ha.fit,tulip-003,Hydrogen Alpha,fit
+tulip-002Ha.fit,tulip-002,Hydrogen Alpha,fit
+tulip-001Ha.fit,tulip-001,Hydrogen Alpha,fit
+TricomHa.fit,Tricom,Hydrogen Alpha,fit
+Triangle-005Ha.fit,Triangle-005,Hydrogen Alpha,fit
+Triangle-004Ha.fit,Triangle-004,Hydrogen Alpha,fit
+Triangle-003Ha.fit,Triangle-003,Hydrogen Alpha,fit
+Triangle-002Ha.fit,Triangle-002,Hydrogen Alpha,fit
+Triangle-001Ha.fit,Triangle-001,Hydrogen Alpha,fit
+totHa.fit,tot,Hydrogen Alpha,fit
+totalHa.fit,total,Hydrogen Alpha,fit
+Soul-IC1848-Ha.fit,Soul-IC1848-,Hydrogen Alpha,fit
+SOULIC1848-007Ha.fit,SOULIC1848-007,Hydrogen Alpha,fit
+SOULIC1848-006Ha.fit,SOULIC1848-006,Hydrogen Alpha,fit
+SOULIC1848-004Ha.fit,SOULIC1848-004,Hydrogen Alpha,fit
+SOULIC1848-003Ha.fit,SOULIC1848-003,Hydrogen Alpha,fit
+SOULIC1848-002Ha.fit,SOULIC1848-002,Hydrogen Alpha,fit
+SOULIC1848-001Ha.fit,SOULIC1848-001,Hydrogen Alpha,fit
+RR-001Ha.fit,RR-001,Hydrogen Alpha,fit
+PK164-Ha.fit,PK164-,Hydrogen Alpha,fit
+PK164-007Ha.fit,PK164-007,Hydrogen Alpha,fit
+PK164-006Ha.fit,PK164-006,Hydrogen Alpha,fit
+Pel-012Ha.fit,Pel-012,Hydrogen Alpha,fit
+Pel-011Ha.fit,Pel-011,Hydrogen Alpha,fit
+Pel-010Ha.fit,Pel-010,Hydrogen Alpha,fit
+Pel-009Ha.fit,Pel-009,Hydrogen Alpha,fit
+Pel-008Ha.fit,Pel-008,Hydrogen Alpha,fit
+Pel-007Ha.fit,Pel-007,Hydrogen Alpha,fit
+Pel-006Ha.fit,Pel-006,Hydrogen Alpha,fit
+Pel-005Ha.fit,Pel-005,Hydrogen Alpha,fit
+Pel-004Ha.fit,Pel-004,Hydrogen Alpha,fit
+Pel-003Ha.fit,Pel-003,Hydrogen Alpha,fit
+Pel-002Ha.fit,Pel-002,Hydrogen Alpha,fit
+NGC896-600sHa.fit,NGC896-600s,Hydrogen Alpha,fit
+NGC7000Ha.fit,Unknown,Hydrogen Alpha,fit
+ngc6543-006Ha.fit,ngc6543-006,Hydrogen Alpha,fit
+ngc6543-005Ha.fit,ngc6543-005,Hydrogen Alpha,fit
+ngc6543-004Ha.fit,ngc6543-004,Hydrogen Alpha,fit
+ngc6543-003Ha.fit,ngc6543-003,Hydrogen Alpha,fit
+ngc6543-002Ha.fit,ngc6543-002,Hydrogen Alpha,fit
+ngc6543-001Ha.fit,ngc6543-001,Hydrogen Alpha,fit
+NGC1499-2Ha.fit,NGC1499-2,Hydrogen Alpha,fit
+N-004Ha.fit,N-004,Hydrogen Alpha,fit
+N-003Ha.fit,N-003,Hydrogen Alpha,fit
+N-002Ha.fit,N-002,Hydrogen Alpha,fit
+N-001Ha.fit,N-001,Hydrogen Alpha,fit
+M97-001Ha.fit,M97-001,Hydrogen Alpha,fit
+M82Ha-012Ha.fit,M82Ha-012,Hydrogen Alpha,fit
+M82Ha-010Ha.fit,M82Ha-010,Hydrogen Alpha,fit
+M82Ha-008Ha.fit,M82Ha-008,Hydrogen Alpha,fit
+M82Ha-007Ha.fit,M82Ha-007,Hydrogen Alpha,fit
+M82Ha-005Ha.fit,M82Ha-005,Hydrogen Alpha,fit
+M82Ha-003Ha.fit,M82Ha-003,Hydrogen Alpha,fit
+M82Ha-002Ha.fit,M82Ha-002,Hydrogen Alpha,fit
+M82Ha-001Ha.fit,M82Ha-001,Hydrogen Alpha,fit
+M27MF-002Ha.fit,M27MF-002,Hydrogen Alpha,fit
+M27MF-001Ha.fit,M27MF-001,Hydrogen Alpha,fit
+M27-005Ha.fit,M27-005,Hydrogen Alpha,fit
+M27-004Ha.fit,M27-004,Hydrogen Alpha,fit
+M27-003Ha.fit,M27-003,Hydrogen Alpha,fit
+M27-002Ha.fit,M27-002,Hydrogen Alpha,fit
+M27-001Ha.fit,M27-001,Hydrogen Alpha,fit
+IC443-Ha.fit,IC443-,Hydrogen Alpha,fit
+IC417-012Ha.fit,IC417-012,Hydrogen Alpha,fit
+IC417-011Ha.fit,IC417-011,Hydrogen Alpha,fit
+IC417-010Ha.fit,IC417-010,Hydrogen Alpha,fit
+IC417-009Ha.fit,IC417-009,Hydrogen Alpha,fit
+IC417-008Ha.fit,IC417-008,Hydrogen Alpha,fit
+IC1848Ha.fit,Unknown,Hydrogen Alpha,fit
+IC1396-Ha.fit,IC1396-,Hydrogen Alpha,fit
+IC1396-006Ha.fit,IC1396-006,Hydrogen Alpha,fit
+IC1396-005Ha.fit,IC1396-005,Hydrogen Alpha,fit
+IC1396-004Ha.fit,IC1396-004,Hydrogen Alpha,fit
+IC1396-003Ha.fit,IC1396-003,Hydrogen Alpha,fit
+IC1396-002Ha.fit,IC1396-002,Hydrogen Alpha,fit
+IC1396-001Ha.fit,IC1396-001,Hydrogen Alpha,fit
+Heart-004Ha.fit,Heart-004,Hydrogen Alpha,fit
+Heart-003Ha.fit,Heart-003,Hydrogen Alpha,fit
+Heart-002Ha.fit,Heart-002,Hydrogen Alpha,fit
+Heart-001Ha.fit,Heart-001,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha.fit,Unknown,Hydrogen Alpha,fit
+Ha,Unknown,Hydrogen Alpha,fit
+GroupHa.fit,Group,Hydrogen Alpha,fit
+Crescent600-Ha.fit,Crescent600-,Hydrogen Alpha,fit
+Claw-003Ha.fit,Claw-003,Hydrogen Alpha,fit
+Claw-002Ha.fit,Claw-002,Hydrogen Alpha,fit
+Claw-001Ha.fit,Claw-001,Hydrogen Alpha,fit
+CaveFS78-003Ha.fit,CaveFS78-003,Hydrogen Alpha,fit
+CaveFS78-002Ha.fit,CaveFS78-002,Hydrogen Alpha,fit
+CaveFS78-001Ha.fit,CaveFS78-001,Hydrogen Alpha,fit
+BubbleHa.fit,Unknown,Hydrogen Alpha,fit
+Bubble-002Ha.fit,Bubble-002,Hydrogen Alpha,fit
+Bubble-001Ha.fit,Bubble-001,Hydrogen Alpha,fit
+Broom-005Ha.fit,Broom-005,Hydrogen Alpha,fit
+Broom-004Ha.fit,Broom-004,Hydrogen Alpha,fit
+Broom-003Ha.fit,Broom-003,Hydrogen Alpha,fit
+Broom-002Ha.fit,Broom-002,Hydrogen Alpha,fit
+Broom-001Ha.fit,Broom-001,Hydrogen Alpha,fit
+7000-Ha.fit,7000-,Hydrogen Alpha,fit
+6995-007Ha.fit,6995-007,Hydrogen Alpha,fit
+6995-003Ha.fit,6995-003,Hydrogen Alpha,fit
+6995-002Ha.fit,6995-002,Hydrogen Alpha,fit
+6995-001Ha.fit,6995-001,Hydrogen Alpha,fit
+6992-006Ha.fit,6992-006,Hydrogen Alpha,fit
+6992-005Ha.fit,6992-005,Hydrogen Alpha,fit
+6992-004Ha.fit,6992-004,Hydrogen Alpha,fit
+6992-003Ha.fit,6992-003,Hydrogen Alpha,fit
+6992-002Ha.fit,6992-002,Hydrogen Alpha,fit
+6992-001Ha.fit,6992-001,Hydrogen Alpha,fit
+6888Crescent-003Ha.fit,6888Crescent-003,Hydrogen Alpha,fit
+6888Crescent-002Ha.fit,6888Crescent-002,Hydrogen Alpha,fit
+6888Crescent-001Ha.fit,6888Crescent-001,Hydrogen Alpha,fit
+6888-003Ha.fit,6888-003,Hydrogen Alpha,fit
+6888-002Ha.fit,6888-002,Hydrogen Alpha,fit
+6888-001Ha.fit,6888-001,Hydrogen Alpha,fit
+6820-009Ha.fit,6820-009,Hydrogen Alpha,fit
+6820-008Ha.fit,6820-008,Hydrogen Alpha,fit
+6820-007Ha.fit,6820-007,Hydrogen Alpha,fit
+6820-006Ha.fit,6820-006,Hydrogen Alpha,fit
+6820-005Ha.fit,6820-005,Hydrogen Alpha,fit
+6820-004Ha.fit,6820-004,Hydrogen Alpha,fit
+6820-003Ha.fit,6820-003,Hydrogen Alpha,fit
+6820-002Ha.fit,6820-002,Hydrogen Alpha,fit
+6820-001Ha.fit,6820-001,Hydrogen Alpha,fit
+6543-020Ha.fit,6543-020,Hydrogen Alpha,fit
+6543-019Ha.fit,6543-019,Hydrogen Alpha,fit
+6543-018Ha.fit,6543-018,Hydrogen Alpha,fit
+6543-017Ha.fit,6543-017,Hydrogen Alpha,fit
+6543-016Ha.fit,6543-016,Hydrogen Alpha,fit
+6543-015Ha.fit,6543-015,Hydrogen Alpha,fit
+6543-014Ha.fit,6543-014,Hydrogen Alpha,fit
+6543-013Ha.fit,6543-013,Hydrogen Alpha,fit
+6543-012Ha.fit,6543-012,Hydrogen Alpha,fit
+6543-011Ha.fit,6543-011,Hydrogen Alpha,fit
+6543-010Ha.fit,6543-010,Hydrogen Alpha,fit
+6543-009Ha.fit,6543-009,Hydrogen Alpha,fit
+6543-008Ha.fit,6543-008,Hydrogen Alpha,fit
+6543-007Ha.fit,6543-007,Hydrogen Alpha,fit
+6543-006Ha.fit,6543-006,Hydrogen Alpha,fit
+6543-005Ha.fit,6543-005,Hydrogen Alpha,fit
+6543-004Ha.fit,6543-004,Hydrogen Alpha,fit
+6543-003Ha.fit,6543-003,Hydrogen Alpha,fit
+6543-003Ha.fit,6543-003,Hydrogen Alpha,fit
+6543-002Ha.fit,6543-002,Hydrogen Alpha,fit
+6543-002Ha.fit,6543-002,Hydrogen Alpha,fit
+6543-001Ha.fit,6543-001,Hydrogen Alpha,fit
+6543-001Ha.fit,6543-001,Hydrogen Alpha,fit
+5070-005Ha.fit,5070-005,Hydrogen Alpha,fit
+5070-004Ha.fit,5070-004,Hydrogen Alpha,fit
+5070-003Ha.fit,5070-003,Hydrogen Alpha,fit
+5070-002Ha.fit,5070-002,Hydrogen Alpha,fit
+5070-001Ha.fit,5070-001,Hydrogen Alpha,fit
+-500sHa.fit,-500s,Hydrogen Alpha,fit
+410-007Ha.fit,410-007,Hydrogen Alpha,fit
+410-006Ha.fit,410-006,Hydrogen Alpha,fit
+410-005Ha.fit,410-005,Hydrogen Alpha,fit
+410-004Ha.fit,410-004,Hydrogen Alpha,fit
+410-003Ha.fit,410-003,Hydrogen Alpha,fit
+410-002Ha.fit,410-002,Hydrogen Alpha,fit
+410-001Ha.fit,410-001,Hydrogen Alpha,fit
+300sHa,300s,Hydrogen Alpha,fit
+1848Soul-004Ha.fit,1848Soul-004,Hydrogen Alpha,fit
+1848Soul-003Ha.fit,1848Soul-003,Hydrogen Alpha,fit
+1848Soul-002Ha.fit,1848Soul-002,Hydrogen Alpha,fit
+1848Soul-001Ha.fit,1848Soul-001,Hydrogen Alpha,fit
+155-006Ha.fit,155-006,Hydrogen Alpha,fit
+155-005Ha.fit,155-005,Hydrogen Alpha,fit
+155-004Ha.fit,155-004,Hydrogen Alpha,fit
+155-003Ha.fit,155-003,Hydrogen Alpha,fit
+155-002Ha.fit,155-002,Hydrogen Alpha,fit
+trio-001L.fit,trio-001,Luminescence,fit
+totL.fit,tot,Luminescence,fit
+totL.fit,tot,Luminescence,fit
+TL,Unknown,Luminescence,fit
+TL,Unknown,Luminescence,fit
+stackL.fit,Unknown,Luminescence,fit
+stackL,Unknown,Luminescence,fit
+RR-004L.fit,RR-004,Luminescence,fit
+RR-003L.fit,RR-003,Luminescence,fit
+RR-002L.fit,RR-002,Luminescence,fit
+RR-001L.fit,RR-001,Luminescence,fit
+RR-001L.fit,RR-001,Luminescence,fit
+pk64-300L.fit,pk64-300,Luminescence,fit
+Pacman-300sL.fit,Pacman-300s,Luminescence,fit
+M51-L.fit,M51-,Luminescence,fit
+M51-600L.fit,M51-600,Luminescence,fit
+M106-005L.fit,M106-005,Luminescence,fit
+M101-L.fit,M101-,Luminescence,fit
+M101-3-300sL,M101-3-300s,Luminescence,fit
+M100sL,M100s,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+L.fit,Unknown,Luminescence,fit
+ic410-300sL.fit,ic410-300s,Luminescence,fit
+Group18-L.fit,Group18-,Luminescence,fit
+Group10-L.fit,Group10-,Luminescence,fit
+combined-L.fit,combined-,Luminescence,fit
+B2-L.fit,B2-,Luminescence,fit
+B1L.fit,Unknown,Luminescence,fit
+allL.fit,all,Luminescence,fit
+6--sL,6--s,Luminescence,fit
+60sL,60s,Luminescence,fit
+600sL.fit,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+600sL,600s,Luminescence,fit
+50sL,50s,Luminescence,fit
+40sL.fit,40s,Luminescence,fit
+30sL,30s,Luminescence,fit
+30sL,30s,Luminescence,fit
+300sL.fit,300s,Luminescence,fit
+300sL.fit,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+300sL,300s,Luminescence,fit
+2-001L.fit,2-001,Luminescence,fit
+WizardOIII.fit,Wizard Nebula,Oxygen III,fit
+Wizard3-002OIII.fit,Wizard3-002,Oxygen III,fit
+Wizard3-001OIII.fit,Wizard3-001,Oxygen III,fit
+Wizard2-002OIII.fit,Wizard2-002,Oxygen III,fit
+Wizard2-001OIII.fit,Wizard2-001,Oxygen III,fit
+wizard-003OIII.fit,wizard-003,Oxygen III,fit
+wizard-002OIII.fit,wizard-002,Oxygen III,fit
+wizard-001OIII.fit,wizard-001,Oxygen III,fit
+Veil-OIII.fit,Veil-,Oxygen III,fit
+Veil300-SII-Ha-OIII.fit,Veil300-SII-Ha-,Oxygen III,fit
+Veil300-OIII.fit,Veil300-,Oxygen III,fit
+Veil200-OIII.fit,Veil200-,Oxygen III,fit
+Veil-002OIII.fit,Veil-002,Oxygen III,fit
+Veil-001OIII.fit,Veil-001,Oxygen III,fit
+TulipOIII.fit,Tulip,Oxygen III,fit
+Tulipchanged-007OIII.fit,Tulipchanged-007,Oxygen III,fit
+Tulipchanged-006OIII.fit,Tulipchanged-006,Oxygen III,fit
+Tulipchanged-005OIII.fit,Tulipchanged-005,Oxygen III,fit
+Tulipchanged-004OIII.fit,Tulipchanged-004,Oxygen III,fit
+Tulipchanged-003OIII.fit,Tulipchanged-003,Oxygen III,fit
+tulip-002OIII.fit,tulip-002,Oxygen III,fit
+tulip-001OIII.fit,tulip-001,Oxygen III,fit
+TadpolesOIII.fit,Tadpoles,Oxygen III,fit
+Soul-IC1848-OIII.fit,Soul-IC1848-,Oxygen III,fit
+SOULIC1848-007OIII.fit,SOULIC1848-007,Oxygen III,fit
+SOULIC1848-006OIII.fit,SOULIC1848-006,Oxygen III,fit
+SOULIC1848-005OIII.fit,SOULIC1848-005,Oxygen III,fit
+SOULIC1848-004OIII.fit,SOULIC1848-004,Oxygen III,fit
+SOULIC1848-003OIII.fit,SOULIC1848-003,Oxygen III,fit
+SOULIC1848-002OIII.fit,SOULIC1848-002,Oxygen III,fit
+SOULIC1848-001OIII.fit,SOULIC1848-001,Oxygen III,fit
+SII-Ha-OIII.fit,SII-Ha-,Oxygen III,fit
+RGBSIIHaOIII.fit,RGBSIIHa,Oxygen III,fit
+PTriangle-005OIII.fit,PTriangle-005,Oxygen III,fit
+PTriangle-004OIII.fit,PTriangle-004,Oxygen III,fit
+PTriangle-003OIII.fit,PTriangle-003,Oxygen III,fit
+PTriangle-002OIII.fit,PTriangle-002,Oxygen III,fit
+PTriangle-001OIII.fit,PTriangle-001,Oxygen III,fit
+PK164-OIII.fit,PK164-,Oxygen III,fit
+PK164-007OIII.fit,PK164-007,Oxygen III,fit
+PK164-006OIII.fit,PK164-006,Oxygen III,fit
+PK164-005OIII.fit,PK164-005,Oxygen III,fit
+pacman-007OIII.fit,pacman-007,Oxygen III,fit
+pacman-006OIII.fit,pacman-006,Oxygen III,fit
+pacman-005OIII.fit,pacman-005,Oxygen III,fit
+pacman-004OIII.fit,pacman-004,Oxygen III,fit
+pacman-003OIII.fit,pacman-003,Oxygen III,fit
+pacman-002OIII.fit,pacman-002,Oxygen III,fit
+pacman-001OIII.fit,pacman-001,Oxygen III,fit
+OIII.fit,Unknown,Oxygen III,fit
+OIII.fit,Unknown,Oxygen III,fit
+OIII.fit,Unknown,Oxygen III,fit
+NGC7637-003OIII.fit,NGC7637-003,Oxygen III,fit
+NGC7637-002OIII.fit,NGC7637-002,Oxygen III,fit
+NGC7637-001OIII.fit,NGC7637-001,Oxygen III,fit
+NGC7635-006OIII.fit,NGC7635-006,Oxygen III,fit
+NGC7635-005OIII.fit,NGC7635-005,Oxygen III,fit
+NGC7635-004OIII.fit,NGC7635-004,Oxygen III,fit
+NGC7635-003OIII.fit,NGC7635-003,Oxygen III,fit
+NGC7635-002OIII.fit,NGC7635-002,Oxygen III,fit
+NGC7635-001OIII.fit,NGC7635-001,Oxygen III,fit
+ngc7000OIII,ngc7000,Oxygen III,fit
+NGC7000-009OIII.fit,NGC7000-009,Oxygen III,fit
+NGC7000-008OIII.fit,NGC7000-008,Oxygen III,fit
+NGC7000-007OIII.fit,NGC7000-007,Oxygen III,fit
+NGC7000-006OIII.fit,NGC7000-006,Oxygen III,fit
+NGC7000-005OIII.fit,NGC7000-005,Oxygen III,fit
+NGC7000-004OIII.fit,NGC7000-004,Oxygen III,fit
+NGC7000-003OIII.fit,NGC7000-003,Oxygen III,fit
+NGC7000-002OIII.fit,NGC7000-002,Oxygen III,fit
+NGC7000-001OIII.fit,NGC7000-001,Oxygen III,fit
+NGC6992-002OIII.fit,NGC6992-002,Oxygen III,fit
+NGC6992-001OIII.fit,NGC6992-001,Oxygen III,fit
+NGC6888-004OIII.fit,NGC6888-004,Oxygen III,fit
+NGC6820-006OIII.fit,NGC6820-006,Oxygen III,fit
+NGC6820-005OIII.fit,NGC6820-005,Oxygen III,fit
+NGC6820-004OIII.fit,NGC6820-004,Oxygen III,fit
+NGC6820-003OIII.fit,NGC6820-003,Oxygen III,fit
+NGC6820-002OIII.fit,NGC6820-002,Oxygen III,fit
+NGC6820-001OIII.fit,NGC6820-001,Oxygen III,fit
+ngc6543-006OIII.fit,ngc6543-006,Oxygen III,fit
+ngc6543-005OIII.fit,ngc6543-005,Oxygen III,fit
+ngc6543-004OIII.fit,ngc6543-004,Oxygen III,fit
+ngc6543-003OIII.fit,ngc6543-003,Oxygen III,fit
+ngc6543-002OIII.fit,ngc6543-002,Oxygen III,fit
+ngc6543-001OIII.fit,ngc6543-001,Oxygen III,fit
+NGC2264-004OIII.fit,NGC2264-004,Oxygen III,fit
+NGC2264-003OIII.fit,NGC2264-003,Oxygen III,fit
+NGC2264-002OIII.fit,NGC2264-002,Oxygen III,fit
+NGC2264-001OIII.fit,NGC2264-001,Oxygen III,fit
+NGC1499-006OIII.fit,NGC1499-006,Oxygen III,fit
+NGC1499-005OIII.fit,NGC1499-005,Oxygen III,fit
+NGC1499-004OIII.fit,NGC1499-004,Oxygen III,fit
+NGC1499-003OIII.fit,NGC1499-003,Oxygen III,fit
+NGC1499-002OIII.fit,NGC1499-002,Oxygen III,fit
+NGC1499-001OIII.fit,NGC1499-001,Oxygen III,fit
+m97-300sOIII.fit,m97-300s,Oxygen III,fit
+M97-001OIII.fit,M97-001,Oxygen III,fit
+M57f8-004OIII.fit,M57f8-004,Oxygen III,fit
+M57f8-003OIII.fit,M57f8-003,Oxygen III,fit
+M57f8-002OIII.fit,M57f8-002,Oxygen III,fit
+M57f8-001OIII.fit,M57f8-001,Oxygen III,fit
+M27-OIII.fit,M27-,Oxygen III,fit
+M27OIII,Unknown,Oxygen III,fit
+M27MF-001OIII.fit,M27MF-001,Oxygen III,fit
+M27-005OIII.fit,M27-005,Oxygen III,fit
+M27-004OIII.fit,M27-004,Oxygen III,fit
+M27-003OIII.fit,M27-003,Oxygen III,fit
+M27-002OIII.fit,M27-002,Oxygen III,fit
+M27-001OIII.fit,M27-001,Oxygen III,fit
+IC443-OIII.fit,IC443-,Oxygen III,fit
+IC443-005OIII.fit,IC443-005,Oxygen III,fit
+IC443-004OIII.fit,IC443-004,Oxygen III,fit
+IC443-003OIII.fit,IC443-003,Oxygen III,fit
+IC443-002OIII.fit,IC443-002,Oxygen III,fit
+IC443-001OIII.fit,IC443-001,Oxygen III,fit
+IC417OIII,Unknown,Oxygen III,fit
+IC417-007OIII.fit,IC417-007,Oxygen III,fit
+IC417-006OIII.fit,IC417-006,Oxygen III,fit
+IC417-005OIII.fit,IC417-005,Oxygen III,fit
+IC417-004OIII.fit,IC417-004,Oxygen III,fit
+IC417-003OIII.fit,IC417-003,Oxygen III,fit
+IC417-002OIII.fit,IC417-002,Oxygen III,fit
+IC417-001OIII.fit,IC417-001,Oxygen III,fit
+IC410RR-001OIII.fit,IC410RR-001,Oxygen III,fit
+IC410OIII,Unknown,Oxygen III,fit
+IC410-007OIII.fit,IC410-007,Oxygen III,fit
+IC410-006OIII.fit,IC410-006,Oxygen III,fit
+IC410-005OIII.fit,IC410-005,Oxygen III,fit
+IC410-004OIII.fit,IC410-004,Oxygen III,fit
+IC410-003OIII.fit,IC410-003,Oxygen III,fit
+IC410-002OIII.fit,IC410-002,Oxygen III,fit
+IC410-001OIII.fit,IC410-001,Oxygen III,fit
+IC4053rd-012OIII.fit,IC4053rd-012,Oxygen III,fit
+IC4053rd-011OIII.fit,IC4053rd-011,Oxygen III,fit
+IC4053rd-010OIII.fit,IC4053rd-010,Oxygen III,fit
+IC4053rd-009OIII.fit,IC4053rd-009,Oxygen III,fit
+IC4053rd-008OIII.fit,IC4053rd-008,Oxygen III,fit
+IC4053rd-007OIII.fit,IC4053rd-007,Oxygen III,fit
+IC4053rd-006OIII.fit,IC4053rd-006,Oxygen III,fit
+IC4053rd-005OIII.fit,IC4053rd-005,Oxygen III,fit
+IC4053rd-004OIII.fit,IC4053rd-004,Oxygen III,fit
+IC4053rd-003OIII.fit,IC4053rd-003,Oxygen III,fit
+IC4053rd-002OIII.fit,IC4053rd-002,Oxygen III,fit
+IC4053rd-001OIII.fit,IC4053rd-001,Oxygen III,fit
+IC4052nd-011OIII.fit,IC4052nd-011,Oxygen III,fit
+IC4052nd-010OIII.fit,IC4052nd-010,Oxygen III,fit
+IC4052nd-009OIII.fit,IC4052nd-009,Oxygen III,fit
+IC4052nd-008OIII.fit,IC4052nd-008,Oxygen III,fit
+IC4052nd-007OIII.fit,IC4052nd-007,Oxygen III,fit
+IC4052nd-006OIII.fit,IC4052nd-006,Oxygen III,fit
+IC4052nd-005OIII.fit,IC4052nd-005,Oxygen III,fit
+IC4052nd-004OIII.fit,IC4052nd-004,Oxygen III,fit
+IC4052nd-003OIII.fit,IC4052nd-003,Oxygen III,fit
+IC4052nd-002OIII.fit,IC4052nd-002,Oxygen III,fit
+IC4052nd-001OIII.fit,IC4052nd-001,Oxygen III,fit
+IC1848R-006OIII.fit,IC1848R-006,Oxygen III,fit
+IC1848R-005OIII.fit,IC1848R-005,Oxygen III,fit
+IC1848R-004OIII.fit,IC1848R-004,Oxygen III,fit
+IC1848R-003OIII.fit,IC1848R-003,Oxygen III,fit
+IC1848R-002OIII.fit,IC1848R-002,Oxygen III,fit
+IC1848R-001OIII.fit,IC1848R-001,Oxygen III,fit
+IC1848OIII.fit,Unknown,Oxygen III,fit
+IC1805-002OIII.fit,IC1805-002,Oxygen III,fit
+IC1805-001OIII.fit,IC1805-001,Oxygen III,fit
+IC1396-OIII.fit,IC1396-,Oxygen III,fit
+IC1396-006OIII.fit,IC1396-006,Oxygen III,fit
+IC1396-005OIII.fit,IC1396-005,Oxygen III,fit
+IC1396-004OIII.fit,IC1396-004,Oxygen III,fit
+IC1396-003OIII.fit,IC1396-003,Oxygen III,fit
+IC1396-002OIII.fit,IC1396-002,Oxygen III,fit
+IC1396-001OIII.fit,IC1396-001,Oxygen III,fit
+HeartOIII,Unknown,Oxygen III,fit
+HeartOIII,Unknown,Oxygen III,fit
+Heart-015OIII.fit,Heart-015,Oxygen III,fit
+Heart-014OIII.fit,Heart-014,Oxygen III,fit
+Heart-013OIII.fit,Heart-013,Oxygen III,fit
+Heart-012OIII.fit,Heart-012,Oxygen III,fit
+Heart-011OIII.fit,Heart-011,Oxygen III,fit
+Heart-010OIII.fit,Heart-010,Oxygen III,fit
+Heart-009OIII.fit,Heart-009,Oxygen III,fit
+Heart-008OIII.fit,Heart-008,Oxygen III,fit
+Heart-007OIII.fit,Heart-007,Oxygen III,fit
+Heart-006OIII.fit,Heart-006,Oxygen III,fit
+Heart-005OIII.fit,Heart-005,Oxygen III,fit
+Heart-004OIII.fit,Heart-004,Oxygen III,fit
+Heart-003OIII.fit,Heart-003,Oxygen III,fit
+Heart-002OIII.fit,Heart-002,Oxygen III,fit
+Heart-001OIII.fit,Heart-001,Oxygen III,fit
+HaOIII,Unknown,Oxygen III,fit
+ET-004OIII.fit,ET-004,Oxygen III,fit
+ET-003OIII.fit,ET-003,Oxygen III,fit
+ET-002OIII.fit,ET-002,Oxygen III,fit
+ET-001OIII.fit,ET-001,Oxygen III,fit
+ClawOIII,Unknown,Oxygen III,fit
+Claw-003OIII.fit,Claw-003,Oxygen III,fit
+Claw-002OIII.fit,Claw-002,Oxygen III,fit
+Claw-001OIII.fit,Claw-001,Oxygen III,fit
+CED214-013OIII.fit,CED214-013,Oxygen III,fit
+CED214-012OIII.fit,CED214-012,Oxygen III,fit
+CED214-011OIII.fit,CED214-011,Oxygen III,fit
+CED214-010OIII.fit,CED214-010,Oxygen III,fit
+CED214-009OIII.fit,CED214-009,Oxygen III,fit
+CED214-008OIII.fit,CED214-008,Oxygen III,fit
+CED214-007OIII.fit,CED214-007,Oxygen III,fit
+CED214-006OIII.fit,CED214-006,Oxygen III,fit
+CED214-005OIII.fit,CED214-005,Oxygen III,fit
+CED214-004OIII.fit,CED214-004,Oxygen III,fit
+CED214-003OIII.fit,CED214-003,Oxygen III,fit
+CED214-002OIII.fit,CED214-002,Oxygen III,fit
+CED214-001OIII.fit,CED214-001,Oxygen III,fit
+CaveOIII.fit,Unknown,Oxygen III,fit
+CaveFS78-003OIII.fit,CaveFS78-003,Oxygen III,fit
+CaveFS78-002OIII.fit,CaveFS78-002,Oxygen III,fit
+CaveFS78-001OIII.fit,CaveFS78-001,Oxygen III,fit
+Cave2-006OIII.fit,Cave2-006,Oxygen III,fit
+Cave2-005OIII.fit,Cave2-005,Oxygen III,fit
+Cave2-004OIII.fit,Cave2-004,Oxygen III,fit
+Cave2-003OIII.fit,Cave2-003,Oxygen III,fit
+Cave2-002OIII.fit,Cave2-002,Oxygen III,fit
+Cave2-001OIII.fit,Cave2-001,Oxygen III,fit
+Cave07-006OIII.fit,Cave07-006,Oxygen III,fit
+Cave07-005OIII.fit,Cave07-005,Oxygen III,fit
+Cave07-004OIII.fit,Cave07-004,Oxygen III,fit
+Cave07-003OIII.fit,Cave07-003,Oxygen III,fit
+Cave07-002OIII.fit,Cave07-002,Oxygen III,fit
+Cave-008OIII.fit,Cave-008,Oxygen III,fit
+Cave-007OIII.fit,Cave-007,Oxygen III,fit
+Cave-006OIII.fit,Cave-006,Oxygen III,fit
+Cave-005OIII.fit,Cave-005,Oxygen III,fit
+Cave-004OIII.fit,Cave-004,Oxygen III,fit
+Cave-003OIII.fit,Cave-003,Oxygen III,fit
+Cave-002OIII.fit,Cave-002,Oxygen III,fit
+Cave-001OIII.fit,Cave-001,Oxygen III,fit
+CatseyeOIII,Catseye,Oxygen III,fit
+CatseyeN-002OIII.fit,CatseyeN-002,Oxygen III,fit
+CatseyeN-001OIII.fit,CatseyeN-001,Oxygen III,fit
+BubbleOIII.fit,Unknown,Oxygen III,fit
+Bubble-001OIII.fit,Bubble-001,Oxygen III,fit
+Broom-005OIII.fit,Broom-005,Oxygen III,fit
+Broom-004OIII.fit,Broom-004,Oxygen III,fit
+Broom-003OIII.fit,Broom-003,Oxygen III,fit
+Broom-002OIII.fit,Broom-002,Oxygen III,fit
+Broom-001OIII.fit,Broom-001,Oxygen III,fit
+aNGC7635-006OIII.fit,aNGC7635-006,Oxygen III,fit
+aNGC7635-005OIII.fit,aNGC7635-005,Oxygen III,fit
+aNGC7635-004OIII.fit,aNGC7635-004,Oxygen III,fit
+aNGC7635-003OIII.fit,aNGC7635-003,Oxygen III,fit
+aNGC7635-002OIII.fit,aNGC7635-002,Oxygen III,fit
+aNGC7635-001OIII.fit,aNGC7635-001,Oxygen III,fit
+7000OIII.fit,Unknown,Oxygen III,fit
+6995-007OIII.fit,6995-007,Oxygen III,fit
+6995-003OIII.fit,6995-003,Oxygen III,fit
+6995-002OIII.fit,6995-002,Oxygen III,fit
+6995-001OIII.fit,6995-001,Oxygen III,fit
+6992-006OIII.fit,6992-006,Oxygen III,fit
+6992-005OIII.fit,6992-005,Oxygen III,fit
+6992-004OIII.fit,6992-004,Oxygen III,fit
+6992-003OIII.fit,6992-003,Oxygen III,fit
+6992-002OIII.fit,6992-002,Oxygen III,fit
+6992-001OIII.fit,6992-001,Oxygen III,fit
+6888OIII,Unknown,Oxygen III,fit
+6888Crescent-002OIII.fit,6888Crescent-002,Oxygen III,fit
+6888Crescent-001OIII.fit,6888Crescent-001,Oxygen III,fit
+6888-002OIII.fit,6888-002,Oxygen III,fit
+6888-001OIII.fit,6888-001,Oxygen III,fit
+6820-007OIII.fit,6820-007,Oxygen III,fit
+6820-006OIII.fit,6820-006,Oxygen III,fit
+6820-005OIII.fit,6820-005,Oxygen III,fit
+6820-004OIII.fit,6820-004,Oxygen III,fit
+6820-003OIII.fit,6820-003,Oxygen III,fit
+6820-002OIII.fit,6820-002,Oxygen III,fit
+6543OIII,Unknown,Oxygen III,fit
+6543OIII,Unknown,Oxygen III,fit
+6543OIII,Unknown,Oxygen III,fit
+6543OIII,Unknown,Oxygen III,fit
+6543-020OIII.fit,6543-020,Oxygen III,fit
+6543-019OIII.fit,6543-019,Oxygen III,fit
+6543-018OIII.fit,6543-018,Oxygen III,fit
+6543-017OIII.fit,6543-017,Oxygen III,fit
+6543-016OIII.fit,6543-016,Oxygen III,fit
+6543-015OIII.fit,6543-015,Oxygen III,fit
+6543-014OIII.fit,6543-014,Oxygen III,fit
+6543-013OIII.fit,6543-013,Oxygen III,fit
+6543-012OIII.fit,6543-012,Oxygen III,fit
+6543-011OIII.fit,6543-011,Oxygen III,fit
+6543-010OIII.fit,6543-010,Oxygen III,fit
+6543-009OIII.fit,6543-009,Oxygen III,fit
+6543-008OIII.fit,6543-008,Oxygen III,fit
+6543-007OIII.fit,6543-007,Oxygen III,fit
+6543-006OIII.fit,6543-006,Oxygen III,fit
+6543-005OIII.fit,6543-005,Oxygen III,fit
+6543-004OIII.fit,6543-004,Oxygen III,fit
+6543-003OIII.fit,6543-003,Oxygen III,fit
+6543-003OIII.fit,6543-003,Oxygen III,fit
+6543-002OIII.fit,6543-002,Oxygen III,fit
+6543-002OIII.fit,6543-002,Oxygen III,fit
+6543-001OIII.fit,6543-001,Oxygen III,fit
+6543-001OIII.fit,6543-001,Oxygen III,fit
+600sOIII,600s,Oxygen III,fit
+600sOIII,600s,Oxygen III,fit
+5070RGBSIIHaOIII.fit,5070RGBSIIHa,Oxygen III,fit
+5070RGBSIIHaOIII,5070RGBSIIHa,Oxygen III,fit
+5070OIII,Unknown,Oxygen III,fit
+5070-004OIII.fit,5070-004,Oxygen III,fit
+5070-003OIII.fit,5070-003,Oxygen III,fit
+5070-002OIII.fit,5070-002,Oxygen III,fit
+5070-001OIII.fit,5070-001,Oxygen III,fit
+410-006OIII.fit,410-006,Oxygen III,fit
+410-005OIII.fit,410-005,Oxygen III,fit
+410-004OIII.fit,410-004,Oxygen III,fit
+410-003OIII.fit,410-003,Oxygen III,fit
+410-002OIII.fit,410-002,Oxygen III,fit
+405OIII,405,Oxygen III,fit
+300sOIII,300s,Oxygen III,fit
+1848Soul-003OIII.fit,1848Soul-003,Oxygen III,fit
+1848Soul-002OIII.fit,1848Soul-002,Oxygen III,fit
+1848Soul-001OIII.fit,1848Soul-001,Oxygen III,fit
+1848-005OIII.fit,1848-005,Oxygen III,fit
+1848-004OIII.fit,1848-004,Oxygen III,fit
+1848-003OIII.fit,1848-003,Oxygen III,fit
+1848-002OIII.fit,1848-002,Oxygen III,fit
+1848-001OIII.fit,1848-001,Oxygen III,fit
+trio-002R.fit,trio-002,Red,fit
+TB1-R.fit,TB1-,Red,fit
+stack-R.fit,stack-,Red,fit
+stackR.fit,Unknown,Red,fit
+stack-R,stack-,Red,fit
+stackR,Unknown,Red,fit
+sh157-003R.fit,sh157-003,Red,fit
+sh157-002R.fit,sh157-002,Red,fit
+sh157-001R.fit,sh157-001,Red,fit
+RR-004R.fit,RR-004,Red,fit
+RR-003R.fit,RR-003,Red,fit
+RR-002R.fit,RR-002,Red,fit
+RR-002R.fit,RR-002,Red,fit
+RR-001R.fit,RR-001,Red,fit
+RR-001R.fit,RR-001,Red,fit
+R.fit,Unknown,Red,fit
+R.fit,Unknown,Red,fit
+R.fit,Unknown,Red,fit
+R.fit,Unknown,Red,fit
+R.fit,Unknown,Red,fit
+R.fit,Unknown,Red,fit
+ofNGC891-001R.fit,ofNGC891-001,Red,fit
+NGC891-004R.fit,NGC891-004,Red,fit
+NGC891-003R.fit,NGC891-003,Red,fit
+NGC7635-004R.fit,NGC7635-004,Red,fit
+NGC7635-003R.fit,NGC7635-003,Red,fit
+NGC7635-002R.fit,NGC7635-002,Red,fit
+NGC7635-001R.fit,NGC7635-001,Red,fit
+NGC7023-005R.fit,NGC7023-005,Red,fit
+NGC7023-004R.fit,NGC7023-004,Red,fit
+NGC7023-003R.fit,NGC7023-003,Red,fit
+NGC7023-002R.fit,NGC7023-002,Red,fit
+NGC7023-001R.fit,NGC7023-001,Red,fit
+NGC3718-009R.fit,NGC3718-009,Red,fit
+NGC3718-008R.fit,NGC3718-008,Red,fit
+NGC3718-007R.fit,NGC3718-007,Red,fit
+NGC3718-006R.fit,NGC3718-006,Red,fit
+NGC3718-005R.fit,NGC3718-005,Red,fit
+NGC3718-004R.fit,NGC3718-004,Red,fit
+NGC3718-003R.fit,NGC3718-003,Red,fit
+NGC3718-002R.fit,NGC3718-002,Red,fit
+NGC3718-001R.fit,NGC3718-001,Red,fit
+NGC3190-002R.fit,NGC3190-002,Red,fit
+NGC3190-001R.fit,NGC3190-001,Red,fit
+NGC2903-004R.fit,NGC2903-004,Red,fit
+NGC2903-003R.fit,NGC2903-003,Red,fit
+NGC2903-002R.fit,NGC2903-002,Red,fit
+NGC2903-001R.fit,NGC2903-001,Red,fit
+NGC2403R,Unknown,Red,fit
+NGC2403-008R.fit,NGC2403-008,Red,fit
+NGC2403-007R.fit,NGC2403-007,Red,fit
+NGC2403-006R.fit,NGC2403-006,Red,fit
+NGC2403-005R.fit,NGC2403-005,Red,fit
+NGC2403-004R.fit,NGC2403-004,Red,fit
+NGC2403-003R.fit,NGC2403-003,Red,fit
+NGC2403-002R.fit,NGC2403-002,Red,fit
+NGC2403-001R.fit,NGC2403-001,Red,fit
+NGC1333-004R.fit,NGC1333-004,Red,fit
+NGC1333-003R.fit,NGC1333-003,Red,fit
+NGC1333-002R.fit,NGC1333-002,Red,fit
+NGC1333-001R.fit,NGC1333-001,Red,fit
+MM81-82-007R.fit,MM81-82-007,Red,fit
+MM81-82-006R.fit,MM81-82-006,Red,fit
+MM81-82-005R.fit,MM81-82-005,Red,fit
+MM81-82-004R.fit,MM81-82-004,Red,fit
+MM81-82-003R.fit,MM81-82-003,Red,fit
+MM81-82-002R.fit,MM81-82-002,Red,fit
+MM81-82-001R.fit,MM81-82-001,Red,fit
+M97-004R.fit,M97-004,Red,fit
+M97-003R.fit,M97-003,Red,fit
+M97-002R.fit,M97-002,Red,fit
+M97-001R.fit,M97-001,Red,fit
+M82-018R.fit,M82-018,Red,fit
+M82-017R.fit,M82-017,Red,fit
+M82-016R.fit,M82-016,Red,fit
+M82-015R.fit,M82-015,Red,fit
+M82-014R.fit,M82-014,Red,fit
+M82-013R.fit,M82-013,Red,fit
+M82-012R.fit,M82-012,Red,fit
+M82-011R.fit,M82-011,Red,fit
+M82-010R.fit,M82-010,Red,fit
+M82-009R.fit,M82-009,Red,fit
+M82-008R.fit,M82-008,Red,fit
+M82-007R.fit,M82-007,Red,fit
+M82-006R.fit,M82-006,Red,fit
+M82-005R.fit,M82-005,Red,fit
+M82-004R.fit,M82-004,Red,fit
+M82-003R.fit,M82-003,Red,fit
+M82-002R.fit,M82-002,Red,fit
+M82-001R.fit,M82-001,Red,fit
+M8182x-002R.fit,M8182x-002,Red,fit
+M8182x-001R.fit,M8182x-001,Red,fit
+M81-82-005R.fit,M81-82-005,Red,fit
+M81-82-004R.fit,M81-82-004,Red,fit
+M8182-004R.fit,M8182-004,Red,fit
+M81-82-003R.fit,M81-82-003,Red,fit
+M8182-003R.fit,M8182-003,Red,fit
+M81-82-002R.fit,M81-82-002,Red,fit
+M8182-002R.fit,M8182-002,Red,fit
+M81-82-001R.fit,M81-82-001,Red,fit
+M8182-001R.fit,M8182-001,Red,fit
+M81-008R.fit,M81-008,Red,fit
+M81-007R.fit,M81-007,Red,fit
+M81-006R.fit,M81-006,Red,fit
+M81-005R.fit,M81-005,Red,fit
+M81-004R.fit,M81-004,Red,fit
+M81-003R.fit,M81-003,Red,fit
+M81-002R.fit,M81-002,Red,fit
+M81-001R.fit,M81-001,Red,fit
+M78-002R.fit,M78-002,Red,fit
+M78-001R.fit,M78-001,Red,fit
+M63R,Unknown,Red,fit
+M63-007R.fit,M63-007,Red,fit
+M63-006R.fit,M63-006,Red,fit
+M63-005R.fit,M63-005,Red,fit
+M63-004R.fit,M63-004,Red,fit
+M63-003R.fit,M63-003,Red,fit
+M63-002R.fit,M63-002,Red,fit
+M63-001R.fit,M63-001,Red,fit
+m57-100sR.fit,m57-100s,Red,fit
+M57-004R.fit,M57-004,Red,fit
+M57-003R.fit,M57-003,Red,fit
+M57-002R.fit,M57-002,Red,fit
+M57-001R.fit,M57-001,Red,fit
+M51-R.fit,M51-,Red,fit
+M51-006R.fit,M51-006,Red,fit
+M51-005R.fit,M51-005,Red,fit
+M51-004R.fit,M51-004,Red,fit
+M51-003R.fit,M51-003,Red,fit
+M51-002R.fit,M51-002,Red,fit
+M51-001R.fit,M51-001,Red,fit
+M45short-008R.fit,M45short-008,Red,fit
+M45short-007R.fit,M45short-007,Red,fit
+M45short-006R.fit,M45short-006,Red,fit
+M45short-005R.fit,M45short-005,Red,fit
+M45short-004R.fit,M45short-004,Red,fit
+M45short-003R.fit,M45short-003,Red,fit
+M45short-002R.fit,M45short-002,Red,fit
+M45short-001R.fit,M45short-001,Red,fit
+M45-R.fit,M45-,Red,fit
+M45-010R.fit,M45-010,Red,fit
+M45-009R.fit,M45-009,Red,fit
+M45-008R.fit,M45-008,Red,fit
+M45-007R.fit,M45-007,Red,fit
+M45-006R.fit,M45-006,Red,fit
+M45-005R.fit,M45-005,Red,fit
+M45-004R.fit,M45-004,Red,fit
+M45-003R.fit,M45-003,Red,fit
+M45-002R.fit,M45-002,Red,fit
+M45-001R.fit,M45-001,Red,fit
+M42-004R.fit,M42-004,Red,fit
+M42-003R.fit,M42-003,Red,fit
+M42-002R.fit,M42-002,Red,fit
+M42-001R.fit,M42-001,Red,fit
+M33-009R.fit,M33-009,Red,fit
+M33-008R.fit,M33-008,Red,fit
+M33-007R.fit,M33-007,Red,fit
+M33-006R.fit,M33-006,Red,fit
+M33-005R.fit,M33-005,Red,fit
+M33-004R.fit,M33-004,Red,fit
+M33-003R.fit,M33-003,Red,fit
+M33-002R.fit,M33-002,Red,fit
+M33-001R.fit,M33-001,Red,fit
+M31-010R.fit,M31-010,Red,fit
+M31-009R.fit,M31-009,Red,fit
+M31-008R.fit,M31-008,Red,fit
+M31-007R.fit,M31-007,Red,fit
+M31-006R.fit,M31-006,Red,fit
+M31-005R.fit,M31-005,Red,fit
+M31-004R.fit,M31-004,Red,fit
+M31-003R.fit,M31-003,Red,fit
+M31-002R.fit,M31-002,Red,fit
+M31-001R.fit,M31-001,Red,fit
+M3-008R.fit,M3-008,Red,fit
+M3-007R.fit,M3-007,Red,fit
+M3-006R.fit,M3-006,Red,fit
+M3-005R.fit,M3-005,Red,fit
+M3-004R.fit,M3-004,Red,fit
+M3-003R.fit,M3-003,Red,fit
+M3-002R.fit,M3-002,Red,fit
+M3-001R.fit,M3-001,Red,fit
+M27-007R.fit,M27-007,Red,fit
+M27-006R.fit,M27-006,Red,fit
+M27-005R.fit,M27-005,Red,fit
+M27-004R.fit,M27-004,Red,fit
+M27-003R.fit,M27-003,Red,fit
+M27-002R.fit,M27-002,Red,fit
+M27-001R.fit,M27-001,Red,fit
+M13-003R.fit,M13-003,Red,fit
+M13-002R.fit,M13-002,Red,fit
+M13-001R.fit,M13-001,Red,fit
+M109-002R.fit,M109-002,Red,fit
+M109-001R.fit,M109-001,Red,fit
+m106b-006R.fit,m106b-006,Red,fit
+m106b-005R.fit,m106b-005,Red,fit
+m106b-004R.fit,m106b-004,Red,fit
+m106b-003R.fit,m106b-003,Red,fit
+M106-006R.fit,M106-006,Red,fit
+M106-005R.fit,M106-005,Red,fit
+m106-004R.fit,m106-004,Red,fit
+M106-003R.fit,M106-003,Red,fit
+M106-002R.fit,M106-002,Red,fit
+M106-001R.fit,M106-001,Red,fit
+M104-00XR.fit,M104-00X,Red,fit
+M101-R.fit,M101-,Red,fit
+M101-007R.fit,M101-007,Red,fit
+M101-006R.fit,M101-006,Red,fit
+M101-005R.fit,M101-005,Red,fit
+M101-004R.fit,M101-004,Red,fit
+M101-003R.fit,M101-003,Red,fit
+M101-002R.fit,M101-002,Red,fit
+M101-001R.fit,M101-001,Red,fit
+LeoTrio-001R.fit,LeoTrio-001,Red,fit
+LeoT-R.fit,LeoT-,Red,fit
+Image-00XR.fit,Image-00X,Red,fit
+IC1805-308R.fit,IC1805-308,Red,fit
+IC1805-307R.fit,IC1805-307,Red,fit
+IC1805-306R.fit,IC1805-306,Red,fit
+IC1805-305R.fit,IC1805-305,Red,fit
+IC1805-304R.fit,IC1805-304,Red,fit
+IC1805-303R.fit,IC1805-303,Red,fit
+IC1805-302R.fit,IC1805-302,Red,fit
+IC1805-301R.fit,IC1805-301,Red,fit
+Horse-002R.fit,Horse-002,Red,fit
+Horse-001R.fit,Horse-001,Red,fit
+Group21-R.fit,Group21-,Red,fit
+Group1-R.fit,Group1-,Red,fit
+combined-R.fit,combined-,Red,fit
+Cocoon-001R.fit,Cocoon-001,Red,fit
+cluster-R.fit,cluster-,Red,fit
+cluster-010R.fit,cluster-010,Red,fit
+cluster-009R.fit,cluster-009,Red,fit
+cluster-008R.fit,cluster-008,Red,fit
+cluster-007R.fit,cluster-007,Red,fit
+cluster-006R.fit,cluster-006,Red,fit
+cluster-005R.fit,cluster-005,Red,fit
+cluster-004R.fit,cluster-004,Red,fit
+cluster-003R.fit,cluster-003,Red,fit
+cluster-002R.fit,cluster-002,Red,fit
+cluster-001R.fit,cluster-001,Red,fit
+CED214-003R.fit,CED214-003,Red,fit
+CED214-002R.fit,CED214-002,Red,fit
+CED214-001R.fit,CED214-001,Red,fit
+Cave-002R.fit,Cave-002,Red,fit
+Cave-001R.fit,Cave-001,Red,fit
+C-002R.fit,C-002,Red,fit
+C-001R.fit,C-001,Red,fit
+Bubble-R.fit,Bubble-,Red,fit
+7023-004R.fit,7023-004,Red,fit
+7023-003R.fit,7023-003,Red,fit
+7023-002R.fit,7023-002,Red,fit
+7023-001R.fit,7023-001,Red,fit
+6543-R.fit,6543-,Red,fit
+6543-003R.fit,6543-003,Red,fit
+6543-002R.fit,6543-002,Red,fit
+6543-001R.fit,6543-001,Red,fit
+60sR,60s,Red,fit
+40sR.fit,40s,Red,fit
+37cluster-002R.fit,37cluster-002,Red,fit
+37cluster-001R.fit,37cluster-001,Red,fit
+3718-003R.fit,3718-003,Red,fit
+3718-002R.fit,3718-002,Red,fit
+3718-001R.fit,3718-001,Red,fit
+300sR.fit,300s,Red,fit
+2903R,2903,Red,fit
+2419-008R.fit,2419-008,Red,fit
+2419-007R.fit,2419-007,Red,fit
+2419-006R.fit,2419-006,Red,fit
+2419-005R.fit,2419-005,Red,fit
+2419-004R.fit,2419-004,Red,fit
+2419-003R.fit,2419-003,Red,fit
+2419-002R.fit,2419-002,Red,fit
+2419-001R.fit,2419-001,Red,fit
+2-001R.fit,2-001,Red,fit
+1NGC7023-004R.fit,1NGC7023-004,Red,fit
+1NGC7023-003R.fit,1NGC7023-003,Red,fit
+1NGC7023-002R.fit,1NGC7023-002,Red,fit
+1NGC7023-001R.fit,1NGC7023-001,Red,fit
+wiz-SII,wiz-,Sulphur II,fit
+WizardSII.fit,Wizard Nebula,Sulphur II,fit
+Wizard3-002SII.fit,Wizard3-002,Sulphur II,fit
+Wizard3-001SII.fit,Wizard3-001,Sulphur II,fit
+Wizard2-002SII.fit,Wizard2-002,Sulphur II,fit
+Wizard2-001SII.fit,Wizard2-001,Sulphur II,fit
+wizard-002SII.fit,wizard-002,Sulphur II,fit
+wizard-001SII.fit,wizard-001,Sulphur II,fit
+Wiz2SII,Wiz2,Sulphur II,fit
+Veil-SII.fit,Veil-,Sulphur II,fit
+Veil-Ha-OIII-SII.fit,Veil-Ha-OIII-,Sulphur II,fit
+Veil300-SII.fit,Veil300-,Sulphur II,fit
+Veil-001SII.fit,Veil-001,Sulphur II,fit
+TulipSII.fit,Tulip,Sulphur II,fit
+TulipSII,Tulip,Sulphur II,fit
+Tulipchanged-007SII.fit,Tulipchanged-007,Sulphur II,fit
+Tulipchanged-006SII.fit,Tulipchanged-006,Sulphur II,fit
+Tulipchanged-005SII.fit,Tulipchanged-005,Sulphur II,fit
+Tulipchanged-004SII.fit,Tulipchanged-004,Sulphur II,fit
+Tulipchanged-003SII.fit,Tulipchanged-003,Sulphur II,fit
+tulip-002SII.fit,tulip-002,Sulphur II,fit
+tulip-001SII.fit,tulip-001,Sulphur II,fit
+TadpolesSII.fit,Tadpoles,Sulphur II,fit
+SOULIC1848-007SII.fit,SOULIC1848-007,Sulphur II,fit
+SOULIC1848-006SII.fit,SOULIC1848-006,Sulphur II,fit
+SOULIC1848-005SII.fit,SOULIC1848-005,Sulphur II,fit
+SOULIC1848-004SII.fit,SOULIC1848-004,Sulphur II,fit
+SOULIC1848-003SII.fit,SOULIC1848-003,Sulphur II,fit
+SOULIC1848-002SII.fit,SOULIC1848-002,Sulphur II,fit
+SOULIC1848-001SII.fit,SOULIC1848-001,Sulphur II,fit
+Soul-IC1448-SII.fit,Soul-IC1448-,Sulphur II,fit
+SII.fit,Unknown,Sulphur II,fit
+SII.fit,Unknown,Sulphur II,fit
+SII.fit,Unknown,Sulphur II,fit
+RGBSII.fit,Unknown,Sulphur II,fit
+PTriangle-005SII.fit,PTriangle-005,Sulphur II,fit
+PTriangle-004SII.fit,PTriangle-004,Sulphur II,fit
+PTriangle-003SII.fit,PTriangle-003,Sulphur II,fit
+PTriangle-002SII.fit,PTriangle-002,Sulphur II,fit
+PTriangle-001SII.fit,PTriangle-001,Sulphur II,fit
+pacman-006SII.fit,pacman-006,Sulphur II,fit
+pacman-005SII.fit,pacman-005,Sulphur II,fit
+pacman-004SII.fit,pacman-004,Sulphur II,fit
+pacman-003SII.fit,pacman-003,Sulphur II,fit
+pacman-002SII.fit,pacman-002,Sulphur II,fit
+pacman-001SII.fit,pacman-001,Sulphur II,fit
+NGC7637-003SII.fit,NGC7637-003,Sulphur II,fit
+NGC7637-002SII.fit,NGC7637-002,Sulphur II,fit
+NGC7637-001SII.fit,NGC7637-001,Sulphur II,fit
+NGC7635-006SII.fit,NGC7635-006,Sulphur II,fit
+NGC7635-005SII.fit,NGC7635-005,Sulphur II,fit
+NGC7635-004SII.fit,NGC7635-004,Sulphur II,fit
+NGC7635-003SII.fit,NGC7635-003,Sulphur II,fit
+NGC7635-002SII.fit,NGC7635-002,Sulphur II,fit
+NGC7635-001SII.fit,NGC7635-001,Sulphur II,fit
+NGC7000SII,Unknown,Sulphur II,fit
+NGC7000-009SII.fit,NGC7000-009,Sulphur II,fit
+NGC7000-008SII.fit,NGC7000-008,Sulphur II,fit
+NGC7000-007SII.fit,NGC7000-007,Sulphur II,fit
+NGC7000-006SII.fit,NGC7000-006,Sulphur II,fit
+NGC7000-005SII.fit,NGC7000-005,Sulphur II,fit
+NGC7000-004SII.fit,NGC7000-004,Sulphur II,fit
+NGC7000-003SII.fit,NGC7000-003,Sulphur II,fit
+NGC7000-002SII.fit,NGC7000-002,Sulphur II,fit
+NGC7000-001SII.fit,NGC7000-001,Sulphur II,fit
+NGC6992-002SII.fit,NGC6992-002,Sulphur II,fit
+NGC6992-001SII.fit,NGC6992-001,Sulphur II,fit
+NGC6888-004SII.fit,NGC6888-004,Sulphur II,fit
+NGC6888-003SII.fit,NGC6888-003,Sulphur II,fit
+NGC6888-002SII.fit,NGC6888-002,Sulphur II,fit
+NGC6888-001SII.fit,NGC6888-001,Sulphur II,fit
+NGC6820SII,Unknown,Sulphur II,fit
+NGC6820-006SII.fit,NGC6820-006,Sulphur II,fit
+NGC6820-005SII.fit,NGC6820-005,Sulphur II,fit
+NGC6820-004SII.fit,NGC6820-004,Sulphur II,fit
+NGC6820-003SII.fit,NGC6820-003,Sulphur II,fit
+NGC6820-002SII.fit,NGC6820-002,Sulphur II,fit
+NGC6820-001SII.fit,NGC6820-001,Sulphur II,fit
+NGC2264-003SII.fit,NGC2264-003,Sulphur II,fit
+NGC2264-002SII.fit,NGC2264-002,Sulphur II,fit
+NGC2264-001SII.fit,NGC2264-001,Sulphur II,fit
+NGC1499SII.fit,Unknown,Sulphur II,fit
+NGC1499-006SII.fit,NGC1499-006,Sulphur II,fit
+NGC1499-005SII.fit,NGC1499-005,Sulphur II,fit
+NGC1499-004SII.fit,NGC1499-004,Sulphur II,fit
+NGC1499-003SII.fit,NGC1499-003,Sulphur II,fit
+NGC1499-002SII.fit,NGC1499-002,Sulphur II,fit
+NGC1499-001SII.fit,NGC1499-001,Sulphur II,fit
+M57f8-004SII.fit,M57f8-004,Sulphur II,fit
+M57f8-003SII.fit,M57f8-003,Sulphur II,fit
+M57f8-002SII.fit,M57f8-002,Sulphur II,fit
+IC443-SII.fit,IC443-,Sulphur II,fit
+IC443SII,Unknown,Sulphur II,fit
+IC443-004SII.fit,IC443-004,Sulphur II,fit
+IC443-003SII.fit,IC443-003,Sulphur II,fit
+IC443-002SII.fit,IC443-002,Sulphur II,fit
+IC443-001SII.fit,IC443-001,Sulphur II,fit
+IC417SII,Unknown,Sulphur II,fit
+IC417-007SII.fit,IC417-007,Sulphur II,fit
+IC417-006SII.fit,IC417-006,Sulphur II,fit
+IC417-005SII.fit,IC417-005,Sulphur II,fit
+IC417-004SII.fit,IC417-004,Sulphur II,fit
+IC417-003SII.fit,IC417-003,Sulphur II,fit
+IC417-002SII.fit,IC417-002,Sulphur II,fit
+IC417-001SII.fit,IC417-001,Sulphur II,fit
+IC410SII,Unknown,Sulphur II,fit
+IC410-007SII.fit,IC410-007,Sulphur II,fit
+IC410-006SII.fit,IC410-006,Sulphur II,fit
+IC410-005SII.fit,IC410-005,Sulphur II,fit
+IC410-004SII.fit,IC410-004,Sulphur II,fit
+IC410-003SII.fit,IC410-003,Sulphur II,fit
+IC410-002SII.fit,IC410-002,Sulphur II,fit
+IC410-001SII.fit,IC410-001,Sulphur II,fit
+IC4053rd-011SII.fit,IC4053rd-011,Sulphur II,fit
+IC4053rd-010SII.fit,IC4053rd-010,Sulphur II,fit
+IC4053rd-009SII.fit,IC4053rd-009,Sulphur II,fit
+IC4053rd-008SII.fit,IC4053rd-008,Sulphur II,fit
+IC4053rd-007SII.fit,IC4053rd-007,Sulphur II,fit
+IC4053rd-006SII.fit,IC4053rd-006,Sulphur II,fit
+IC4053rd-005SII.fit,IC4053rd-005,Sulphur II,fit
+IC4053rd-004SII.fit,IC4053rd-004,Sulphur II,fit
+IC4053rd-003SII.fit,IC4053rd-003,Sulphur II,fit
+IC4053rd-002SII.fit,IC4053rd-002,Sulphur II,fit
+IC4053rd-001SII.fit,IC4053rd-001,Sulphur II,fit
+IC4052nd-011SII.fit,IC4052nd-011,Sulphur II,fit
+IC4052nd-010SII.fit,IC4052nd-010,Sulphur II,fit
+IC4052nd-009SII.fit,IC4052nd-009,Sulphur II,fit
+IC4052nd-008SII.fit,IC4052nd-008,Sulphur II,fit
+IC4052nd-007SII.fit,IC4052nd-007,Sulphur II,fit
+IC4052nd-006SII.fit,IC4052nd-006,Sulphur II,fit
+IC4052nd-005SII.fit,IC4052nd-005,Sulphur II,fit
+IC4052nd-004SII.fit,IC4052nd-004,Sulphur II,fit
+IC4052nd-003SII.fit,IC4052nd-003,Sulphur II,fit
+IC4052nd-002SII.fit,IC4052nd-002,Sulphur II,fit
+IC4052nd-001SII.fit,IC4052nd-001,Sulphur II,fit
+IC1848SII.fit,Unknown,Sulphur II,fit
+IC1848R-006SII.fit,IC1848R-006,Sulphur II,fit
+IC1848R-005SII.fit,IC1848R-005,Sulphur II,fit
+IC1848R-004SII.fit,IC1848R-004,Sulphur II,fit
+IC1848R-003SII.fit,IC1848R-003,Sulphur II,fit
+IC1848R-002SII.fit,IC1848R-002,Sulphur II,fit
+IC1848R-001SII.fit,IC1848R-001,Sulphur II,fit
+IC1805-002SII.fit,IC1805-002,Sulphur II,fit
+IC1805-001SII.fit,IC1805-001,Sulphur II,fit
+IC1396-SII.fit,IC1396-,Sulphur II,fit
+IC1396-006SII.fit,IC1396-006,Sulphur II,fit
+IC1396-005SII.fit,IC1396-005,Sulphur II,fit
+IC1396-004SII.fit,IC1396-004,Sulphur II,fit
+IC1396-003SII.fit,IC1396-003,Sulphur II,fit
+IC1396-002SII.fit,IC1396-002,Sulphur II,fit
+IC1396-001SII.fit,IC1396-001,Sulphur II,fit
+HeartSII,Unknown,Sulphur II,fit
+Heart-016SII.fit,Heart-016,Sulphur II,fit
+Heart-015SII.fit,Heart-015,Sulphur II,fit
+Heart-014SII.fit,Heart-014,Sulphur II,fit
+Heart-013SII.fit,Heart-013,Sulphur II,fit
+Heart-012SII.fit,Heart-012,Sulphur II,fit
+Heart-010SII.fit,Heart-010,Sulphur II,fit
+Heart-009SII.fit,Heart-009,Sulphur II,fit
+Heart-008SII.fit,Heart-008,Sulphur II,fit
+Heart-007SII.fit,Heart-007,Sulphur II,fit
+Heart-005SII.fit,Heart-005,Sulphur II,fit
+Heart-004SII.fit,Heart-004,Sulphur II,fit
+Heart-003SII.fit,Heart-003,Sulphur II,fit
+Heart-002SII.fit,Heart-002,Sulphur II,fit
+Heart-001SII.fit,Heart-001,Sulphur II,fit
+Ha-OIII-SII.fit,Ha-OIII-,Sulphur II,fit
+Ha-OIII-SII.fit,Ha-OIII-,Sulphur II,fit
+Ha-OIII-SII.fit,Ha-OIII-,Sulphur II,fit
+Ha-OIII-SII.fit,Ha-OIII-,Sulphur II,fit
+Group4SII.fit,Unknown,Sulphur II,fit
+ET-004SII.fit,ET-004,Sulphur II,fit
+ET-003SII.fit,ET-003,Sulphur II,fit
+ET-002SII.fit,ET-002,Sulphur II,fit
+ET-001SII.fit,ET-001,Sulphur II,fit
+ClawSII,Unknown,Sulphur II,fit
+Claw-003SII.fit,Claw-003,Sulphur II,fit
+Claw-002SII.fit,Claw-002,Sulphur II,fit
+Claw-001SII.fit,Claw-001,Sulphur II,fit
+CED214SII,Unknown,Sulphur II,fit
+CED214-013SII.fit,CED214-013,Sulphur II,fit
+CED214-012SII.fit,CED214-012,Sulphur II,fit
+CED214-011SII.fit,CED214-011,Sulphur II,fit
+CED214-010SII.fit,CED214-010,Sulphur II,fit
+CED214-009SII.fit,CED214-009,Sulphur II,fit
+CED214-008SII.fit,CED214-008,Sulphur II,fit
+CED214-007SII.fit,CED214-007,Sulphur II,fit
+CED214-006SII.fit,CED214-006,Sulphur II,fit
+CED214-005SII.fit,CED214-005,Sulphur II,fit
+CED214-004SII.fit,CED214-004,Sulphur II,fit
+CED214-003SII.fit,CED214-003,Sulphur II,fit
+CED214-002SII.fit,CED214-002,Sulphur II,fit
+CED214-001SII.fit,CED214-001,Sulphur II,fit
+CaveSII.fit,Unknown,Sulphur II,fit
+CaveFS78-003SII.fit,CaveFS78-003,Sulphur II,fit
+CaveFS78-002SII.fit,CaveFS78-002,Sulphur II,fit
+CaveFS78-001SII.fit,CaveFS78-001,Sulphur II,fit
+Cave2-006SII.fit,Cave2-006,Sulphur II,fit
+Cave2-005SII.fit,Cave2-005,Sulphur II,fit
+Cave2-004SII.fit,Cave2-004,Sulphur II,fit
+Cave2-003SII.fit,Cave2-003,Sulphur II,fit
+Cave2-002SII.fit,Cave2-002,Sulphur II,fit
+Cave2-001SII.fit,Cave2-001,Sulphur II,fit
+Cave07-005SII.fit,Cave07-005,Sulphur II,fit
+Cave07-004SII.fit,Cave07-004,Sulphur II,fit
+Cave07-003SII.fit,Cave07-003,Sulphur II,fit
+Cave07-002SII.fit,Cave07-002,Sulphur II,fit
+Cave07-001SII.fit,Cave07-001,Sulphur II,fit
+Cave-008SII.fit,Cave-008,Sulphur II,fit
+Cave-007SII.fit,Cave-007,Sulphur II,fit
+Cave-006SII.fit,Cave-006,Sulphur II,fit
+Cave-005SII.fit,Cave-005,Sulphur II,fit
+Cave-004SII.fit,Cave-004,Sulphur II,fit
+Cave-003SII.fit,Cave-003,Sulphur II,fit
+Cave-002SII.fit,Cave-002,Sulphur II,fit
+Cave-001SII.fit,Cave-001,Sulphur II,fit
+BubbleSII.fit,Unknown,Sulphur II,fit
+BubbleSII,Unknown,Sulphur II,fit
+Bubble-001SII.fit,Bubble-001,Sulphur II,fit
+Broom-005SII.fit,Broom-005,Sulphur II,fit
+Broom-004SII.fit,Broom-004,Sulphur II,fit
+Broom-003SII.fit,Broom-003,Sulphur II,fit
+Broom-002SII.fit,Broom-002,Sulphur II,fit
+Broom-001SII.fit,Broom-001,Sulphur II,fit
+aNGC7635-001SII.fit,aNGC7635-001,Sulphur II,fit
+allSII,all,Sulphur II,fit
+allSII,all,Sulphur II,fit
+7000SII.fit,Unknown,Sulphur II,fit
+7000SII,Unknown,Sulphur II,fit
+6995-007SII.fit,6995-007,Sulphur II,fit
+6995-006SII.fit,6995-006,Sulphur II,fit
+6995-005SII.fit,6995-005,Sulphur II,fit
+6995-004SII.fit,6995-004,Sulphur II,fit
+6995-003SII.fit,6995-003,Sulphur II,fit
+6995-002SII.fit,6995-002,Sulphur II,fit
+6995-001SII.fit,6995-001,Sulphur II,fit
+6992-006SII.fit,6992-006,Sulphur II,fit
+6992-005SII.fit,6992-005,Sulphur II,fit
+6992-004SII.fit,6992-004,Sulphur II,fit
+6992-003SII.fit,6992-003,Sulphur II,fit
+6992-002SII.fit,6992-002,Sulphur II,fit
+6992-001SII.fit,6992-001,Sulphur II,fit
+6888SII,Unknown,Sulphur II,fit
+6888Crescent-002SII.fit,6888Crescent-002,Sulphur II,fit
+6888Crescent-001SII.fit,6888Crescent-001,Sulphur II,fit
+6888-002SII.fit,6888-002,Sulphur II,fit
+6888-001SII.fit,6888-001,Sulphur II,fit
+6820-007SII.fit,6820-007,Sulphur II,fit
+6820-006SII.fit,6820-006,Sulphur II,fit
+6820-005SII.fit,6820-005,Sulphur II,fit
+6820-004SII.fit,6820-004,Sulphur II,fit
+6820-003SII.fit,6820-003,Sulphur II,fit
+6820-002SII.fit,6820-002,Sulphur II,fit
+5070SII,Unknown,Sulphur II,fit
+5070RGBHaOIIISII.fit,5070RGBHaOIII,Sulphur II,fit
+5070-004SII.fit,5070-004,Sulphur II,fit
+5070-003SII.fit,5070-003,Sulphur II,fit
+5070-002SII.fit,5070-002,Sulphur II,fit
+5070-001SII.fit,5070-001,Sulphur II,fit
+410-006SII.fit,410-006,Sulphur II,fit
+410-005SII.fit,410-005,Sulphur II,fit
+410-004SII.fit,410-004,Sulphur II,fit
+410-003SII.fit,410-003,Sulphur II,fit
+410-002SII.fit,410-002,Sulphur II,fit
+405SII,405,Sulphur II,fit
+1848Soul-003SII.fit,1848Soul-003,Sulphur II,fit
+1848Soul-002SII.fit,1848Soul-002,Sulphur II,fit
+1848Soul-001SII.fit,1848Soul-001,Sulphur II,fit
+1848-005SII.fit,1848-005,Sulphur II,fit
+1848-004SII.fit,1848-004,Sulphur II,fit
+1848-003SII.fit,1848-003,Sulphur II,fit
+1848-002SII.fit,1848-002,Sulphur II,fit
+1848-001SII.fit,1848-001,Sulphur II,fit
+Wiz-SII-Ha-OII.fit,Wiz-SII-Ha-OII,Unknown,fit
+Veil600-Hax2.fit,Veil600-Hax2,Unknown,fit
+Veil300-SIIz.fit,Veil300-SIIz,Unknown,fit
+Veil.fit,Unknown,Unknown,fit
+val.fit,val,Unknown,fit
+TWOcolour.fit,TWOcolour,Unknown,fit
+T-LRGBdp.fit,T-LRGBdp,Unknown,fit
+T-LRGB3.fit,T-LRGB3,Unknown,fit
+T-LRGB2.fit,T-LRGB2,Unknown,fit
+third.fit,third,Unknown,fit
+TadsICC410,TadsICC410,Unknown,fit
+stackS.fit,stackS,Unknown,fit
+stack-RGBpoint,stack-RGBpoint,Unknown,fit
+stack-RGBddp.fit,stack-RGBddp,Unknown,fit
+stackRGBddp.fit,stackRGBddp,Unknown,fit
+stack-RGB22.fit,stack-RGB22,Unknown,fit
+stack-RGB121HaB1.fit,stack-RGB121HaB1,Unknown,fit
+stackLRGBddp.fit,stackLRGBddp,Unknown,fit
+stack-LRGB3.fit,stack-LRGB3,Unknown,fit
+stackddp.fit,stackddp,Unknown,fit
+stackddp.fit,stackddp,Unknown,fit
+stackddp.fit,stackddp,Unknown,fit
+stack2.fit,stack2,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+stack.fit,Unknown,Unknown,fit
+Soul-IC1848total,Soul-IC1848total,Unknown,fit
+sim147-300ha.fit,sim147-300ha,Unknown,fit
+SIIstackx8,SIIstackx8,Unknown,fit
+SIIstack.fit,Unknown,Unknown,fit
+SIIstack.fit,Unknown,Unknown,fit
+SIIstack.fit,Unknown,Unknown,fit
+SIIstack.fit,Unknown,Unknown,fit
+SIIstack.fit,Unknown,Unknown,fit
+SIIstack.fit,Unknown,Unknown,fit
+SIIstack,Unknown,Unknown,fit
+SIIstack,Unknown,Unknown,fit
+SIIstack,Unknown,Unknown,fit
+SII-RGBtot,SII-RGBtot,Unknown,fit
+SII-RGBtot,SII-RGBtot,Unknown,fit
+shox3.fit,shox3,Unknown,fit
+SHO-RGBddp.fit,SHO-RGBddp,Unknown,fit
+SHO-RGBddp.fit,SHO-RGBddp,Unknown,fit
+SHOddp.fit,SHOddp,Unknown,fit
+SHOddp.fit,SHOddp,Unknown,fit
+SHOddp.fit,SHOddp,Unknown,fit
+SHOdddp.fit,SHOdddp,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+sho.fit,sho,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+SHO.fit,Unknown,Unknown,fit
+Sh2---stack.fit,Sh2---stack,Unknown,fit
+second.fit,second,Unknown,fit
+Rstack,Rstack,Unknown,fit
+Rstack,Rstack,Unknown,fit
+Rstack,Rstack,Unknown,fit
+Rstack,Rstack,Unknown,fit
+RGB-shototalddp.fit,RGB-shototalddp,Unknown,fit
+RGB-shototal.fit,RGB-shototal,Unknown,fit
+RGBshoddp.fit,RGBshoddp,Unknown,fit
+RGBSHOddp.fit,RGBSHOddp,Unknown,fit
+RGBSHOddp.fit,RGBSHOddp,Unknown,fit
+RGBsho2ddp.fit,RGBsho2ddp,Unknown,fit
+RGBsho2.fit,RGBsho2,Unknown,fit
+RGBSHO.fit,RGBSHO,Unknown,fit
+RGBSHO.fit,RGBSHO,Unknown,fit
+RGBSHO.fit,RGBSHO,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBsho,RGBsho,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBSHO,RGBSHO,Unknown,fit
+RGBSH2O.fit,RGBSH2O,Unknown,fit
+RGBS2HO.fit,RGBS2HO,Unknown,fit
+RGBHOSddp.fit,RGBHOSddp,Unknown,fit
+RGBHOS.fit,RGBHOS,Unknown,fit
+RGBHOS.fit,RGBHOS,Unknown,fit
+RGBHOS.fit,RGBHOS,Unknown,fit
+RGBHOS.fit,RGBHOS,Unknown,fit
+RGBHOS.fit,RGBHOS,Unknown,fit
+RGBddp.fit,RGBddp,Unknown,fit
+RGBddp.fit,RGBddp,Unknown,fit
+RGB2.fit,RGB2,Unknown,fit
+RGB-1.fit,RGB-1,Unknown,fit
+red.fit,red,Unknown,fit
+pacmanoiii,pacmanoiii,Unknown,fit
+OIIITotal.fit,OIIITotal,Unknown,fit
+OIIIstackddp.fit,OIIIstackddp,Unknown,fit
+OIIIstack.fit,OIIIstack,Unknown,fit
+OIIIstack.fit,OIIIstack,Unknown,fit
+OIIIstack.fit,OIIIstack,Unknown,fit
+OIIIstack.fit,OIIIstack,Unknown,fit
+OIIIstack.fit,OIIIstack,Unknown,fit
+OIIIstack.fit,OIIIstack,Unknown,fit
+OIIIstack,OIIIstack,Unknown,fit
+OIIIstack,OIIIstack,Unknown,fit
+OIIIstack,OIIIstack,Unknown,fit
+OII.fit,OII,Unknown,fit
+NGC-Green.fit,NGC-Green,Unknown,fit
+NGC7000Hastack,NGC7000Hastack,Unknown,fit
+NGC6820new,NGC6820new,Unknown,fit
+NGC6820new,NGC6820new,Unknown,fit
+NGC6820new,NGC6820new,Unknown,fit
+NGC2903L600sB2.fit,NGC2903L600sB2,Unknown,fit
+NGC2903L600sB1,NGC2903L600sB1,Unknown,fit
+NGC1499tot,NGC1499tot,Unknown,fit
+NGC1499S2.fit,NGC1499S2,Unknown,fit
+NGC1499O3.fit,NGC1499O3,Unknown,fit
+NGC1499.fit,Unknown,Unknown,fit
+newSHOddp.fit,newSHOddp,Unknown,fit
+newSHO.fit,newSHO,Unknown,fit
+MN190.fit,MN190,Unknown,fit
+MF-001HaB1.fit,MF-001HaB1,Unknown,fit
+maxval.fit,maxval,Unknown,fit
+MaxVal.fit,MaxVal,Unknown,fit
+M97stack.fit,M97stack,Unknown,fit
+m82-81.fit,m82-81,Unknown,fit
+M81,Unknown,Unknown,fit
+M63.fit,Unknown,Unknown,fit
+M51stack.fit,M51stack,Unknown,fit
+M51-stack,M51-stack,Unknown,fit
+m51R-600.fit,m51R-600,Unknown,fit
+M33-L60s.fit,M33-L60s,Unknown,fit
+m31xxx.fit,m31xxx,Unknown,fit
+m31.fit,m31,Unknown,fit
+M27-ha.fit,M27-ha,Unknown,fit
+M27-003O.fit,M27-003O,Unknown,fit
+M27-003H.fit,M27-003H,Unknown,fit
+M27-002O.fit,M27-002O,Unknown,fit
+M27-002H.fit,M27-002H,Unknown,fit
+M27-001O.fit,M27-001O,Unknown,fit
+M27-001H.fit,M27-001H,Unknown,fit
+M13stack,M13stack,Unknown,fit
+M13stack,M13stack,Unknown,fit
+m106stack,m106stack,Unknown,fit
+m106b-005.fit,m106b-005,Unknown,fit
+m106b-004.fit,m106b-004,Unknown,fit
+m106b-003.fit,m106b-003,Unknown,fit
+m106b-002.fit,m106b-002,Unknown,fit
+m106b-001.fit,m106b-001,Unknown,fit
+M100.fit,M100,Unknown,fit
+Lstack,Lstack,Unknown,fit
+Lstack,Lstack,Unknown,fit
+Lstack,Lstack,Unknown,fit
+Lsatck,Lsatck,Unknown,fit
+Lsatck,Lsatck,Unknown,fit
+Lsatck,Lsatck,Unknown,fit
+LRGBold,LRGBold,Unknown,fit
+LRGBddp.fit,LRGBddp,Unknown,fit
+LRGBddp.fit,LRGBddp,Unknown,fit
+LRGBddp.fit,LRGBddp,Unknown,fit
+LRGBddp.fit,LRGBddp,Unknown,fit
+LRGBddp.fit,LRGBddp,Unknown,fit
+LeoTrio,Unknown,Unknown,fit
+Leotrio,Leotrio,Unknown,fit
+Lddp.fit,Lddp,Unknown,fit
+LB1.fit,LB1,Unknown,fit
+Jems.fit,Jems,Unknown,fit
+Jellyfish.fit,Jellyfish,Unknown,fit
+IC443Jellyfish,IC443Jellyfish,Unknown,fit
+IC443Jellyfish,IC443Jellyfish,Unknown,fit
+IC410SIII,IC410SIII,Unknown,fit
+IC410new,IC410new,Unknown,fit
+IC410new,IC410new,Unknown,fit
+IC410new,IC410new,Unknown,fit
+IC1848-007HaB1.fit,IC1848-007HaB1,Unknown,fit
+IC1848-006HaB1.fit,IC1848-006HaB1,Unknown,fit
+IC1848-005HaB1.fit,IC1848-005HaB1,Unknown,fit
+IC1848-004HaB1.fit,IC1848-004HaB1,Unknown,fit
+IC1396-OIIIaligned.fit,IC1396-OIIIaligned,Unknown,fit
+IC1396-Ha2ddp.fit,IC1396-Ha2ddp,Unknown,fit
+IC1396-Ha2aligned.fit,IC1396-Ha2aligned,Unknown,fit
+IC1396-Ha2.fit,IC1396-Ha2,Unknown,fit
+IC1318Ha600s.fit,IC1318Ha600s,Unknown,fit
+HSOxx-Combined.fit,HSOxx-Combined,Unknown,fit
+HSO.fit,HSO,Unknown,fit
+HOSddp.fit,HOSddp,Unknown,fit
+HOSddp.fit,HOSddp,Unknown,fit
+hosddp.fit,hosddp,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+hos.fit,hos,Unknown,fit
+HOS.fit,HOS,Unknown,fit
+HeartSIIx4.fit,HeartSIIx4,Unknown,fit
+HaTotal.fit,HaTotal,Unknown,fit
+Hastackddp.fit,Hastackddp,Unknown,fit
+Hastackddp.fit,Hastackddp,Unknown,fit
+Hastackddp.fit,Hastackddp,Unknown,fit
+Hastackddp.fit,Hastackddp,Unknown,fit
+Hastack2.fit,Hastack2,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+HaStack.fit,HaStack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack.fit,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+HaStack,HaStack,Unknown,fit
+HaStack,HaStack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hastack,Hastack,Unknown,fit
+Hasatck.fit,Hasatck,Unknown,fit
+Ha-OIII-SIIddp.fit,Ha-OIII-SIIddp,Unknown,fit
+Haddp.fit,Haddp,Unknown,fit
+Haddp.fit,Haddp,Unknown,fit
+Hacombined.fit,Unknown,Unknown,fit
+Hacombined.fit,Unknown,Unknown,fit
+Ha1.fit,Ha1,Unknown,fit
+H9andFLI.fit,H9andFLI,Unknown,fit
+guidingprobs.fit,guidingprobs,Unknown,fit
+Gstack,Gstack,Unknown,fit
+Gstack,Gstack,Unknown,fit
+Gstack,Gstack,Unknown,fit
+Group4.fit,Unknown,Unknown,fit
+Group2.fit,Unknown,Unknown,fit
+green.fit,green,Unknown,fit
+graph.fit,graph,Unknown,fit
+FS78-003HaB1.fit,FS78-003HaB1,Unknown,fit
+FS78-002HaB1.fit,FS78-002HaB1,Unknown,fit
+FS78-001HaB1.fit,FS78-001HaB1,Unknown,fit
+f5-3stack,f5-3stack,Unknown,fit
+f5-3stack,f5-3stack,Unknown,fit
+f5-3stack,f5-3stack,Unknown,fit
+etoiii,etoiii,Unknown,fit
+etoiii,etoiii,Unknown,fit
+ddp.fit,ddp,Unknown,fit
+daylight.fit,daylight,Unknown,fit
+Crescentstack.fit,Crescentstack,Unknown,fit
+Copyof,Copyof,Unknown,fit
+Copyof,Copyof,Unknown,fit
+Copyof,Copyof,Unknown,fit
+ConeNGC,ConeNGC,Unknown,fit
+ConeNGC,ConeNGC,Unknown,fit
+ConeNGC,ConeNGC,Unknown,fit
+combined.fit,Unknown,Unknown,fit
+com.fit,Unknown,Unknown,fit
+com.fit,Unknown,Unknown,fit
+com.fit,Unknown,Unknown,fit
+Cocoon-RGBcrop.fit,Cocoon-RGBcrop,Unknown,fit
+cocoon2-600s.fit,cocoon2-600s,Unknown,fit
+cocoon.fit,cocoon,Unknown,fit
+Cluster-RGBddp.fit,Cluster-RGBddp,Unknown,fit
+CCDImage,CCDImage,Unknown,fit
+CCDImage,CCDImage,Unknown,fit
+CCDImage,CCDImage,Unknown,fit
+CCDImage,CCDImage,Unknown,fit
+Cave2total,Cave2total,Unknown,fit
+Cave2total,Cave2total,Unknown,fit
+Cave2total,Cave2total,Unknown,fit
+Cave2-00XHa-Combined.fit,Cave2-00XHa-Combined,Unknown,fit
+Cave2-001SII-Combined.fit,Cave2-001SII-Combined,Unknown,fit
+Cave2-001OIII-Combined.fit,Cave2-001OIII-Combined,Unknown,fit
+Californianeb,Californianeb,Unknown,fit
+CaliforiaNeb,CaliforiaNeb,Unknown,fit
+C30-0105B2.fit,C30-0105B2,Unknown,fit
+C30-01010B2.fit,C30-01010B2,Unknown,fit
+C30-0095B2.fit,C30-0095B2,Unknown,fit
+C30-00910B2.fit,C30-00910B2,Unknown,fit
+C30-0085B2.fit,C30-0085B2,Unknown,fit
+C30-00810B2.fit,C30-00810B2,Unknown,fit
+C30-0075B2.fit,C30-0075B2,Unknown,fit
+C30-00710B2.fit,C30-00710B2,Unknown,fit
+C30-0065B2.fit,C30-0065B2,Unknown,fit
+C30-00610B2.fit,C30-00610B2,Unknown,fit
+C30-0055B2.fit,C30-0055B2,Unknown,fit
+C30-00510B2.fit,C30-00510B2,Unknown,fit
+C30-0045B2.fit,C30-0045B2,Unknown,fit
+C30-00410B2.fit,C30-00410B2,Unknown,fit
+C30-0035B2.fit,C30-0035B2,Unknown,fit
+C30-00310B2.fit,C30-00310B2,Unknown,fit
+C30-0025B2.fit,C30-0025B2,Unknown,fit
+C30-00210B2.fit,C30-00210B2,Unknown,fit
+C30-0015B2.fit,C30-0015B2,Unknown,fit
+C30-00110B2.fit,C30-00110B2,Unknown,fit
+Bubbletot,Bubbletot,Unknown,fit
+Bubbletot,Bubbletot,Unknown,fit
+Bstack,Bstack,Unknown,fit
+Bstack,Bstack,Unknown,fit
+Broom2.fit,Broom2,Unknown,fit
+Broom.fit,Unknown,Unknown,fit
+blue.fit,blue,Unknown,fit
+Bicol.fit,Bicol,Unknown,fit
+bIC4067Pelican.fit,bIC4067Pelican,Unknown,fit
+B1-LRGBddp.fit,B1-LRGBddp,Unknown,fit
+B1ddp.fit,B1ddp,Unknown,fit
+B1clouds.fit,B1clouds,Unknown,fit
+B14.fit,B14,Unknown,fit
+B1-2.fit,B1-2,Unknown,fit
+B1.fit,Unknown,Unknown,fit
+B1.fit,Unknown,Unknown,fit
+B1.fit,Unknown,Unknown,fit
+B1.fit,Unknown,Unknown,fit
+B1.fit,Unknown,Unknown,fit
+APM107prime,APM107prime,Unknown,fit
+alphaSHO,alphaSHO,Unknown,fit
+alpha.fit,alpha,Unknown,fit
+allstack,allstack,Unknown,fit
+all.fit,all,Unknown,fit
+aligned.fit,aligned,Unknown,fit
+aligned.fit,aligned,Unknown,fit
+9_3326x2504_Bin1x1_Temp-30C_ExpTime300s.fit,9_3326x2504_Bin1x1_Temp-30C_ExpTime300s,Unknown,fit
+800.fit,800,Unknown,fit
+8_3326x2504_Bin1x1_Temp-30C_ExpTime1200s.fit,8_3326x2504_Bin1x1_Temp-30C_ExpTime1200s,Unknown,fit
+7000SHO.fit,7000SHO,Unknown,fit
+7000RGBred.fit,7000RGBred,Unknown,fit
+7000Ha600s3.fit,7000Ha600s3,Unknown,fit
+7000Ha600s2.fit,7000Ha600s2,Unknown,fit
+7000Ha600s.fit,7000Ha600s,Unknown,fit
+6543last,6543last,Unknown,fit
+60sLB1.fit,60sLB1,Unknown,fit
+600sLB1.fit,600sLB1,Unknown,fit
+600sHaB1.fit,600sHaB1,Unknown,fit
+600s2HaB1.fit,600s2HaB1,Unknown,fit
+6_3326x2504_Bin1x1_Temp-30C_ExpTime600s.fit,6_3326x2504_Bin1x1_Temp-30C_ExpTime600s,Unknown,fit
+5-Ha600s.fit,5-Ha600s,Unknown,fit
+50sLB1.fit,50sLB1,Unknown,fit
+50s,50s,Unknown,fit
+5070SIIHaOIIstack2-1-3ddp.fit,5070SIIHaOIIstack2-1-3ddp,Unknown,fit
+5070SIIHaOIIstack2-1-3.fit,5070SIIHaOIIstack2-1-3,Unknown,fit
+400sec.fit,400sec,Unknown,fit
+4_3326x2504_Bin1x1_Temp-30C_ExpTime300s.fit,4_3326x2504_Bin1x1_Temp-30C_ExpTime300s,Unknown,fit
+3SHO.fit,3SHO,Unknown,fit
+3-Ha600s.fit,3-Ha600s,Unknown,fit
+3-Ha600s.fit,3-Ha600s,Unknown,fit
+300sLB1.fit,300sLB1,Unknown,fit
+300sb1.fit,300sb1,Unknown,fit
+300s.fit,300s,Unknown,fit
+300Lstack.fit,300Lstack,Unknown,fit
+3_3326x2504_Bin1x1_Temp-30C_ExpTime1200s.fit,3_3326x2504_Bin1x1_Temp-30C_ExpTime1200s,Unknown,fit
+2SHO.fit,2SHO,Unknown,fit
+2-Ha600s.fit,2-Ha600s,Unknown,fit
+2903LRGBddp.fit,2903LRGBddp,Unknown,fit
+2264HaStackddp.fit,2264HaStackddp,Unknown,fit
+2264HaStack.fit,2264HaStack,Unknown,fit
+2_3326x2504_Bin1x1_Temp-30C_ExpTime0ms.fit,2_3326x2504_Bin1x1_Temp-30C_ExpTime0ms,Unknown,fit
