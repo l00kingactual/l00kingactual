@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSV Data Interface</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/5.0.0-beta1/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>CSV Data Interface</h1>
+        <h2>Metadata</h2>
+        <ul>
+            {% for row in metadata %}
+                <li>ID: {{ row['ID'] }}, Table: {{ row['table'] }}, Fields: {{ row['fields'] }}</li>
+            {% endfor %}
+        </ul>
+        <h2>MySQL Queries</h2>
+        <ul>
+            {% for query in queries %}
+                <li>{{ query }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>

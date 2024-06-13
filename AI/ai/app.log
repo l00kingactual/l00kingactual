@@ -1,0 +1,260 @@
+INFO:root:Current Working Directory: C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai
+INFO:root:The file exists at C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\playground_data\txt\wikiURLSearch.txt
+INFO:root:Read URLs: ['https://en.wikipedia.org/wiki/List_of_galaxies', 'https://en.wikipedia.org/wiki/List_of_spiral_galaxies', 'https://en.wikipedia.org/wiki/List_of_ring_galaxies', 'https://en.wikipedia.org/wiki/List_of_polar-ring_galaxies', 'https://en.wikipedia.org/wiki/List_of_quasars', 'https://en.wikipedia.org/wiki/List_of_largest_galaxies', 'https://en.wikipedia.org/wiki/List_of_nearest_galaxies', 'https://en.wikipedia.org/wiki/List_of_galaxies_with_richest_globular_cluster_systems', 'https://en.wikipedia.org/wiki/List_of_galaxy_groups_and_clusters', 'https://en.wikipedia.org/wiki/Supercluster#List_of_superclusters', 'https://en.wikipedia.org/wiki/Galaxy_filament#List', 'https://en.wikipedia.org/wiki/List_of_black_holes', 'https://en.wikipedia.org/wiki/List_of_voids', 'https://en.wikipedia.org/wiki/List_of_open_clusters', 'https://en.wikipedia.org/wiki/List_of_globular_clusters', 'https://en.wikipedia.org/wiki/List_of_Solar_System_objects', 'https://en.wikipedia.org/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System', 'https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size', 'https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size', 'https://en.wikipedia.org/wiki/Lists_of_geological_features_of_the_Solar_System', 'https://en.wikipedia.org/wiki/List_of_natural_satellites', 'https://en.wikipedia.org/wiki/Lists_of_small_Solar_System_bodies', 'https://en.wikipedia.org/wiki/Lists_of_comets', 'https://en.wikipedia.org/wiki/List_of_meteor_showers', 'https://en.wikipedia.org/wiki/List_of_minor_planets', 'https://en.wikipedia.org/wiki/List_of_exceptional_asteroids', 'https://en.wikipedia.org/wiki/List_of_minor_planet_moons', 'https://en.wikipedia.org/wiki/List_of_damocloids', 'https://en.wikipedia.org/wiki/List_of_centaurs_(small_Solar_System_bodies)', 'https://en.wikipedia.org/wiki/List_of_trans-Neptunian_objects', 'https://en.wikipedia.org/wiki/List_of_unnumbered_minor_planets', 'https://en.wikipedia.org/wiki/Dwarf_planet#Recognized', 'https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets', 'https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs', 'https://en.wikipedia.org/wiki/List_of_brightest_stars', 'https://en.wikipedia.org/wiki/List_of_hottest_stars', 'https://en.wikipedia.org/wiki/List_of_nearest_bright_stars', 'https://en.wikipedia.org/wiki/List_of_most_luminous_stars', 'https://en.wikipedia.org/wiki/List_of_most_massive_stars', 'https://en.wikipedia.org/wiki/List_of_largest_known_stars', 'https://en.wikipedia.org/wiki/List_of_smallest_stars', 'https://en.wikipedia.org/wiki/List_of_oldest_stars', 'https://en.wikipedia.org/wiki/List_of_stars_with_proplyds', 'https://en.wikipedia.org/wiki/List_of_variable_stars', 'https://en.wikipedia.org/wiki/List_of_semiregular_variable_stars', 'https://en.wikipedia.org/wiki/List_of_stars_that_dim_oddly', 'https://en.wikipedia.org/wiki/List_of_X-ray_pulsars', 'https://en.wikipedia.org/wiki/List_of_brown_dwarfs', 'https://en.wikipedia.org/wiki/List_of_supernovae', 'https://en.wikipedia.org/wiki/List_of_supernova_remnants', 'https://en.wikipedia.org/wiki/List_of_gamma-ray_bursts', 'https://en.wikipedia.org/wiki/List_of_white_dwarfs', 'https://en.wikipedia.org/wiki/List_of_stellar_streams', 'https://en.wikipedia.org/wiki/List_of_nearby_stellar_associations_and_moving_groups', 'https://en.wikipedia.org/wiki/Lists_of_nebulae', 'https://en.wikipedia.org/wiki/List_of_dark_nebulae', 'https://en.wikipedia.org/wiki/List_of_diffuse_nebulae', 'https://en.wikipedia.org/wiki/List_of_planetary_nebulae', 'https://en.wikipedia.org/wiki/List_of_protoplanetary_nebulae', 'https://en.wikipedia.org/wiki/List_of_largest_nebulae', 'https://en.wikipedia.org/wiki/List_of_satellite_galaxies_of_the_Milky_Way', 'https://en.wikipedia.org/wiki/List_of_Andromeda%27s_satellite_galaxies', 'https://en.wikipedia.org/wiki/List_of_Triangulum%27s_suspected_satellite_galaxies', 'https://en.wikipedia.org/wiki/List_of_Abell_clusters', 'https://en.wikipedia.org/wiki/List_of_galaxy_filaments', 'https://en.wikipedia.org/wiki/Large_quasar_group#List_of_LQGs', 'https://en.wikipedia.org/wiki/List_of_most_massive_black_holes', 'https://en.wikipedia.org/wiki/List_of_nearest_known_black_holes', 'https://en.wikipedia.org/wiki/List_of_largest_cosmic_structures#List_of_largest_voids', 'https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit#List_of_the_most_massive_neutron_stars', 'https://en.wikipedia.org/wiki/List_of_multiplanetary_systems', 'https://en.wikipedia.org/wiki/List_of_Messier_objects', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(1-1000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(1001-2000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(2001-3000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(3001-4000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(4001-5000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(5001-6000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(6001-7000)', 'https://en.wikipedia.org/wiki/List_of_NGC_objects_(7001-7840)']
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_galaxies
+INFO:root:Found 22 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_spiral_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_spiral_galaxies
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_ring_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_ring_galaxies
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_polar-ring_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_polar-ring_galaxies
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_quasars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_quasars
+INFO:root:Found 19 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_largest_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_largest_galaxies
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_nearest_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_nearest_galaxies
+INFO:root:Found 4 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_galaxies_with_richest_globular_cluster_systems
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_galaxies_with_richest_globular_cluster_systems
+INFO:root:Found 1 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_galaxy_groups_and_clusters
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_galaxy_groups_and_clusters
+INFO:root:Found 15 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Supercluster#List_of_superclusters
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Supercluster#List_of_superclusters
+INFO:root:Found 6 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Galaxy_filament#List
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Galaxy_filament#List
+INFO:root:Found 8 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_black_holes
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_black_holes
+INFO:root:Found 1 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_voids
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_voids
+INFO:root:Found 12 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_open_clusters
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_open_clusters
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_globular_clusters
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_globular_clusters
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Solar_System_objects
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Solar_System_objects
+INFO:root:Found 5 tables on the page.
+INFO:root:Saving table 3 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_Solar_System_objects_table_2.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System
+INFO:root:Found 14 tables on the page.
+INFO:root:Saving table 12 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_gravitationally_rounded_objects_of_the_Solar_System_table_11.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size
+INFO:root:Found 12 tables on the page.
+INFO:root:Saving table 10 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_Solar_System_objects_by_size_table_9.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Solar_System_objects_by_size
+INFO:root:Found 12 tables on the page.
+INFO:root:Saving table 10 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_Solar_System_objects_by_size_table_9.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Lists_of_geological_features_of_the_Solar_System
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Lists_of_geological_features_of_the_Solar_System
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_natural_satellites
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_natural_satellites
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Lists_of_small_Solar_System_bodies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Lists_of_small_Solar_System_bodies
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Lists_of_comets
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Lists_of_comets
+INFO:root:Found 9 tables on the page.
+INFO:root:Saving table 4 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\Lists_of_comets_table_3.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_meteor_showers
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_meteor_showers
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_minor_planets
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_minor_planets
+INFO:root:Found 22 tables on the page.
+INFO:root:Saving table 18 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_minor_planets_table_17.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_exceptional_asteroids
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_exceptional_asteroids
+INFO:root:Found 15 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_minor_planet_moons
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_minor_planet_moons
+INFO:root:Found 17 tables on the page.
+INFO:root:Saving table 15 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_minor_planet_moons_table_14.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_damocloids
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_damocloids
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_centaurs_(small_Solar_System_bodies)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_centaurs_(small_Solar_System_bodies)
+INFO:root:Found 14 tables on the page.
+INFO:root:Saving table 7 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_centaurs_(small_Solar_System_bodies)_table_6.csv
+INFO:root:Saving table 12 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_centaurs_(small_Solar_System_bodies)_table_11.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_trans-Neptunian_objects
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_trans-Neptunian_objects
+INFO:root:Found 14 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_unnumbered_minor_planets
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_unnumbered_minor_planets
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Dwarf_planet#Recognized
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Dwarf_planet#Recognized
+INFO:root:Found 19 tables on the page.
+INFO:root:Saving table 16 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\Dwarf_planet#Recognized_table_15.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_possible_dwarf_planets
+INFO:root:Found 19 tables on the page.
+INFO:root:Saving table 17 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_possible_dwarf_planets_table_16.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_nearest_stars_and_brown_dwarfs
+INFO:root:Found 38 tables on the page.
+INFO:root:Saving table 22 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_nearest_stars_and_brown_dwarfs_table_21.csv
+INFO:root:Saving table 31 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_nearest_stars_and_brown_dwarfs_table_30.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_brightest_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_brightest_stars
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_hottest_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_hottest_stars
+INFO:root:Found 4 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_nearest_bright_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_nearest_bright_stars
+INFO:root:Found 38 tables on the page.
+INFO:root:Saving table 22 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_nearest_bright_stars_table_21.csv
+INFO:root:Saving table 31 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_nearest_bright_stars_table_30.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_most_luminous_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_most_luminous_stars
+INFO:root:Found 6 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_most_massive_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_most_massive_stars
+INFO:root:Found 8 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_largest_known_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_largest_known_stars
+INFO:root:Found 9 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_smallest_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_smallest_stars
+INFO:root:Found 6 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_oldest_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_oldest_stars
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_stars_with_proplyds
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_stars_with_proplyds
+INFO:root:Found 11 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_variable_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_variable_stars
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_semiregular_variable_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_semiregular_variable_stars
+INFO:root:Found 1 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_stars_that_dim_oddly
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_stars_that_dim_oddly
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_X-ray_pulsars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_X-ray_pulsars
+INFO:root:Found 6 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_brown_dwarfs
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_brown_dwarfs
+INFO:root:Found 11 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_supernovae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_supernovae
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_supernova_remnants
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_supernova_remnants
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_gamma-ray_bursts
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_gamma-ray_bursts
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_white_dwarfs
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_white_dwarfs
+INFO:root:Found 6 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_stellar_streams
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_stellar_streams
+INFO:root:Found 6 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_nearby_stellar_associations_and_moving_groups
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_nearby_stellar_associations_and_moving_groups
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Lists_of_nebulae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Lists_of_nebulae
+INFO:root:Found 1 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_dark_nebulae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_dark_nebulae
+INFO:root:Found 0 tables on the page.
+WARNING:root:No tables found on the webpage: https://en.wikipedia.org/wiki/List_of_dark_nebulae
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_diffuse_nebulae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_diffuse_nebulae
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_planetary_nebulae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_planetary_nebulae
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_protoplanetary_nebulae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_protoplanetary_nebulae
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_largest_nebulae
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_largest_nebulae
+INFO:root:Found 8 tables on the page.
+INFO:root:Saving table 1 to C:\Users\andy\OneDrive\Documents\AstroAI\ouchAstronomy\AI\ai\playground\data\List_of_largest_nebulae_table_0.csv
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_satellite_galaxies_of_the_Milky_Way
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_satellite_galaxies_of_the_Milky_Way
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Andromeda%27s_satellite_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Andromeda%27s_satellite_galaxies
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Triangulum%27s_suspected_satellite_galaxies
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Triangulum%27s_suspected_satellite_galaxies
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Abell_clusters
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Abell_clusters
+INFO:root:Found 4 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_galaxy_filaments
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_galaxy_filaments
+INFO:root:Found 8 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Large_quasar_group#List_of_LQGs
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Large_quasar_group#List_of_LQGs
+INFO:root:Found 7 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_most_massive_black_holes
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_most_massive_black_holes
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_nearest_known_black_holes
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_nearest_known_black_holes
+INFO:root:Found 2 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_largest_cosmic_structures#List_of_largest_voids
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_largest_cosmic_structures#List_of_largest_voids
+INFO:root:Found 3 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit#List_of_the_most_massive_neutron_stars
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit#List_of_the_most_massive_neutron_stars
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_multiplanetary_systems
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_multiplanetary_systems
+INFO:root:Found 5 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_Messier_objects
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_Messier_objects
+INFO:root:Found 4 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(1-1000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(1-1000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(1001-2000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(1001-2000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(2001-3000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(2001-3000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(3001-4000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(3001-4000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(4001-5000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(4001-5000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(5001-6000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(5001-6000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(6001-7000)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(6001-7000)
+INFO:root:Found 10 tables on the page.
+INFO:root:Processing URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(7001-7840)
+INFO:root:Connecting to URL: https://en.wikipedia.org/wiki/List_of_NGC_objects_(7001-7840)
+INFO:root:Found 9 tables on the page.
