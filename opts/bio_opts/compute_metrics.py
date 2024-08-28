@@ -1,3 +1,4 @@
+import logging
 import numpy as np
 import json
 import os
@@ -9,17 +10,22 @@ from sklearn.metrics import (
     jaccard_score, r2_score
 )
 
-def compute_metrics(y_true, y_pred, y_proba, epoch_times):
+def ensure_list(value):
+    if isinstance(value, np.ndarray):
+        return value.tolist()
+    elif not isinstance(value, list):
+        return [value]
+    return value
+
+def compute_metrics(y_true, y_pred, y_proba, epoch_times, k_values, q_values, epsilon_values):
     y_true = np.array(y_true).ravel()
     y_pred = np.array(y_pred).ravel()
     
-    # Ensure y_true and y_pred contain integer values
     if y_true.dtype != int:
         y_true = y_true.astype(int)
     if y_pred.dtype != int:
         y_pred = y_pred.astype(int)
     
-    # Check if y_true or y_pred are empty
     if y_true.size == 0 or y_pred.size == 0:
         raise ValueError("Found array with 0 sample(s) (shape=(0,)) while a minimum of 1 is required.")
     
@@ -27,8 +33,12 @@ def compute_metrics(y_true, y_pred, y_proba, epoch_times):
     if y_proba.ndim == 1:
         y_proba = y_proba.reshape(-1, 1)
     
-    y_proba = y_proba / y_proba.sum(axis=1, keepdims=True)
+    # Normalize probabilities and handle division by zero
+    row_sums = y_proba.sum(axis=1, keepdims=True)
+    row_sums[row_sums == 0] = 1  # Avoid division by zero
+    y_proba = y_proba / row_sums
     
+    # Compute precision and log10 precision
     precision = precision_score(y_true, y_pred, average='weighted', zero_division=0)
     log10_precision = np.log10(precision) if precision > 0 else np.nan
 
@@ -45,7 +55,7 @@ def compute_metrics(y_true, y_pred, y_proba, epoch_times):
         "mse": mean_squared_error(y_true, y_pred),
         "mae": mean_absolute_error(y_true, y_pred),
         "conf_matrix": confusion_matrix(y_true, y_pred).tolist(),
-        "specificity": None,  # Specificity calculation can be added if required
+        "specificity": None,
         "mcc": matthews_corrcoef(y_true, y_pred),
         "kappa": cohen_kappa_score(y_true, y_pred),
         "balanced_acc": balanced_accuracy_score(y_true, y_pred),
@@ -56,7 +66,10 @@ def compute_metrics(y_true, y_pred, y_proba, epoch_times):
         "log10_pi2": log10_pi2,
         "root_c2_root_pi": root_c2_root_pi,
         "planck_time": planck_time,
-        "epoch_times": epoch_times
+        "epoch_times": epoch_times,
+        "k_values": ensure_list(k_values),
+        "q_values": ensure_list(q_values),
+        "epsilon_values": ensure_list(epsilon_values)
     }
     
     for key, value in metrics.items():
@@ -64,15 +77,13 @@ def compute_metrics(y_true, y_pred, y_proba, epoch_times):
     
     return metrics
 
+
 def save_metrics_to_json(metrics, directory='analysis/compute_metrics'):
-    # Generate a filename with the current date and time
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     filename = os.path.join(directory, f'metrics_{timestamp}.json')
     
-    # Create the directory if it does not exist
     os.makedirs(os.path.dirname(filename), exist_ok=True)
     
-    # Save the metrics to the JSON file
     with open(filename, 'w') as f:
         json.dump(metrics, f, indent=4)
     
@@ -80,7 +91,12 @@ def save_metrics_to_json(metrics, directory='analysis/compute_metrics'):
 
 def read_metrics_from_directory(directory):
     metrics_list = []
-    required_keys = ['accuracy', 'precision', 'recall', 'f1', 'logloss', 'mse', 'mae', 'mcc', 'kappa', 'balanced_acc', 'jaccard', 'r2']
+    required_keys = {
+        "accuracy", "precision", "recall", "f1", "logloss", "mse", "mae", 
+        "conf_matrix", "specificity", "mcc", "kappa", "balanced_acc", "jaccard", 
+        "r2", "log10_accuracy", "root_pi_precision", "log10_pi2", "root_c2_root_pi", 
+        "planck_time", "epoch_times", "k_values", "q_values", "epsilon_values"
+    }
     default_values = {key: 0 for key in required_keys}
 
     for root, dirs, files in os.walk(directory):
@@ -102,16 +118,3 @@ def read_metrics_from_directory(directory):
                 except Exception as e:
                     logging.error(f"Unexpected error reading JSON file {file_path}: {e}")
     return metrics_list
-
-# Example usage
-if __name__ == "__main__":
-    y_true = [0, 1, 0, 1, 1, 0]  # Example values
-    y_pred = [0, 0, 1, 1, 0, 1]  # Example values
-    y_proba = [[0.8, 0.2], [0.3, 0.7], [0.6, 0.4], [0.4, 0.6], [0.9, 0.1], [0.2, 0.8]]  # Example values
-    epoch_times = [0.1, 0.2, 0.15, 0.12, 0.18, 0.22]  # Example epoch times
-
-    metrics = compute_metrics(y_true, y_pred, y_proba, epoch_times)
-    save_metrics_to_json(metrics)
-
-    for key, value in metrics.items():
-        print(f"{key}: {value}")
