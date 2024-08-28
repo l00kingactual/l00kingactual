@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # Set precision for decimal operations
-getcontext().prec = 100
+getcontext().prec = 1000
 
 class EnhancedBitDescription:
     def __init__(self, range_min, range_max, number_bases):
@@ -110,10 +110,15 @@ def save_best_bit_description(best_bit_desc, metrics, file_prefix='best_bit_desc
         'number_bases': [str(base) for base in best_bit_desc.number_bases],
         'metrics': metrics
     }
-    os.makedirs('analysis/UQEBM', exist_ok=True)
-    with open(f'analysis/UQEBM/{file_prefix}_{current_time}.json', 'w') as file:
-        json.dump(best_bit_desc_data, file, indent=4)
-    print(f"Best bit description saved to analysis/UQEBM/{file_prefix}_{current_time}.json")
+    directory = 'analysis/UQEBM'
+    try:
+        os.makedirs(directory, exist_ok=True)
+        with open(f'{directory}/{file_prefix}_{current_time}.json', 'w') as file:
+            json.dump(best_bit_desc_data, file, indent=4)
+        print(f"Best bit description saved to {directory}/{file_prefix}_{current_time}.json")
+    except Exception as e:
+        logging.error(f"Failed to save best bit description: {e}")
+
 
 def load_previous_best(file_path):
     if os.path.exists(file_path):
@@ -149,14 +154,46 @@ def main():
     for description in layer_descriptions:
         print(f"Layer {description['layer']} range: {description['range']} quantum description: {description['quantum_description']}")
 
-    # Example true and predicted values for computing metrics
-    y_true = [0, 1, 0, 1, 1, 0]  # Example values
-    y_pred = [0, 0, 1, 1, 0, 1]  # Example values
-    y_proba = [[0.8, 0.2], [0.3, 0.7], [0.6, 0.4], [0.4, 0.6], [0.9, 0.1], [0.2, 0.8]]  # Example values
-    epoch_times = [0.1, 0.2, 0.15, 0.12, 0.18, 0.22]  # Example epoch times
+    # Complex test for UQEBM
 
-    # Compute and save metrics
-    metrics = compute_metrics(y_true, y_pred, y_proba, epoch_times)
+    # Example of more complex true and predicted values
+    # Assume a scenario with 4 classes
+    y_true = [0, 1, 2, 3, 0, 2, 1, 3, 0, 2, 1, 3]  # True labels
+    y_pred = [0, 1, 1, 3, 0, 3, 2, 3, 0, 1, 2, 2]  # Predicted labels (with some misclassifications)
+
+    # Example of predicted probabilities for each class
+    y_proba = [
+        [0.9, 0.05, 0.03, 0.02],  # High confidence in class 0
+        [0.2, 0.7, 0.05, 0.05],   # High confidence in class 1
+        [0.1, 0.5, 0.3, 0.1],     # Moderate confidence in class 1
+        [0.05, 0.1, 0.15, 0.7],   # High confidence in class 3
+        [0.85, 0.1, 0.03, 0.02],  # High confidence in class 0
+        [0.15, 0.1, 0.6, 0.15],   # Moderate confidence in class 2
+        [0.2, 0.4, 0.3, 0.1],     # Split confidence between classes 1 and 2
+        [0.05, 0.05, 0.1, 0.8],   # High confidence in class 3
+        [0.8, 0.15, 0.03, 0.02],  # High confidence in class 0
+        [0.25, 0.5, 0.2, 0.05],   # Moderate confidence in class 1
+        [0.2, 0.5, 0.25, 0.05],   # Moderate confidence in class 1
+        [0.1, 0.2, 0.6, 0.1]      # Moderate confidence in class 2
+    ]
+
+    # Example of varying epoch times for each prediction
+    epoch_times = [0.12, 0.25, 0.18, 0.15, 0.22, 0.27, 0.2, 0.19, 0.14, 0.24, 0.21, 0.23]
+
+    # Placeholder values for k, q, and epsilon based on clustering optimization
+    k_values = [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]
+    q_values = [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+    epsilon_values = [0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
+
+    # Assuming compute_metrics function is already defined, use it to compute metrics
+    metrics = compute_metrics(y_true, y_pred, y_proba, epoch_times, k_values, q_values, epsilon_values)
+
+    # Print out the metrics
+    print(f"Complex Test Metrics: {metrics}")
+
+
+    # Compute and save metrics using all required arguments
+    metrics = compute_metrics(y_true, y_pred, y_proba, epoch_times, k_values, q_values, epsilon_values)
     save_metrics_to_json(metrics)
 
     # Save best bit description

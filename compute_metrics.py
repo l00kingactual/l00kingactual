@@ -33,8 +33,12 @@ def compute_metrics(y_true, y_pred, y_proba, epoch_times, k_values, q_values, ep
     if y_proba.ndim == 1:
         y_proba = y_proba.reshape(-1, 1)
     
-    y_proba = y_proba / y_proba.sum(axis=1, keepdims=True)
+    # Normalize probabilities and handle division by zero
+    row_sums = y_proba.sum(axis=1, keepdims=True)
+    row_sums[row_sums == 0] = 1  # Avoid division by zero
+    y_proba = y_proba / row_sums
     
+    # Compute precision and log10 precision
     precision = precision_score(y_true, y_pred, average='weighted', zero_division=0)
     log10_precision = np.log10(precision) if precision > 0 else np.nan
 
@@ -72,6 +76,7 @@ def compute_metrics(y_true, y_pred, y_proba, epoch_times, k_values, q_values, ep
         print(f"{key}: {value}")
     
     return metrics
+
 
 def save_metrics_to_json(metrics, directory='analysis/compute_metrics'):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")

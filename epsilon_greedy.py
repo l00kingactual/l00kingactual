@@ -9,6 +9,42 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from compute_metrics import compute_metrics, save_metrics_to_json
 
+# Define the create_epsilon_greedy_space function
+def create_epsilon_greedy_space(start=1.0, end=0.01, decay=0.99, steps=100):
+    """
+    Create an epsilon greedy value space, simulating the decay of epsilon over time.
+    
+    Args:
+        start (float): The starting value of epsilon, typically 1.0 (full exploration).
+        end (float): The minimum value of epsilon, typically a small positive value (e.g., 0.01).
+        decay (float): The rate at which epsilon decays, typically slightly less than 1.0 (e.g., 0.99).
+        steps (int): The number of steps (or iterations) over which epsilon decays.
+    
+    Returns:
+        list: A list of epsilon values decreasing from `start` to `end`.
+    """
+    epsilon_values = []
+    epsilon = start
+    for _ in range(steps):
+        epsilon_values.append(epsilon)
+        epsilon = max(end, epsilon * decay)
+    return epsilon_values
+
+# The rest of the existing code...
+
+# Define all strategies
+def epsilon_greedy(q_table, state, epsilon=0.1):
+    if np.random.rand() < epsilon:
+        action = np.random.choice(q_table.shape[1])
+    else:
+        action = np.argmax(q_table.loc[state])
+    return action
+
+# ... [Other functions in epsilon_greedy.py remain unchanged]
+
+# You can place this function above the existing code in `epsilon_greedy.py` 19/08/2024 11:29
+
+
 # Define all strategies
 def epsilon_greedy(q_table, state, epsilon=0.1):
     if np.random.rand() < epsilon:
