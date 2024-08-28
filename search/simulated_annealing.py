@@ -5,6 +5,7 @@ from q_value_space import q_value_space
 from epsilon_value_space import epsilon_value_space
 from scipy.optimize import dual_annealing
 import logging
+import random
 
 # Sample data for testing
 X_train = np.random.rand(100, 10)
@@ -17,7 +18,24 @@ handler = logging.StreamHandler()
 handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
 logger.addHandler(handler)
 
-def simulated_annealing_optimization(input_shape, num_classes, x_train, y_train, build_fn, logger):
+def drunk_kangaroo_step(params, bounds, step_size=0.1):
+    """
+    Introduces randomness to the parameter set, simulating a 'drunk kangaroo' step.
+    """
+    new_params = []
+    for i, (param, bound) in enumerate(zip(params, bounds)):
+        if random.random() < 0.5:
+            # Random jump within a step_size fraction of the parameter's range
+            jump = (random.random() - 0.5) * step_size * (bound[1] - bound[0])
+            new_param = param + jump
+            # Ensure new_param is within bounds
+            new_param = max(bound[0], min(new_param, bound[1]))
+            new_params.append(new_param)
+        else:
+            new_params.append(param)
+    return new_params
+
+def simulated_annealing_optimization(input_shape, num_classes, x_train, y_train, build_fn, logger, kangaroo_step=True):
     def evaluate(params):
         num_layers, units_0, dropout_0, units_1, dropout_1, learning_rate, k, q, epsilon = params
         k = k_value_space[int(k)]
@@ -60,15 +78,24 @@ def simulated_annealing_optimization(input_shape, num_classes, x_train, y_train,
         (0, len(epsilon_value_space) - 1)  # epsilon
     ]
 
-    logger.debug("Starting Simulated Annealing Optimization")
+    logger.debug("Starting Simulated Annealing Optimization with Drunk Kangaroo Steps")
     result = dual_annealing(evaluate, bounds)
+
+    if kangaroo_step:
+        logger.info("Introducing Drunk Kangaroo Steps...")
+        for _ in range(10):  # Adjust the number of steps as needed
+            params = drunk_kangaroo_step(result.x, bounds)
+            new_score = evaluate(params)
+            if new_score < result.fun:  # Better solution found
+                result.x = params
+                result.fun = new_score
+                logger.info(f"New best found with Kangaroo Step: {params}, score: {-new_score}")
 
     best_params = result.x
     logger.info(f"Best Parameters: num_layers={best_params[0]}, units_0={best_params[1]}, dropout_0={best_params[2]}, "
                 f"units_1={best_params[3]}, dropout_1={best_params[4]}, learning_rate={best_params[5]}, "
                 f"k={k_value_space[int(best_params[6])]}, q={q_value_space[int(best_params[7])]}, "
-                f"epsilon={epsilon_value_space[int(best_params[8])]}")
-    logger.info(f"Best Accuracy: {-result.fun}")
+                f"epsilon={epsilon_value_space[int(best_params[8])]} with accuracy: {-result.fun}")
 
     return {
         'num_layers': int(best_params[0]),

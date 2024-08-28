@@ -7,9 +7,10 @@ from sklearn.model_selection import GridSearchCV, RandomizedSearchCV, Stratified
 from sklearn.datasets import load_iris
 from sklearn.exceptions import NotFittedError
 from datetime import datetime
+
 from compute_metrics import compute_metrics, save_metrics_to_json
-from search.bayesian import bayesian_optimization
 from neural_network import build_enhanced_nn as NeuralNetworkModel
+from search.bayesian import bayesian_optimization
 
 # Example configurations (idea space flags)
 use_cv = True
@@ -96,10 +97,10 @@ def run_search_optimization(X_train, y_train, search_strategy):
         'units_0': [400, 450, 500],
         'units_1': [300, 350, 400]
     }
-
+    
     parameter_space_size = np.prod([len(values) for values in param_grid.values()])
     search_strategy = select_search_strategy(parameter_space_size)
-
+    
     # Set up cross-validation strategy based on flags
     if use_leave_one_out:
         cv_strategy = LeaveOneOut()
