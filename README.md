@@ -1,7 +1,7 @@
 # GitHub
  [o][o] & )0u)ch idea $pace
 
-- 👋 Hi, I’m @l00kingactual
+- 👋 Hi, I’m [o][o] actual
 - 👀 I’m interested in ... Computer Science, Artificial Intelligence, machine learning, python and code developments
 - 🌱 I’m currently learning ... Bio Computing & a dissertation in stateful/stateless AI : ML
 - 💞️ I’m looking to collaborate on ... all these project ideas 💡 
